@@ -31,3 +31,42 @@ Each issue has:
 - description
 - label
 - assignee
+
+## project name: Edu-Analytics
+CSV / SQLite Database
+
+        │
+
+        ▼
+
+Python Data Processing
+
+        │
+
+        ▼
+
+Pandas + NumPy Cleaning
+
+        │
+
+        ▼
+
+SQL Queries
+
+        │
+
+        ▼
+
+KPI Calculation
+
+        │
+
+        ▼
+
+Streamlit Dashboard
+
+        │
+
+        ▼
+
+Business Insights
