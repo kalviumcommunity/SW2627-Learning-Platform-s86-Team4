@@ -1,0 +1,26 @@
+{
+    "timestamp": "2026-07-09T08:43:11.474959+00:00",
+    "filepath": "C:\\Users\\paila\\OneDrive\\Desktop\\New folder (11)\\SW2627-Learning-Platform-s86-Team4\\data\\raw\\course_data.csv",
+    "validations": {
+        "file_exists": "PASS",
+        "format": "PASS",
+        "schema": "PASS",
+        "encoding": "PASS"
+    },
+    "statistics": {
+        "rows": 5,
+        "columns": 8,
+        "file_size_mb": 0.0003,
+        "bytes": 363
+    },
+    "format": "csv",
+    "schema_details": {
+        "missing_columns": [],
+        "unexpected_columns": []
+    },
+    "encoding_details": {
+        "encoding": "ascii",
+        "confidence": 1.0
+    },
+    "status": "PASS"
+}

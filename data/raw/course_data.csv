@@ -1,0 +1,6 @@
+user_id,search_query,course_id,course_name,category,preview_clicked,enrolled,search_time
+101,Python,1,Python Bootcamp,Programming,Yes,No,2026-07-01
+102,Java,2,Java Masterclass,Programming,Yes,Yes,2026-07-01
+103,SQL,3,SQL Basics,Database,No,No,2026-07-02
+104,Python,1,Python Bootcamp,Programming,Yes,Yes,2026-07-02
+105,AI,4,Introduction to AI,AI,Yes,No,2026-07-03
