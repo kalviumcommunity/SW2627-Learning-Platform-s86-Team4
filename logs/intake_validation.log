@@ -1,0 +1,30 @@
+2026-07-09 14:04:43,496 - INFO - Starting dataset intake validation
+2026-07-09 14:04:43,497 - INFO - Validating source file exists: C:\Users\paila\OneDrive\Desktop\New folder (11)\SW2627-Learning-Platform-s86-Team4\data\raw\course_data.csv
+2026-07-09 14:04:43,498 - ERROR - Intake validation failed
+Traceback (most recent call last):
+  File "C:\Users\paila\OneDrive\Desktop\New folder (11)\SW2627-Learning-Platform-s86-Team4\scripts\validate_intake.py", line 173, in generate_intake_report
+    validate_file_exists(filepath)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\paila\OneDrive\Desktop\New folder (11)\SW2627-Learning-Platform-s86-Team4\scripts\validate_intake.py", line 62, in validate_file_exists
+    print("✓ File exists")
+    ~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\paila\AppData\Local\Python\pythoncore-3.14-64\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2713' in position 0: character maps to <undefined>
+2026-07-09 14:04:59,259 - INFO - Starting dataset intake validation
+2026-07-09 14:04:59,259 - INFO - Validating source file exists: C:\Users\paila\OneDrive\Desktop\New folder (11)\SW2627-Learning-Platform-s86-Team4\data\raw\course_data.csv
+2026-07-09 14:04:59,259 - INFO - Validating source file format: .csv
+2026-07-09 14:04:59,259 - INFO - Loading dataset with pandas
+2026-07-09 14:04:59,272 - INFO - Validating dataset schema
+2026-07-09 14:04:59,272 - INFO - Detecting source file encoding
+2026-07-09 14:04:59,273 - INFO - Collecting source dataset statistics
+2026-07-09 14:04:59,274 - INFO - Intake validation completed successfully
+2026-07-09 14:13:11,474 - INFO - Starting dataset intake validation
+2026-07-09 14:13:11,475 - INFO - Validating source file exists: C:\Users\paila\OneDrive\Desktop\New folder (11)\SW2627-Learning-Platform-s86-Team4\data\raw\course_data.csv
+2026-07-09 14:13:11,475 - INFO - Validating source file format: .csv
+2026-07-09 14:13:11,475 - INFO - Loading dataset with pandas
+2026-07-09 14:13:11,478 - INFO - Validating dataset schema
+2026-07-09 14:13:11,478 - INFO - Detecting source file encoding
+2026-07-09 14:13:11,479 - INFO - Collecting source dataset statistics
+2026-07-09 14:13:11,481 - INFO - Intake validation completed successfully
