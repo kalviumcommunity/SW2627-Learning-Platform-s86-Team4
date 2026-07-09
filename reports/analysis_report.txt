@@ -1,0 +1,8 @@
+ONLINE LEARNING PLATFORM REPORT
+========================================
+
+Total Records: 39
+Preview Clicks: 34
+Enrollments: 20
+Preview to Enrollment Conversion (%): 58.82
+Most Viewed Course: Python Basics

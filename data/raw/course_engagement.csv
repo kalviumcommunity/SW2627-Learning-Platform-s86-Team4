@@ -1,0 +1,41 @@
+user_id,course_id,course_name,category,search_query,preview_clicked,enrolled,completed,session_minutes,price,rating,date
+U001,C101,Python Basics,Programming,python,Yes,Yes,No,18,499,4.5,2026-07-01
+U002,C102,SQL Mastery,Database,sql,Yes,No,No,8,799,,2026-07-01
+U003,C103,Data Science Fundamentals,Data Science,data science,Yes,Yes,Yes,45,999,4.8,2026-07-02
+U004,C104,Machine Learning Essentials,AI,machine learning,No,No,No,3,1299,,2026-07-02
+U005,C105,Web Development Bootcamp,Web Development,web development,Yes,Yes,No,28,699,4.2,2026-07-03
+U006,C101,Python Basics,Programming, python ,yes,No,No,7,499,,2026-07-03
+U007,C106,Java Programming,Programming,java,YES,Yes,Yes,60,899,4.7,2026-07-04
+U008,C107,Cloud Computing,Cloud,aws,Yes,No,No,10,1199,,2026-07-04
+U009,C108,Cyber Security,Cyber Security,cyber security,No,No,No,2,1099,,2026-07-05
+U010,C109,UI UX Design,Design,ui ux,Yes,Yes,No,20,599,4.1,2026-07-05
+U011,C110,Excel for Analytics,Data Analytics,excel,Yes,Yes,Yes,35,0,4.6,2026-07-06
+U012,C101,Python Basics,Programming,python course,Yes,No,No,9,499,,2026-07-06
+U013,C103,Data Science Fundamentals,Data Science,data analysis,Yes,Yes,No,22,999,4.4,2026-07-07
+U014,C104,Machine Learning Essentials,AI,,Yes,No,No,15,1299,,2026-07-07
+U015,C105,Web Development Bootcamp,Web Development,html css,No,No,No,4,699,,2026-07-08
+U016,C106,Java Programming,Programming,java tutorial,Yes,Yes,No,26,899,4.3,2026-07-08
+U017,C107,Cloud Computing,Cloud,cloud computing,Yes,No,No,13,1199,,2026-07-09
+U018,C108,Cyber Security,Cyber Security,hacking,Yes,Yes,No,32,1099,4.5,2026-07-09
+U019,C109,UI UX Design,Design,figma,Yes,No,No,11,599,,2026-07-10
+U020,C110,Excel for Analytics,Data Analytics,excel dashboard,Yes,Yes,Yes,40,0,4.9,2026-07-10
+U021,C101,Python Basics,Programming,python,Yes,Yes,Yes,55,499,4.8,2026-07-11
+U022,C102,SQL Mastery,Database,sql joins,Yes,No,No,6,799,,2026-07-11
+U023,C103,Data Science Fundamentals,Data Science,pandas,Yes,Yes,Yes,48,999,4.7,2026-07-12
+U024,C104,Machine Learning Essentials,AI,deep learning,Yes,No,No,-5,1299,,2026-07-12
+U025,C105,Web Development Bootcamp,Web Development,react,Yes,Yes,No,30,699,4.4,2026-07-13
+U026,C106,Java Programming,Programming,oop java,No,No,No,3,899,,2026-07-13
+U027,C107,Cloud Computing,Cloud,azure,Yes,No,No,12,1199,,2026-07-14
+U028,C108,Cyber Security,Cyber Security,ethical hacking,Yes,Yes,Yes,46,1099,4.6,2026-07-14
+U029,C109,UI UX Design,Design,design,Yes,No,No,9,599,,2026-07-15
+U030,C110,Excel for Analytics,Data Analytics,power query,Yes,Yes,No,25,0,4.2,2026-07-15
+U031,C101,Python Basics,Programming,python beginner,Yes,No,No,7,499,,2026-07-16
+U032,C102,SQL Mastery,Database,mysql,Yes,Yes,No,27,799,4.1,2026-07-16
+U033,C103,Data Science Fundamentals,Data Science,numpy,Yes,Yes,Yes,50,999,4.9,2026-07-17
+U034,C104,Machine Learning Essentials,AI,ai,No,No,No,2,1299,,2026-07-17
+U035,C105,Web Development Bootcamp,Web Development,javascript,Yes,No,No,14,699,,2026-07-18
+U036,C106,Java Programming,Programming,java,Yes,Yes,Yes,52,899,4.8,2026-07-18
+U037,C107,Cloud Computing,Cloud,aws cloud,Yes,No,No,8,1199,,2026-07-19
+U038,C108,Cyber Security,Cyber Security,network security,Yes,Yes,No,29,1099,4.4,2026-07-19
+U039,C109,UI UX Design,Design,ui design,Yes,No,No,10,599,,2026-07-20
+U040,C110,Excel for Analytics,Data Analytics,excel,Yes,Yes,Yes,38,0,4.7,2026-07-20

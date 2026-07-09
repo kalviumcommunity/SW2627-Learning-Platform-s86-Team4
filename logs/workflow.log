@@ -1,0 +1,17 @@
+2026-07-09 11:00:17,472 - INFO - ==================================================
+2026-07-09 11:00:17,473 - INFO - Application Started
+2026-07-09 11:00:17,475 - INFO - Dataset loaded successfully.
+2026-07-09 11:00:17,475 - INFO - Rows: 40
+2026-07-09 11:00:17,475 - INFO - Columns: 12
+2026-07-09 11:00:17,475 - INFO - Starting data cleaning...
+2026-07-09 11:00:17,477 - INFO - Duplicate rows removed: 0
+2026-07-09 11:00:17,480 - INFO - Whitespace removed.
+2026-07-09 11:00:17,483 - INFO - Standardized Yes/No values.
+2026-07-09 11:00:17,483 - INFO - Missing values handled.
+2026-07-09 11:00:17,486 - INFO - Data types converted.
+2026-07-09 11:00:17,487 - INFO - Invalid records removed.
+2026-07-09 11:00:17,487 - INFO - Rows before cleaning : 40
+2026-07-09 11:00:17,488 - INFO - Rows after cleaning  : 39
+2026-07-09 11:00:17,491 - INFO - Cleaned dataset saved at data/processed/clean_course_engagement.csv
+2026-07-09 11:00:17,492 - INFO - Report saved at reports/analysis_report.txt
+2026-07-09 11:00:17,492 - INFO - Application Completed Successfully
