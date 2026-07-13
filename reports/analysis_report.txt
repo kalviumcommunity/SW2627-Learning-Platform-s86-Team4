@@ -2,7 +2,48 @@ ONLINE LEARNING PLATFORM REPORT
 ========================================
 
 Total Records: 39
+
 Preview Clicks: 34
+
 Enrollments: 20
+
 Preview to Enrollment Conversion (%): 58.82
+
 Most Viewed Course: Python Basics
+
+Type Enforcement:
+    before_dtypes:
+        user_id: str
+        course_id: str
+        course_name: str
+        category: str
+        search_query: str
+        preview_clicked: str
+        enrolled: str
+        completed: str
+        session_minutes: int64
+        price: int64
+        rating: float64
+        date: str
+    after_dtypes:
+        user_id: str
+        course_id: str
+        course_name: str
+        category: str
+        search_query: str
+        preview_clicked: boolean
+        enrolled: boolean
+        completed: boolean
+        session_minutes: int64
+        price: float64
+        rating: float64
+        date: datetime64[us]
+    conversions:
+        - preview_clicked: converted to boolean
+        - enrolled: converted to boolean
+        - completed: converted to boolean
+        - session_minutes: converted to numeric
+        - price: stripped currency symbols and converted to numeric
+        - rating: converted to numeric
+        - date: parsed with explicit %Y-%m-%d format
+

@@ -49,3 +49,39 @@
 2026-07-09 11:57:50,158 - INFO - Cleaned dataset saved at data/processed/clean_course_engagement.csv
 2026-07-09 11:57:50,159 - INFO - Report saved at reports/analysis_report.txt
 2026-07-09 11:57:50,160 - INFO - Application Completed Successfully
+2026-07-13 14:55:02,216 - INFO - ==================================================
+2026-07-13 14:55:02,217 - INFO - Application Started
+2026-07-13 14:55:02,232 - INFO - Dataset loaded successfully.
+2026-07-13 14:55:02,232 - INFO - Rows: 40
+2026-07-13 14:55:02,232 - INFO - Columns: 12
+2026-07-13 14:55:02,233 - INFO - Starting data cleaning...
+2026-07-13 14:55:02,246 - INFO - Duplicate rows removed: 0
+2026-07-13 14:55:02,251 - INFO - Whitespace removed.
+2026-07-13 14:55:02,255 - INFO - Standardized Yes/No values.
+2026-07-13 14:55:02,257 - INFO - Missing values handled.
+2026-07-13 14:55:02,264 - INFO - Data types converted.
+2026-07-13 14:55:02,267 - INFO - Invalid records removed.
+2026-07-13 14:55:02,267 - INFO - Rows before cleaning : 40
+2026-07-13 14:55:02,267 - INFO - Rows after cleaning  : 39
+2026-07-13 14:55:02,267 - INFO - Type conversions applied: preview_clicked: converted to boolean, enrolled: converted to boolean, completed: converted to boolean, session_minutes: converted to numeric, price: stripped currency symbols and converted to numeric, rating: converted to numeric, date: parsed with explicit %Y-%m-%d format
+2026-07-13 14:55:02,276 - INFO - Cleaned dataset saved at data/processed/clean_course_engagement.csv
+2026-07-13 14:55:02,277 - INFO - Report saved at reports/analysis_report.txt
+2026-07-13 14:55:02,278 - INFO - Application Completed Successfully
+2026-07-13 14:55:51,335 - INFO - ==================================================
+2026-07-13 14:55:51,335 - INFO - Application Started
+2026-07-13 14:55:51,339 - INFO - Dataset loaded successfully.
+2026-07-13 14:55:51,339 - INFO - Rows: 40
+2026-07-13 14:55:51,339 - INFO - Columns: 12
+2026-07-13 14:55:51,342 - INFO - Starting data cleaning...
+2026-07-13 14:55:51,345 - INFO - Duplicate rows removed: 0
+2026-07-13 14:55:51,347 - INFO - Whitespace removed.
+2026-07-13 14:55:51,348 - INFO - Standardized Yes/No values.
+2026-07-13 14:55:51,348 - INFO - Missing values handled.
+2026-07-13 14:55:51,352 - INFO - Data types converted.
+2026-07-13 14:55:51,353 - INFO - Invalid records removed.
+2026-07-13 14:55:51,354 - INFO - Rows before cleaning : 40
+2026-07-13 14:55:51,354 - INFO - Rows after cleaning  : 39
+2026-07-13 14:55:51,354 - INFO - Type conversions applied: preview_clicked: converted to boolean, enrolled: converted to boolean, completed: converted to boolean, session_minutes: converted to numeric, price: stripped currency symbols and converted to numeric, rating: converted to numeric, date: parsed with explicit %Y-%m-%d format
+2026-07-13 14:55:51,358 - INFO - Cleaned dataset saved at data/processed/clean_course_engagement.csv
+2026-07-13 14:55:51,359 - INFO - Report saved at reports/analysis_report.txt
+2026-07-13 14:55:51,359 - INFO - Application Completed Successfully

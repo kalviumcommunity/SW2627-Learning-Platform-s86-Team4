@@ -11,6 +11,35 @@ import os
 import logging
 
 
+def _count_truthy(series):
+    """
+    Count truthy values across common boolean encodings.
+    """
+    normalized = series.astype(str).str.strip().str.lower()
+    return normalized.isin({"yes", "true", "1"}).sum()
+
+
+def _write_report_value(file_handle, key, value, indent_level=0):
+    """
+    Write nested report values with readable indentation.
+    """
+    indent = "    " * indent_level
+    if isinstance(value, dict):
+        file_handle.write(f"{indent}{key}:\n")
+        for nested_key, nested_value in value.items():
+            _write_report_value(file_handle, nested_key, nested_value, indent_level + 1)
+    elif isinstance(value, list):
+        file_handle.write(f"{indent}{key}:\n")
+        for item in value:
+            if isinstance(item, dict):
+                for nested_key, nested_value in item.items():
+                    _write_report_value(file_handle, nested_key, nested_value, indent_level + 1)
+            else:
+                file_handle.write(f"{indent}    - {item}\n")
+    else:
+        file_handle.write(f"{indent}{key}: {value}\n")
+
+
 def generate_report(df):
     """
     Generates summary statistics from the cleaned dataset.
@@ -27,21 +56,9 @@ def generate_report(df):
 
     total_records = len(df)
 
-    total_previews = (
-        df["preview_clicked"]
-        .astype(str)
-        .str.lower()
-        .eq("yes")
-        .sum()
-    )
+    total_previews = _count_truthy(df["preview_clicked"])
 
-    total_enrollments = (
-        df["enrolled"]
-        .astype(str)
-        .str.lower()
-        .eq("yes")
-        .sum()
-    )
+    total_enrollments = _count_truthy(df["enrolled"])
 
     conversion_rate = 0
 
@@ -59,7 +76,8 @@ def generate_report(df):
         "Preview Clicks": total_previews,
         "Enrollments": total_enrollments,
         "Preview to Enrollment Conversion (%)": round(conversion_rate, 2),
-        "Most Viewed Course": most_viewed
+        "Most Viewed Course": most_viewed,
+        "Type Enforcement": df.attrs.get("type_enforcement", {})
     }
 
     return report
@@ -105,7 +123,8 @@ def save_report(report, report_path):
         file.write("\n\n")
 
         for key, value in report.items():
-            file.write(f"{key}: {value}\n")
+            _write_report_value(file, key, value)
+            file.write("\n")
 
     logging.info(f"Report saved at {report_path}")
 
