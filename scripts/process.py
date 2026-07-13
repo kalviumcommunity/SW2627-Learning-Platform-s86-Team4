@@ -10,6 +10,38 @@ import logging
 import pandas as pd
 
 
+def _strip_currency_and_convert(series):
+    """
+    Remove common currency formatting and convert the series to numeric.
+    """
+    cleaned = (
+        series.astype("string")
+        .str.replace(r"[$,]", "", regex=True)
+        .str.strip()
+    )
+    numeric = pd.to_numeric(cleaned, errors="coerce")
+    invalid_mask = cleaned.notna() & numeric.isna()
+    return numeric, cleaned, invalid_mask
+
+
+def _convert_to_boolean(series):
+    """
+    Convert common boolean encodings to pandas boolean values.
+    """
+    normalized = series.astype("string").str.strip().str.lower()
+    mapping = {
+        "yes": True,
+        "no": False,
+        "true": True,
+        "false": False,
+        "1": True,
+        "0": False,
+    }
+    converted = normalized.map(mapping)
+    invalid_mask = normalized.notna() & converted.isna()
+    return converted.astype("boolean"), normalized, invalid_mask
+
+
 def process_data(df):
     """
     Cleans the input DataFrame.
@@ -28,6 +60,8 @@ def process_data(df):
     logging.info("Starting data cleaning...")
 
     original_rows = len(df)
+    before_dtypes = df.dtypes.astype(str).to_dict()
+    type_changes = []
 
     # -----------------------------
     # Remove duplicate rows
@@ -89,29 +123,79 @@ def process_data(df):
     # -----------------------------
     # Convert Data Types
     # -----------------------------
+    if "preview_clicked" in df.columns:
+        df["preview_clicked"], normalized_preview, invalid_preview = _convert_to_boolean(
+            df["preview_clicked"]
+        )
+        if invalid_preview.any():
+            bad_values = sorted(normalized_preview[invalid_preview].dropna().unique().tolist())
+            raise ValueError(
+                f"Invalid boolean values found in preview_clicked: {bad_values}"
+            )
+        type_changes.append("preview_clicked: converted to boolean")
+
+    if "enrolled" in df.columns:
+        df["enrolled"], normalized_enrolled, invalid_enrolled = _convert_to_boolean(
+            df["enrolled"]
+        )
+        if invalid_enrolled.any():
+            bad_values = sorted(normalized_enrolled[invalid_enrolled].dropna().unique().tolist())
+            raise ValueError(
+                f"Invalid boolean values found in enrolled: {bad_values}"
+            )
+        type_changes.append("enrolled: converted to boolean")
+
+    if "completed" in df.columns:
+        df["completed"], normalized_completed, invalid_completed = _convert_to_boolean(
+            df["completed"]
+        )
+        if invalid_completed.any():
+            bad_values = sorted(normalized_completed[invalid_completed].dropna().unique().tolist())
+            raise ValueError(
+                f"Invalid boolean values found in completed: {bad_values}"
+            )
+        type_changes.append("completed: converted to boolean")
+
     if "session_minutes" in df.columns:
         df["session_minutes"] = pd.to_numeric(
             df["session_minutes"],
             errors="coerce"
         )
+        type_changes.append("session_minutes: converted to numeric")
 
     if "price" in df.columns:
-        df["price"] = pd.to_numeric(
-            df["price"],
-            errors="coerce"
+        df["price"], cleaned_price, invalid_price = _strip_currency_and_convert(
+            df["price"]
         )
+        df["price"] = df["price"].astype("float64")
+        if invalid_price.any():
+            bad_values = sorted(cleaned_price[invalid_price].dropna().unique().tolist())
+            raise ValueError(
+                f"Invalid currency values found in price: {bad_values}"
+            )
+        type_changes.append("price: stripped currency symbols and converted to numeric")
 
     if "rating" in df.columns:
         df["rating"] = pd.to_numeric(
             df["rating"],
             errors="coerce"
         )
+        type_changes.append("rating: converted to numeric")
 
     if "date" in df.columns:
-        df["date"] = pd.to_datetime(
+        parsed_dates = pd.to_datetime(
             df["date"],
+            format="%Y-%m-%d",
             errors="coerce"
         )
+        invalid_date_mask = parsed_dates.isna() & df["date"].notna()
+        if invalid_date_mask.any():
+            bad_values = sorted(df.loc[invalid_date_mask, "date"].astype(str).unique().tolist())
+            raise ValueError(
+                f"Invalid date values found in date (expected %Y-%m-%d): {bad_values}"
+            )
+        df["date"] = parsed_dates
+        type_changes.append("date: parsed with explicit %Y-%m-%d format")
 
     logging.info("Data types converted.")
 
@@ -127,9 +211,18 @@ def process_data(df):
     logging.info("Invalid records removed.")
 
     cleaned_rows = len(df)
+    after_dtypes = df.dtypes.astype(str).to_dict()
+
+    type_report = {
+        "before_dtypes": before_dtypes,
+        "after_dtypes": after_dtypes,
+        "conversions": type_changes,
+    }
+    df.attrs["type_enforcement"] = type_report
 
     logging.info(f"Rows before cleaning : {original_rows}")
     logging.info(f"Rows after cleaning  : {cleaned_rows}")
+    logging.info(f"Type conversions applied: {', '.join(type_changes) if type_changes else 'none'}")
 
     print("✅ Data cleaned successfully.")
 
