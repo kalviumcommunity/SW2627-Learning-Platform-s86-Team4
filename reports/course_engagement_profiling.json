@@ -1,0 +1,1000 @@
+{
+    "overview": {
+        "num_rows": 40,
+        "num_columns": 12,
+        "memory_usage": "20.69 KB",
+        "column_names": [
+            "user_id",
+            "course_id",
+            "course_name",
+            "category",
+            "search_query",
+            "preview_clicked",
+            "enrolled",
+            "completed",
+            "session_minutes",
+            "price",
+            "rating",
+            "date"
+        ],
+        "dtypes": {
+            "user_id": "str",
+            "course_id": "str",
+            "course_name": "str",
+            "category": "str",
+            "search_query": "str",
+            "preview_clicked": "str",
+            "enrolled": "str",
+            "completed": "str",
+            "session_minutes": "int64",
+            "price": "int64",
+            "rating": "float64",
+            "date": "str"
+        }
+    },
+    "missing_values": [
+        {
+            "column": "rating",
+            "null_count": 20,
+            "null_percentage": 50.0
+        },
+        {
+            "column": "search_query",
+            "null_count": 1,
+            "null_percentage": 2.5
+        },
+        {
+            "column": "user_id",
+            "null_count": 0,
+            "null_percentage": 0.0
+        },
+        {
+            "column": "course_id",
+            "null_count": 0,
+            "null_percentage": 0.0
+        },
+        {
+            "column": "course_name",
+            "null_count": 0,
+            "null_percentage": 0.0
+        },
+        {
+            "column": "category",
+            "null_count": 0,
+            "null_percentage": 0.0
+        },
+        {
+            "column": "preview_clicked",
+            "null_count": 0,
+            "null_percentage": 0.0
+        },
+        {
+            "column": "enrolled",
+            "null_count": 0,
+            "null_percentage": 0.0
+        },
+        {
+            "column": "completed",
+            "null_count": 0,
+            "null_percentage": 0.0
+        },
+        {
+            "column": "session_minutes",
+            "null_count": 0,
+            "null_percentage": 0.0
+        },
+        {
+            "column": "price",
+            "null_count": 0,
+            "null_percentage": 0.0
+        },
+        {
+            "column": "date",
+            "null_count": 0,
+            "null_percentage": 0.0
+        }
+    ],
+    "duplicates": {
+        "duplicate_count": 0,
+        "duplicate_percentage": 0.0,
+        "sample_duplicates": []
+    },
+    "numerical": {
+        "session_minutes": {
+            "count": 40,
+            "mean": 21.85,
+            "std": 17.378958689409593,
+            "min": -5.0,
+            "q25": 8.0,
+            "median": 16.5,
+            "q75": 32.75,
+            "max": 60.0,
+            "skew": 0.6151840531188805,
+            "kurtosis": -0.7373291098374497
+        },
+        "price": {
+            "count": 40,
+            "mean": 801.6,
+            "std": 372.2190422111896,
+            "min": 0.0,
+            "q25": 599.0,
+            "median": 849.0,
+            "q75": 1099.0,
+            "max": 1299.0,
+            "skew": -0.708380637189008,
+            "kurtosis": 0.00014642476654236347
+        },
+        "rating": {
+            "count": 20,
+            "mean": 4.529999999999999,
+            "std": 0.2597569714377775,
+            "min": 4.1,
+            "q25": 4.375,
+            "median": 4.55,
+            "q75": 4.725,
+            "max": 4.9,
+            "skew": -0.24664039739873148,
+            "kurtosis": -1.1316348405060364
+        }
+    },
+    "categorical": {
+        "user_id": {
+            "num_unique": 40,
+            "most_frequent_value": "U001",
+            "most_frequent_count": 1,
+            "frequency_distribution": {
+                "U001": 1,
+                "U002": 1,
+                "U003": 1,
+                "U004": 1,
+                "U005": 1,
+                "U006": 1,
+                "U007": 1,
+                "U008": 1,
+                "U009": 1,
+                "U010": 1
+            },
+            "casing_discrepancies": [],
+            "spelling_discrepancies": [],
+            "has_discrepancies": false
+        },
+        "course_id": {
+            "num_unique": 10,
+            "most_frequent_value": "C101",
+            "most_frequent_count": 5,
+            "frequency_distribution": {
+                "C101": 5,
+                "C103": 4,
+                "C104": 4,
+                "C105": 4,
+                "C106": 4,
+                "C107": 4,
+                "C108": 4,
+                "C109": 4,
+                "C110": 4,
+                "C102": 3
+            },
+            "casing_discrepancies": [],
+            "spelling_discrepancies": [],
+            "has_discrepancies": false
+        },
+        "course_name": {
+            "num_unique": 10,
+            "most_frequent_value": "Python Basics",
+            "most_frequent_count": 5,
+            "frequency_distribution": {
+                "Python Basics": 5,
+                "Data Science Fundamentals": 4,
+                "Machine Learning Essentials": 4,
+                "Web Development Bootcamp": 4,
+                "Java Programming": 4,
+                "Cloud Computing": 4,
+                "Cyber Security": 4,
+                "UI UX Design": 4,
+                "Excel for Analytics": 4,
+                "SQL Mastery": 3
+            },
+            "casing_discrepancies": [],
+            "spelling_discrepancies": [],
+            "has_discrepancies": false
+        },
+        "category": {
+            "num_unique": 9,
+            "most_frequent_value": "Programming",
+            "most_frequent_count": 9,
+            "frequency_distribution": {
+                "Programming": 9,
+                "Data Science": 4,
+                "AI": 4,
+                "Web Development": 4,
+                "Cloud": 4,
+                "Cyber Security": 4,
+                "Design": 4,
+                "Data Analytics": 4,
+                "Database": 3
+            },
+            "casing_discrepancies": [],
+            "spelling_discrepancies": [],
+            "has_discrepancies": false
+        },
+        "search_query": {
+            "num_unique": 36,
+            "most_frequent_value": "python",
+            "most_frequent_count": 2,
+            "frequency_distribution": {
+                "python": 2,
+                "java": 2,
+                "excel": 2,
+                "sql": 1,
+                "data science": 1,
+                "machine learning": 1,
+                "web development": 1,
+                " python ": 1,
+                "aws": 1,
+                "cyber security": 1
+            },
+            "casing_discrepancies": [
+                {
+                    "normalized_value": "python",
+                    "variants": {
+                        "python": 2,
+                        " python ": 1
+                    }
+                }
+            ],
+            "spelling_discrepancies": [],
+            "has_discrepancies": true
+        },
+        "preview_clicked": {
+            "num_unique": 4,
+            "most_frequent_value": "Yes",
+            "most_frequent_count": 33,
+            "frequency_distribution": {
+                "Yes": 33,
+                "No": 5,
+                "yes": 1,
+                "YES": 1
+            },
+            "casing_discrepancies": [
+                {
+                    "normalized_value": "yes",
+                    "variants": {
+                        "Yes": 33,
+                        "yes": 1,
+                        "YES": 1
+                    }
+                }
+            ],
+            "spelling_discrepancies": [],
+            "has_discrepancies": true
+        },
+        "enrolled": {
+            "num_unique": 2,
+            "most_frequent_value": "Yes",
+            "most_frequent_count": 20,
+            "frequency_distribution": {
+                "Yes": 20,
+                "No": 20
+            },
+            "casing_discrepancies": [],
+            "spelling_discrepancies": [],
+            "has_discrepancies": false
+        },
+        "completed": {
+            "num_unique": 2,
+            "most_frequent_value": "No",
+            "most_frequent_count": 30,
+            "frequency_distribution": {
+                "No": 30,
+                "Yes": 10
+            },
+            "casing_discrepancies": [],
+            "spelling_discrepancies": [],
+            "has_discrepancies": false
+        },
+        "date": {
+            "num_unique": 20,
+            "most_frequent_value": "2026-07-01",
+            "most_frequent_count": 2,
+            "frequency_distribution": {
+                "2026-07-01": 2,
+                "2026-07-02": 2,
+                "2026-07-03": 2,
+                "2026-07-04": 2,
+                "2026-07-05": 2,
+                "2026-07-06": 2,
+                "2026-07-07": 2,
+                "2026-07-08": 2,
+                "2026-07-09": 2,
+                "2026-07-10": 2
+            },
+            "casing_discrepancies": [],
+            "spelling_discrepancies": [
+                {
+                    "value1": "2026-07-01",
+                    "value2": "2026-07-02",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-01",
+                    "value2": "2026-07-03",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-01",
+                    "value2": "2026-07-04",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-01",
+                    "value2": "2026-07-05",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-01",
+                    "value2": "2026-07-06",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-01",
+                    "value2": "2026-07-07",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-01",
+                    "value2": "2026-07-08",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-01",
+                    "value2": "2026-07-09",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-01",
+                    "value2": "2026-07-10",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-01",
+                    "value2": "2026-07-11",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-01",
+                    "value2": "2026-07-12",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-01",
+                    "value2": "2026-07-13",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-01",
+                    "value2": "2026-07-14",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-01",
+                    "value2": "2026-07-15",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-01",
+                    "value2": "2026-07-16",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-01",
+                    "value2": "2026-07-17",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-01",
+                    "value2": "2026-07-18",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-01",
+                    "value2": "2026-07-19",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-01",
+                    "value2": "2026-07-20",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-02",
+                    "value2": "2026-07-03",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-02",
+                    "value2": "2026-07-04",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-02",
+                    "value2": "2026-07-05",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-02",
+                    "value2": "2026-07-06",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-02",
+                    "value2": "2026-07-07",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-02",
+                    "value2": "2026-07-08",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-02",
+                    "value2": "2026-07-09",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-02",
+                    "value2": "2026-07-10",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-02",
+                    "value2": "2026-07-12",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-02",
+                    "value2": "2026-07-20",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-03",
+                    "value2": "2026-07-04",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-03",
+                    "value2": "2026-07-05",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-03",
+                    "value2": "2026-07-06",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-03",
+                    "value2": "2026-07-07",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-03",
+                    "value2": "2026-07-08",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-03",
+                    "value2": "2026-07-09",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-03",
+                    "value2": "2026-07-10",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-03",
+                    "value2": "2026-07-13",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-03",
+                    "value2": "2026-07-20",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-04",
+                    "value2": "2026-07-05",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-04",
+                    "value2": "2026-07-06",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-04",
+                    "value2": "2026-07-07",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-04",
+                    "value2": "2026-07-08",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-04",
+                    "value2": "2026-07-09",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-04",
+                    "value2": "2026-07-10",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-04",
+                    "value2": "2026-07-14",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-04",
+                    "value2": "2026-07-20",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-05",
+                    "value2": "2026-07-06",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-05",
+                    "value2": "2026-07-07",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-05",
+                    "value2": "2026-07-08",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-05",
+                    "value2": "2026-07-09",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-05",
+                    "value2": "2026-07-10",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-05",
+                    "value2": "2026-07-15",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-05",
+                    "value2": "2026-07-20",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-06",
+                    "value2": "2026-07-07",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-06",
+                    "value2": "2026-07-08",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-06",
+                    "value2": "2026-07-09",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-06",
+                    "value2": "2026-07-10",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-06",
+                    "value2": "2026-07-16",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-06",
+                    "value2": "2026-07-20",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-07",
+                    "value2": "2026-07-08",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-07",
+                    "value2": "2026-07-09",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-07",
+                    "value2": "2026-07-10",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-07",
+                    "value2": "2026-07-17",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-07",
+                    "value2": "2026-07-20",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-08",
+                    "value2": "2026-07-09",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-08",
+                    "value2": "2026-07-10",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-08",
+                    "value2": "2026-07-18",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-08",
+                    "value2": "2026-07-20",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-09",
+                    "value2": "2026-07-10",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-09",
+                    "value2": "2026-07-19",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-09",
+                    "value2": "2026-07-20",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-10",
+                    "value2": "2026-07-11",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-10",
+                    "value2": "2026-07-12",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-10",
+                    "value2": "2026-07-13",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-10",
+                    "value2": "2026-07-14",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-10",
+                    "value2": "2026-07-15",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-10",
+                    "value2": "2026-07-16",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-10",
+                    "value2": "2026-07-17",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-10",
+                    "value2": "2026-07-18",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-10",
+                    "value2": "2026-07-19",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-10",
+                    "value2": "2026-07-20",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-11",
+                    "value2": "2026-07-12",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-11",
+                    "value2": "2026-07-13",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-11",
+                    "value2": "2026-07-14",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-11",
+                    "value2": "2026-07-15",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-11",
+                    "value2": "2026-07-16",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-11",
+                    "value2": "2026-07-17",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-11",
+                    "value2": "2026-07-18",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-11",
+                    "value2": "2026-07-19",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-12",
+                    "value2": "2026-07-13",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-12",
+                    "value2": "2026-07-14",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-12",
+                    "value2": "2026-07-15",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-12",
+                    "value2": "2026-07-16",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-12",
+                    "value2": "2026-07-17",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-12",
+                    "value2": "2026-07-18",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-12",
+                    "value2": "2026-07-19",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-12",
+                    "value2": "2026-07-20",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-13",
+                    "value2": "2026-07-14",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-13",
+                    "value2": "2026-07-15",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-13",
+                    "value2": "2026-07-16",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-13",
+                    "value2": "2026-07-17",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-13",
+                    "value2": "2026-07-18",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-13",
+                    "value2": "2026-07-19",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-14",
+                    "value2": "2026-07-15",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-14",
+                    "value2": "2026-07-16",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-14",
+                    "value2": "2026-07-17",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-14",
+                    "value2": "2026-07-18",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-14",
+                    "value2": "2026-07-19",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-15",
+                    "value2": "2026-07-16",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-15",
+                    "value2": "2026-07-17",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-15",
+                    "value2": "2026-07-18",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-15",
+                    "value2": "2026-07-19",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-16",
+                    "value2": "2026-07-17",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-16",
+                    "value2": "2026-07-18",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-16",
+                    "value2": "2026-07-19",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-17",
+                    "value2": "2026-07-18",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-17",
+                    "value2": "2026-07-19",
+                    "similarity_score": 0.9
+                },
+                {
+                    "value1": "2026-07-18",
+                    "value2": "2026-07-19",
+                    "similarity_score": 0.9
+                }
+            ],
+            "has_discrepancies": true
+        }
+    },
+    "validity": {
+        "session_minutes": {
+            "total_violations": 1,
+            "violation_percentage": 2.5,
+            "sample_violations": [
+                {
+                    "index": 23,
+                    "value": -5,
+                    "reason": "Value less than minimum threshold of 0"
+                }
+            ]
+        },
+        "date": {
+            "total_violations": 14,
+            "violation_percentage": 35.0,
+            "sample_violations": [
+                {
+                    "index": 26,
+                    "value": "2026-07-14",
+                    "reason": "Date is in the future relative to execution time (2026-07-13)"
+                },
+                {
+                    "index": 27,
+                    "value": "2026-07-14",
+                    "reason": "Date is in the future relative to execution time (2026-07-13)"
+                },
+                {
+                    "index": 28,
+                    "value": "2026-07-15",
+                    "reason": "Date is in the future relative to execution time (2026-07-13)"
+                },
+                {
+                    "index": 29,
+                    "value": "2026-07-15",
+                    "reason": "Date is in the future relative to execution time (2026-07-13)"
+                },
+                {
+                    "index": 30,
+                    "value": "2026-07-16",
+                    "reason": "Date is in the future relative to execution time (2026-07-13)"
+                }
+            ]
+        }
+    },
+    "outliers": {
+        "session_minutes": {
+            "outlier_count": 0,
+            "outlier_percentage": 0.0,
+            "lower_bound": -29.125,
+            "upper_bound": 69.875,
+            "iqr": 24.75
+        },
+        "price": {
+            "outlier_count": 0,
+            "outlier_percentage": 0.0,
+            "lower_bound": -151.0,
+            "upper_bound": 1849.0,
+            "iqr": 500.0
+        },
+        "rating": {
+            "outlier_count": 0,
+            "outlier_percentage": 0.0,
+            "lower_bound": 3.8500000000000005,
+            "upper_bound": 5.249999999999999,
+            "iqr": 0.34999999999999964
+        }
+    },
+    "quality_assessment": [
+        {
+            "type": "HIGH_MISSING_VALUES",
+            "severity": "CRITICAL",
+            "column": "rating",
+            "message": "Column contains 50.0% missing values (exceeds 30% limit)."
+        },
+        {
+            "type": "HIGH_CARDINALITY",
+            "severity": "WARNING",
+            "column": "search_query",
+            "message": "High cardinality categorical column: 36 unique values in 40 rows (ratio 0.90)."
+        },
+        {
+            "type": "VALIDITY_VIOLATIONS",
+            "severity": "CRITICAL",
+            "column": "session_minutes",
+            "message": "Column violated active validity rules in 1 records (2.5%)."
+        },
+        {
+            "type": "VALIDITY_VIOLATIONS",
+            "severity": "CRITICAL",
+            "column": "date",
+            "message": "Column violated active validity rules in 14 records (35.0%)."
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+column_name,data_type,null_count,null_percentage,is_numeric,is_categorical,mean,median,min,max,std,outlier_count,outlier_percentage,unique_values,most_frequent_value,most_frequent_count
+user_id,str,0,0.0,False,True,,,,,,,,40.0,U001,1.0
+course_id,str,0,0.0,False,True,,,,,,,,10.0,C101,5.0
+course_name,str,0,0.0,False,True,,,,,,,,10.0,Python Basics,5.0
+category,str,0,0.0,False,True,,,,,,,,9.0,Programming,9.0
+search_query,str,1,2.5,False,True,,,,,,,,36.0,python,2.0
+preview_clicked,str,0,0.0,False,True,,,,,,,,4.0,Yes,33.0
+enrolled,str,0,0.0,False,True,,,,,,,,2.0,Yes,20.0
+completed,str,0,0.0,False,True,,,,,,,,2.0,No,30.0
+session_minutes,int64,0,0.0,True,False,21.85,16.5,-5.0,60.0,17.378958689409593,0.0,0.0,,,
+price,int64,0,0.0,True,False,801.6,849.0,0.0,1299.0,372.2190422111896,0.0,0.0,,,
+rating,float64,20,50.0,True,False,4.529999999999999,4.55,4.1,4.9,0.2597569714377775,0.0,0.0,,,
+date,str,0,0.0,False,True,,,,,,,,20.0,2026-07-01,2.0
