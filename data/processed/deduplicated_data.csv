@@ -1,0 +1,40 @@
+dataset_name,enrollment_id,user_id,course_id,course_name,category,instructor,price,rating,search_query,search_time,preview_clicked,preview_time,enrollment_status,enrollment_date
+course,,,C001,Intro to Python,Programming,Alex Johnson,0.00,4.6,,,,,,
+course,,,C002,Data Analysis with Pandas,Data Science,Sana Patel,29.99,4.8,,,,,,
+course,,,C003,Web Development Basics,Web Development,Marco Ruiz,19.99,4.2,,,,,,
+course,,,C004,Machine Learning 101,Data Science,Li Wei,49.99,4.7,,,,,,
+course,,,C005,UX Design Foundations,Design,Nora Smith,24.99,4.4,,,,,,
+course,,,C006,Data Visualization with Matplotlib,Data Science,Diego Santos,14.99,4.3,,,,,,
+course,,,C007,Advanced Pandas Patterns,Data Science,Sana Patel,39.99,4.9,,,,,,
+course,,,C008,Digital Marketing Basics,Marketing,Amina Khan,9.99,4.1,,,,,,
+course,,,C009,SQL for Analysts,Data Science,Ravi Menon,19.99,4.5,,,,,,
+course,,,C010,Streamlit Dashboarding,Programming,Alex Johnson,29.99,4.6,,,,,,
+search,,U002,,,,,,,data visualization matplotlib,2026-07-10T08:15:10,,,,
+search,,U003,,,,,,,machine learning course,2026-07-10T08:17:55,,,,
+search,,U002,,,,,,,advanced pandas,2026-07-11T09:05:12,,,,
+search,,U004,,,,,,,ux design course,2026-07-11T10:20:01,,,,
+search,,U005,,,,,,,sql for data analysts,2026-07-11T11:30:21,,,,
+search,,U006,,,,,,,free python course,2026-07-12T12:02:03,,,,
+search,,U007,,,,,,,streamlit dashboard tutorial,2026-07-12T12:45:00,,,,
+search,,U001,,,,,,,python pandas tutorial,2026-07-10T08:14:10,,,,
+search,,U008,,,,,,,digital marketing basics,2026-07-12T13:10:05,,,,
+search,,U009,,,,,,,web development basics,2026-07-12T14:25:35,,,,
+search,,U010,,,,,,,machine learning course,2026-07-12T15:40:22,,,,
+preview,,U001,C002,,,,,,,,True,2026-07-10T08:13:02,,
+preview,,U002,C006,,,,,,,,True,2026-07-10T08:16:00,,
+preview,,U004,C005,,,,,,,,True,2026-07-11T10:23:05,,
+preview,,U005,C009,,,,,,,,True,2026-07-11T11:31:02,,
+preview,,U006,C001,,,,,,,,True,2026-07-12T12:03:17,,
+preview,,U007,C010,,,,,,,,True,2026-07-12T12:46:25,,
+preview,,U003,C004,,,,,,,,True,2026-07-10T08:19:40,,
+preview,,U008,C008,,,,,,,,True,2026-07-12T13:12:18,,
+preview,,U009,C003,,,,,,,,True,2026-07-12T14:26:40,,
+enrollment,E1001,U001,C002,,,,,,,,,,active,2026-07-10T09:00:00
+enrollment,E1002,U004,C005,,,,,,,,,,cancelled,2026-07-11T11:00:00
+enrollment,E1004,U006,C001,,,,,,,,,,pending,2026-07-12T13:00:00
+enrollment,E1005,U005,C009,,,,,,,,,,active,2026-07-11T12:00:00
+enrollment,E1006,U007,C010,,,,,,,,,,active,2026-07-12T13:05:00
+enrollment,E1008,U002,C007,,,,,,,,,,active,2026-07-11T12:40:00
+enrollment,E1009,U003,C004,,,,,,,,,,pending,2026-07-12T16:00:00
+enrollment,E1010,U008,C008,,,,,,,,,,active,2026-07-12T14:00:00
+enrollment,E1011,U009,C003,,,,,,,,,,cancelled,2026-07-12T15:15:00

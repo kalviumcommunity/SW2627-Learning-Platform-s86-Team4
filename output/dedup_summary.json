@@ -1,0 +1,10 @@
+{
+    "rows_before": 50,
+    "rows_after": 39,
+    "rows_removed": 11,
+    "removal_percentage": 22.0,
+    "nulls_before": 478,
+    "nulls_after": 372,
+    "duplicate_records_removed": 11,
+    "timestamp": "2026-07-13T10:15:47.713306+00:00"
+}
