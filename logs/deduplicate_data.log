@@ -1,0 +1,28 @@
+2026-07-13 15:44:49,824 - INFO - Loaded 50 rows from C:\Users\paila\OneDrive\Desktop\New folder (11)\SW2627-Learning-Platform-s86-Team4\data\raw\data_with_duplicates.csv
+2026-07-13 15:44:49,833 - INFO - Detected 5 exact duplicate rows
+2026-07-13 15:44:49,840 - INFO - Detected 5 near duplicate rows using keys ['course_id']
+2026-07-13 15:44:49,849 - INFO - Detected 3 near duplicate rows using keys ['user_id', 'search_query']
+2026-07-13 15:44:49,855 - INFO - Detected 5 near duplicate rows using keys ['user_id', 'course_id']
+2026-07-13 15:44:49,864 - INFO - Detected 5 near duplicate rows using keys ['user_id', 'course_id']
+2026-07-13 15:44:49,870 - INFO - Removed 5 exact duplicate rows
+2026-07-13 15:44:49,881 - INFO - Removed 1 near duplicates for dataset course using most_complete
+2026-07-13 15:44:49,894 - INFO - Removed 1 near duplicates for dataset search using most_complete
+2026-07-13 15:44:49,908 - INFO - Removed 2 near duplicates for dataset preview using most_complete
+2026-07-13 15:44:49,918 - INFO - Removed 2 near duplicates for dataset enrollment using most_complete
+2026-07-13 15:44:49,928 - INFO - Saved duplicate audit files to C:\Users\paila\OneDrive\Desktop\New folder (11)\SW2627-Learning-Platform-s86-Team4\output\removed_duplicates_audit.csv and C:\Users\paila\OneDrive\Desktop\New folder (11)\SW2627-Learning-Platform-s86-Team4\output\dedup_audit_summary.json
+2026-07-13 15:44:49,933 - INFO - Saved before/after summary to C:\Users\paila\OneDrive\Desktop\New folder (11)\SW2627-Learning-Platform-s86-Team4\output\dedup_summary.json
+2026-07-13 15:44:49,936 - INFO - Saved deduplicated dataset to C:\Users\paila\OneDrive\Desktop\New folder (11)\SW2627-Learning-Platform-s86-Team4\data\processed\deduplicated_data.csv
+2026-07-13 15:45:47,603 - INFO - Loaded 50 rows from C:\Users\paila\OneDrive\Desktop\New folder (11)\SW2627-Learning-Platform-s86-Team4\data\raw\data_with_duplicates.csv
+2026-07-13 15:45:47,614 - INFO - Detected 5 exact duplicate rows
+2026-07-13 15:45:47,620 - INFO - Detected 5 near duplicate rows using keys ['course_id']
+2026-07-13 15:45:47,628 - INFO - Detected 3 near duplicate rows using keys ['user_id', 'search_query']
+2026-07-13 15:45:47,636 - INFO - Detected 5 near duplicate rows using keys ['user_id', 'course_id']
+2026-07-13 15:45:47,645 - INFO - Detected 5 near duplicate rows using keys ['user_id', 'course_id']
+2026-07-13 15:45:47,650 - INFO - Removed 5 exact duplicate rows
+2026-07-13 15:45:47,661 - INFO - Removed 1 near duplicates for dataset course using most_complete
+2026-07-13 15:45:47,673 - INFO - Removed 1 near duplicates for dataset search using most_complete
+2026-07-13 15:45:47,691 - INFO - Removed 2 near duplicates for dataset preview using most_complete
+2026-07-13 15:45:47,702 - INFO - Removed 2 near duplicates for dataset enrollment using most_complete
+2026-07-13 15:45:47,710 - INFO - Saved duplicate audit files to C:\Users\paila\OneDrive\Desktop\New folder (11)\SW2627-Learning-Platform-s86-Team4\output\removed_duplicates_audit.csv and C:\Users\paila\OneDrive\Desktop\New folder (11)\SW2627-Learning-Platform-s86-Team4\output\dedup_audit_summary.json
+2026-07-13 15:45:47,714 - INFO - Saved before/after summary to C:\Users\paila\OneDrive\Desktop\New folder (11)\SW2627-Learning-Platform-s86-Team4\output\dedup_summary.json
+2026-07-13 15:45:47,717 - INFO - Saved deduplicated dataset to C:\Users\paila\OneDrive\Desktop\New folder (11)\SW2627-Learning-Platform-s86-Team4\data\processed\deduplicated_data.csv

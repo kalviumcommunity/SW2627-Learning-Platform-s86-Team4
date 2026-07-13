@@ -1,0 +1,8 @@
+{
+    "timestamp": "2026-07-13T10:15:47.709054+00:00",
+    "records_removed": 11,
+    "reason": "Removed exact duplicates and near duplicates to preserve one trusted record per learner-course business event.",
+    "dataset_name": "course_conversion_analytics",
+    "deduplication_strategy": "exact_keep_first_then_near_most_complete",
+    "audit_file_location": "C:\\Users\\paila\\OneDrive\\Desktop\\New folder (11)\\SW2627-Learning-Platform-s86-Team4\\output\\removed_duplicates_audit.csv"
+}
