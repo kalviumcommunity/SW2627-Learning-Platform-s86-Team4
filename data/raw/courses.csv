@@ -1,0 +1,9 @@
+course_id,course_name,category,instructor,price,rating
+C001,Intro to Python,Programming,Alex Johnson,0.00,4.6
+C002,Data Analysis with Pandas,Data Science,Sana Patel,29.99,4.8
+C003,Web Development Basics,Web Development,Marco Ruiz,19.99,4.2
+C004,Machine Learning 101,Data Science,Li Wei,49.99,4.7
+C005,SQL for Data Analysis,Data Engineering,Amira Khan,24.99,4.5
+C006,Data Visualization with Matplotlib,Data Science,Diego Santos,14.99,4.3
+C007,Advanced Pandas Patterns,Data Science,Sana Patel,39.99,4.9
+C008,Product Management Fundamentals,Business,Karen Smith,9.99,4.1
