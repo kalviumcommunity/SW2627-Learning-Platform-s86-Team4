@@ -1,0 +1,6 @@
+[
+  {"enrollment_id": "E1001", "user_id": "U001", "course_id": "C002", "enrollment_status": "active", "enrollment_date": "2026-07-10T09:00:00"},
+  {"enrollment_id": "E1002", "user_id": "U004", "course_id": "C005", "enrollment_status": "cancelled", "enrollment_date": "2026-07-11T11:00:00"},
+  {"enrollment_id": "E1003", "user_id": "U002", "course_id": "C007", "enrollment_status": "active", "enrollment_date": "2026-07-11T12:30:00"},
+  {"enrollment_id": "E1004", "user_id": "U006", "course_id": "C001", "enrollment_status": "pending", "enrollment_date": "2026-07-12T13:00:00"}
+]

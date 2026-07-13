@@ -1,4 +1,4 @@
-anyio==4.14.1
+﻿anyio==4.14.1
 argon2-cffi==25.1.0
 argon2-cffi-bindings==25.1.0
 arrow==1.4.0
@@ -67,8 +67,8 @@ notebook==7.6.0
 notebook_shim==0.2.4
 numpy==2.5.1
 openpyxl==3.1.5
-packaging==26.2
-pandas==3.0.3
+packaging==25.0
+pandas==2.3.2
 pandocfilters==1.5.1
 parso==0.8.7
 pillow==12.3.0
@@ -115,3 +115,4 @@ websocket-client==1.9.0
 widgetsnbextension==4.0.15
 chardet==5.2.0
 streamlit==1.51.0
+
