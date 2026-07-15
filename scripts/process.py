@@ -50,6 +50,83 @@ TEXT_NORMALIZATION_MAPS = {
 }
 
 
+DATETIME_COLUMN_FORMATS = {
+    "transaction_date": "%Y-%m-%d %H:%M:%S",
+    "date": "%Y-%m-%d",
+    "search_time": "%Y-%m-%dT%H:%M:%S",
+    "preview_time": "%Y-%m-%dT%H:%M:%S",
+    "enrollment_date": "%Y-%m-%dT%H:%M:%S",
+}
+
+
+def _parse_datetime_columns(df):
+    """
+    Parse known datetime columns and raise if invalid values are found.
+    """
+    parsed_columns = []
+
+    for column, dt_format in DATETIME_COLUMN_FORMATS.items():
+        if column not in df.columns:
+            continue
+
+        parsed = pd.to_datetime(df[column], format=dt_format, errors="coerce")
+        invalid_mask = parsed.isna() & df[column].notna()
+
+        if invalid_mask.any():
+            bad_values = sorted(df.loc[invalid_mask, column].astype(str).unique().tolist())
+            raise ValueError(
+                f"Invalid datetime values found in {column} (expected {dt_format}): {bad_values}"
+            )
+
+        df[column] = parsed
+        parsed_columns.append(column)
+
+    return parsed_columns
+
+
+def _add_datetime_features(df, source_column):
+    """
+    Create reusable time-based features from a parsed datetime column.
+    """
+    df["day_of_week"] = df[source_column].dt.day_name()
+    df["day_of_week_num"] = df[source_column].dt.dayofweek
+    df["hour_of_day"] = df[source_column].dt.hour
+    df["week_number"] = df[source_column].dt.isocalendar().week.astype("int64")
+    df["month"] = df[source_column].dt.month
+    df["quarter"] = df[source_column].dt.quarter
+
+    reference_day = pd.Timestamp.now().normalize()
+    df["days_since_event"] = (reference_day - df[source_column].dt.normalize()).dt.days
+
+
+def _build_weekly_summary(df, datetime_column):
+    """
+    Build weekly aggregations using a datetime index.
+    """
+    ts_df = df.set_index(datetime_column).sort_index()
+    weekly = {}
+
+    if "price" in ts_df.columns:
+        weekly["weekly_price_sum"] = {
+            idx.strftime("%Y-%m-%d"): float(value)
+            for idx, value in ts_df["price"].resample("W").sum().round(2).items()
+        }
+
+    if "preview_clicked" in ts_df.columns:
+        weekly["weekly_previews"] = {
+            idx.strftime("%Y-%m-%d"): int(value)
+            for idx, value in ts_df["preview_clicked"].astype("Int64").resample("W").sum().items()
+        }
+
+    if "enrolled" in ts_df.columns:
+        weekly["weekly_enrollments"] = {
+            idx.strftime("%Y-%m-%d"): int(value)
+            for idx, value in ts_df["enrolled"].astype("Int64").resample("W").sum().items()
+        }
+
+    return weekly
+
+
 def _strip_currency_and_convert(series):
     """
     Remove common currency formatting and convert the series to numeric.
@@ -234,22 +311,41 @@ def process_data(df):
         )
         type_changes.append("rating: converted to numeric")
 
-    if "date" in df.columns:
-        parsed_dates = pd.to_datetime(
-            df["date"],
-            format="%Y-%m-%d",
-            errors="coerce"
-        )
-        invalid_date_mask = parsed_dates.isna() & df["date"].notna()
-        if invalid_date_mask.any():
-            bad_values = sorted(df.loc[invalid_date_mask, "date"].astype(str).unique().tolist())
-            raise ValueError(
-                f"Invalid date values found in date (expected %Y-%m-%d): {bad_values}"
-            )
-        df["date"] = parsed_dates
-        type_changes.append("date: parsed with explicit %Y-%m-%d format")
+    parsed_datetime_columns = _parse_datetime_columns(df)
+    for column in parsed_datetime_columns:
+        type_changes.append(f"{column}: parsed as datetime")
 
     logging.info("Data types converted.")
+
+    # -----------------------------
+    # Datetime Feature Engineering
+    # -----------------------------
+    datetime_source_column = None
+    for candidate in ["transaction_date", "date", "search_time", "preview_time", "enrollment_date"]:
+        if candidate in df.columns:
+            datetime_source_column = candidate
+            break
+
+    if datetime_source_column is not None:
+        _add_datetime_features(df, datetime_source_column)
+        weekly_summary = _build_weekly_summary(df, datetime_source_column)
+        df.attrs["datetime_features"] = {
+            "source_column": datetime_source_column,
+            "generated_columns": [
+                "day_of_week",
+                "day_of_week_num",
+                "hour_of_day",
+                "week_number",
+                "month",
+                "quarter",
+                "days_since_event",
+            ],
+        }
+        df.attrs["weekly_time_series"] = weekly_summary
+        logging.info(
+            "Datetime features created using %s and weekly resample summary prepared.",
+            datetime_source_column,
+        )
 
     # -----------------------------
     # Remove invalid records

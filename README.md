@@ -62,6 +62,7 @@ Edu-Analysis/
 - Data ingestion
 - Data cleaning and preprocessing
 - Reusable string cleaning pipeline for whitespace, casing, regex cleanup, and label standardization
+- Datetime parsing with temporal feature extraction and weekly time-series aggregation
 - Duplicate removal
 - Missing value handling
 - Logging support

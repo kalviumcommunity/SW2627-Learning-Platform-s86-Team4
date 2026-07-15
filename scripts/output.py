@@ -77,7 +77,9 @@ def generate_report(df):
         "Enrollments": total_enrollments,
         "Preview to Enrollment Conversion (%)": round(conversion_rate, 2),
         "Most Viewed Course": most_viewed,
-        "Type Enforcement": df.attrs.get("type_enforcement", {})
+        "Type Enforcement": df.attrs.get("type_enforcement", {}),
+        "Datetime Feature Engineering": df.attrs.get("datetime_features", {}),
+        "Weekly Time Series Summary": df.attrs.get("weekly_time_series", {}),
     }
 
     return report
