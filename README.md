@@ -63,6 +63,7 @@ Edu-Analysis/
 - Data cleaning and preprocessing
 - Reusable string cleaning pipeline for whitespace, casing, regex cleanup, and label standardization
 - Datetime parsing with temporal feature extraction and weekly time-series aggregation
+- Statistical outlier detection (IQR and Z-score) with cap/remove/flag strategies and audit logs
 - Duplicate removal
 - Missing value handling
 - Logging support
