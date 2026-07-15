@@ -61,6 +61,7 @@ Edu-Analysis/
 - Modular Python scripts
 - Data ingestion
 - Data cleaning and preprocessing
+- Reusable string cleaning pipeline for whitespace, casing, regex cleanup, and label standardization
 - Duplicate removal
 - Missing value handling
 - Logging support
@@ -165,6 +166,8 @@ Generate Output
     ▼
 Save Cleaned Data & Report
 ```
+
+The processing step now includes reusable text normalization so that messy values such as extra spaces, mixed casing, and spelling variants are cleaned consistently before aggregation.
 
 ---
 

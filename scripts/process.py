@@ -10,6 +10,46 @@ import logging
 import pandas as pd
 
 
+def clean_text_column(series, lowercase=True, strip=True, remove_special=False, mapping=None):
+    """
+    Reusable text cleaning helper for consistent string normalization.
+    """
+    result = series.astype("string")
+
+    if strip:
+        result = result.str.strip()
+
+    if lowercase:
+        result = result.str.lower()
+
+    if mapping:
+        result = result.map(mapping).fillna(result)
+
+    if remove_special:
+        result = result.str.replace(r"[^a-zA-Z0-9 ]", "", regex=True)
+
+    return result
+
+
+TEXT_NORMALIZATION_MAPS = {
+    "category": {
+        "data science": "Data Science",
+        "datascience": "Data Science",
+        "programming": "Programming",
+        "web development": "Web Development",
+        "webdevelopment": "Web Development",
+        "database": "Database",
+        "ai": "AI",
+    },
+    "search_query": {
+        "b2b": "b2b",
+        "b 2 b": "b2b",
+        "b2 b": "b2b",
+        "business-to-business": "b2b",
+    },
+}
+
+
 def _strip_currency_and_convert(series):
     """
     Remove common currency formatting and convert the series to numeric.
@@ -77,7 +117,19 @@ def process_data(df):
     object_columns = df.select_dtypes(include="object").columns
 
     for column in object_columns:
-        df[column] = df[column].astype(str).str.strip()
+        df[column] = clean_text_column(df[column], lowercase=False, strip=True)
+
+    text_columns = ["search_query", "category"]
+
+    for column in text_columns:
+        if column in df.columns:
+            df[column] = clean_text_column(
+                df[column],
+                lowercase=True,
+                strip=True,
+                remove_special=True,
+                mapping=TEXT_NORMALIZATION_MAPS.get(column),
+            )
 
     logging.info("Whitespace removed.")
 
