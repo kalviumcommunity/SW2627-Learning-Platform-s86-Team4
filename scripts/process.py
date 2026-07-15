@@ -59,6 +59,26 @@ DATETIME_COLUMN_FORMATS = {
 }
 
 
+OUTLIER_RULES = {
+    "session_minutes": {
+        "method": "iqr",
+        "action": "cap",
+        "reason": "Session length can have valid long tails; capping limits skew while preserving rows.",
+    },
+    "price": {
+        "method": "iqr",
+        "action": "flag",
+        "reason": "Premium pricing can be legitimate; keep values and flag anomalies for segment analysis.",
+    },
+    "rating": {
+        "method": "zscore",
+        "action": "remove",
+        "threshold": 3.0,
+        "reason": "Extreme rating anomalies are likely data quality issues and are removed.",
+    },
+}
+
+
 def _parse_datetime_columns(df):
     """
     Parse known datetime columns and raise if invalid values are found.
@@ -125,6 +145,103 @@ def _build_weekly_summary(df, datetime_column):
         }
 
     return weekly
+
+
+def _detect_iqr_outliers(series):
+    """
+    Detect outliers using the IQR rule and return mask with clip bounds.
+    """
+    q1 = series.quantile(0.25)
+    q3 = series.quantile(0.75)
+    iqr = q3 - q1
+
+    if pd.isna(iqr) or iqr == 0:
+        mask = pd.Series(False, index=series.index)
+        return mask, None, None
+
+    lower_bound = q1 - 1.5 * iqr
+    upper_bound = q3 + 1.5 * iqr
+    mask = (series < lower_bound) | (series > upper_bound)
+    return mask, lower_bound, upper_bound
+
+
+def _detect_zscore_outliers(series, threshold=3.0):
+    """
+    Detect outliers using Z-score and return mask with equivalent clip bounds.
+    """
+    mean_value = series.mean()
+    std_value = series.std(ddof=0)
+
+    if pd.isna(std_value) or std_value == 0:
+        mask = pd.Series(False, index=series.index)
+        return mask, None, None
+
+    z_scores = ((series - mean_value) / std_value).abs()
+    lower_bound = mean_value - threshold * std_value
+    upper_bound = mean_value + threshold * std_value
+    mask = z_scores > threshold
+    return mask, lower_bound, upper_bound
+
+
+def _apply_outlier_rules(df):
+    """
+    Apply per-column outlier strategies and return an audit trail.
+    """
+    outlier_audit = []
+    working_df = df.copy()
+
+    for column, rule in OUTLIER_RULES.items():
+        if column not in working_df.columns:
+            continue
+
+        numeric_series = pd.to_numeric(working_df[column], errors="coerce")
+        method = rule.get("method", "iqr")
+        action = rule.get("action", "flag")
+
+        if method == "iqr":
+            outlier_mask, lower_bound, upper_bound = _detect_iqr_outliers(numeric_series)
+        elif method == "zscore":
+            threshold = float(rule.get("threshold", 3.0))
+            outlier_mask, lower_bound, upper_bound = _detect_zscore_outliers(
+                numeric_series,
+                threshold=threshold,
+            )
+        else:
+            raise ValueError(f"Unsupported outlier method '{method}' for column '{column}'")
+
+        outlier_mask = outlier_mask.fillna(False)
+        flag_column = f"is_{column}_outlier"
+        working_df[flag_column] = outlier_mask.astype("int64")
+
+        rows_before_action = len(working_df)
+
+        if action == "cap":
+            if lower_bound is not None and upper_bound is not None:
+                working_df[column] = numeric_series.clip(lower=lower_bound, upper=upper_bound)
+        elif action == "remove":
+            working_df = working_df.loc[~outlier_mask].copy()
+        elif action == "flag":
+            pass
+        else:
+            raise ValueError(f"Unsupported outlier action '{action}' for column '{column}'")
+
+        rows_after_action = len(working_df)
+        outlier_count = int(outlier_mask.sum())
+
+        outlier_audit.append(
+            {
+                "column": column,
+                "method": method,
+                "action": action,
+                "outlier_count": outlier_count,
+                "rows_removed": int(rows_before_action - rows_after_action),
+                "lower_bound": None if lower_bound is None else float(lower_bound),
+                "upper_bound": None if upper_bound is None else float(upper_bound),
+                "reason": rule.get("reason", "No reason provided."),
+            }
+        )
+
+    return working_df, outlier_audit
 
 
 def _strip_currency_and_convert(series):
@@ -357,6 +474,20 @@ def process_data(df):
         df = df[df["price"] >= 0]
 
     logging.info("Invalid records removed.")
+
+    # -----------------------------
+    # Outlier Detection and Handling
+    # -----------------------------
+    df, outlier_audit = _apply_outlier_rules(df)
+    df.attrs["outlier_audit"] = outlier_audit
+
+    total_outliers_flagged = sum(item["outlier_count"] for item in outlier_audit)
+    total_rows_removed = sum(item["rows_removed"] for item in outlier_audit)
+    logging.info(
+        "Outlier handling complete. Outliers flagged: %s, rows removed: %s",
+        total_outliers_flagged,
+        total_rows_removed,
+    )
 
     cleaned_rows = len(df)
     after_dtypes = df.dtypes.astype(str).to_dict()

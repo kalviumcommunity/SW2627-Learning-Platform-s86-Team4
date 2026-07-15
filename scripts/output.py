@@ -8,7 +8,9 @@ and generating a simple analysis report.
 """
 
 import os
+import json
 import logging
+from datetime import datetime, timezone
 
 
 def _count_truthy(series):
@@ -80,6 +82,7 @@ def generate_report(df):
         "Type Enforcement": df.attrs.get("type_enforcement", {}),
         "Datetime Feature Engineering": df.attrs.get("datetime_features", {}),
         "Weekly Time Series Summary": df.attrs.get("weekly_time_series", {}),
+        "Outlier Audit": df.attrs.get("outlier_audit", []),
     }
 
     return report
@@ -99,6 +102,23 @@ def save_clean_data(df, output_path):
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
     df.to_csv(output_path, index=False)
+
+    outlier_audit = df.attrs.get("outlier_audit", [])
+    if outlier_audit:
+        outlier_summary_path = os.path.join("output", "outlier_audit_summary.json")
+        os.makedirs(os.path.dirname(outlier_summary_path), exist_ok=True)
+
+        summary_payload = {
+            "timestamp": datetime.now(timezone.utc).isoformat(),
+            "dataset_name": "course_conversion_analytics",
+            "total_rows_after_cleaning": len(df),
+            "rules_applied": outlier_audit,
+        }
+
+        with open(outlier_summary_path, "w", encoding="utf-8") as outlier_file:
+            json.dump(summary_payload, outlier_file, indent=4)
+
+        logging.info("Outlier audit summary saved at %s", outlier_summary_path)
 
     logging.info(f"Cleaned dataset saved at {output_path}")
 
