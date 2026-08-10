@@ -1,0 +1,64 @@
+timestamp,user_id,action,search_keyword,course_id,course_name,category
+2026-08-04 14:22:00,U1005,enrollment,javascript,C101,Python Basics,Programming
+2026-08-02 20:25:00,U1029,course_view,data science,C103,Data Science Fundamentals,Data Science
+2026-08-03 10:42:00,U1030,enrollment,react,C107,Web Development,Web Development
+2026-08-04 02:56:00,U1009,enrollment,web development,C104,Machine Learning Basics,Data Science
+2026-08-05 11:38:00,U1005,course_view,react,C101,Python Basics,Programming
+2026-08-05 06:37:00,U1030,enrollment,database,C109,Business Analytics,Business
+2026-08-05 01:28:00,U1020,enrollment,analytics,C109,Business Analytics,Business
+2026-08-05 23:23:00,U1018,enrollment,deep learning,C106,Sql Essentials,Database
+2026-08-04 01:36:00,U1009,enrollment,analytics,C106,Sql Essentials,Database
+2026-08-03 06:38:00,U1002,course_view,database,C103,Data Science Fundamentals,Data Science
+2026-08-05 12:33:00,U1008,enrollment,data science,C105,Deep Learning,Data Science
+2026-08-02 06:40:00,U1007,enrollment,business,C102,Advanced Python,Programming
+2026-08-01 17:49:00,U1029,enrollment,deep learning,C105,Deep Learning,Data Science
+2026-08-02 04:57:00,U1021,course_view,web development,C103,Data Science Fundamentals,Data Science
+2026-08-01 20:26:00,U1023,enrollment,sql,C108,React For Beginners,Web Development
+2026-08-05 21:55:00,U1021,course_view,analytics,C104,Machine Learning Basics,Data Science
+2026-08-04 08:58:00,U1002,enrollment,business,C105,Deep Learning,Data Science
+2026-08-02 10:05:00,U1022,enrollment,react,C105,Deep Learning,Data Science
+2026-08-01 23:03:00,U1023,course_view,data science,C101,Python Basics,Programming
+2026-08-02 08:31:00,U1010,enrollment,analytics,C108,React For Beginners,Web Development
+2026-08-02 20:26:00,U1021,course_view,analytics,C108,React For Beginners,Web Development
+2026-08-05 13:56:00,U1010,enrollment,database,C110,Digital Marketing,Marketing
+2026-08-02 23:16:00,U1025,enrollment,marketing,C110,Digital Marketing,Marketing
+2026-08-06 06:14:00,U1030,enrollment,machine learning,C108,React For Beginners,Web Development
+2026-08-05 06:25:00,U1019,course_view,machine learning,C110,Digital Marketing,Marketing
+2026-08-02 08:59:00,U1010,course_view,python,C108,React For Beginners,Web Development
+2026-08-05 18:23:00,U1024,enrollment,web development,C108,React For Beginners,Web Development
+2026-08-03 18:15:00,U1023,course_view,machine learning,C110,Digital Marketing,Marketing
+2026-08-03 19:40:00,U1028,course_view,analytics,C103,Data Science Fundamentals,Data Science
+2026-08-05 08:17:00,U1028,course_view,database,C105,Deep Learning,Data Science
+2026-08-04 10:58:00,U1003,course_view,python,C106,Sql Essentials,Database
+2026-08-03 04:37:00,U1005,enrollment,web development,C107,Web Development,Web Development
+2026-08-01 13:03:00,U1019,course_view,web development,C103,Data Science Fundamentals,Data Science
+2026-08-03 23:28:00,U1001,course_view,database,C105,Deep Learning,Data Science
+2026-08-05 05:52:00,U1002,course_view,analytics,C107,Web Development,Web Development
+2026-08-01 20:56:00,U1025,course_view,business,C107,Web Development,Web Development
+2026-08-05 00:48:00,U1019,enrollment,python,C110,Digital Marketing,Marketing
+2026-08-03 21:29:00,U1021,course_view,marketing,C103,Data Science Fundamentals,Data Science
+2026-08-03 01:48:00,U1026,course_view,analytics,C106,Sql Essentials,Database
+2026-08-03 18:45:00,U1018,enrollment,database,C101,Python Basics,Programming
+2026-08-05 18:43:00,U1004,course_view,analytics,C101,Python Basics,Programming
+2026-08-06 01:35:00,U1010,course_view,javascript,C102,Advanced Python,Programming
+2026-08-02 13:23:00,U1007,course_view,web development,C109,Business Analytics,Business
+2026-08-05 07:40:00,U1012,enrollment,database,C106,Sql Essentials,Database
+2026-08-03 01:33:00,U1014,enrollment,sql,C102,Advanced Python,Programming
+2026-08-01 08:31:00,U1025,course_view,python,C103,Data Science Fundamentals,Data Science
+2026-08-05 11:50:00,U1004,course_view,sql,C109,Business Analytics,Business
+2026-08-05 11:10:00,U1008,enrollment,data science,C101,Python Basics,Programming
+2026-08-06 01:15:00,U1005,course_view,business,C105,Deep Learning,Data Science
+2026-08-01 14:48:00,U1015,course_view,analytics,C108,React For Beginners,Web Development
+2026-08-02 11:43:00,U1010,course_view,marketing,C108,React For Beginners,Web Development
+2026-08-05 17:27:00,U1005,enrollment,sql,C108,React For Beginners,Web Development
+2026-08-03 17:41:00,U1017,course_view,web development,C108,React For Beginners,Web Development
+2026-08-03 10:38:00,U1019,enrollment,machine learning,C102,Advanced Python,Programming
+2026-08-04 15:22:00,U1009,enrollment,database,C107,Web Development,Web Development
+2026-08-02 23:02:00,U1007,enrollment,sql,C106,Sql Essentials,Database
+2026-08-04 02:03:00,U1028,enrollment,react,C107,Web Development,Web Development
+2026-08-06 03:57:00,U1009,enrollment,javascript,C105,Deep Learning,Data Science
+2026-08-05 23:03:00,U1003,enrollment,python,C110,Digital Marketing,Marketing
+2026-08-04 12:55:00,U1009,course_view,javascript,C102,Advanced Python,Programming
+2026-08-06 00:07:00,U1015,enrollment,web development,C102,Advanced Python,Programming
+2026-08-02 15:25:00,U1003,course_view,analytics,C103,Data Science Fundamentals,Data Science
+2026-08-02 15:18:00,U1006,course_view,marketing,C102,Advanced Python,Programming

@@ -1,0 +1,1939 @@
+timestamp,user_id,action,search_keyword,course_id,course_name,category
+2026-07-01 02:36:56,U_1011,search,tensorflow,,,
+2026-07-01 03:56:15,U_1043,view,,C_202,Next.js Complete Guide,Web Development
+2026-07-01 03:59:25,U_1043,enroll,,C_202,Next.js Complete Guide,Web Development
+2026-07-01 03:59:25,U_1043,enroll,,C_202,Next.js Complete Guide,Web Development
+2026-07-01 05:05:54,U_1007,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-01 05:43:41,U_1030,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-01 05:45:16,U_1030,enroll,,C_402,UI/UX Design Fundamentals,Design
+2026-07-01 06:53:00,U_1033,view,,C_102,Python for Data Science,Data Science
+2026-07-01 06:55:46,U_1033,enroll,,C_102,Python for Data Science,Data Science
+2026-07-01 07:04:43,U_1038,search,sass,,,
+2026-07-01 07:29:20,U_1041,search,python,,,
+2026-07-01 08:05:05,U_1022,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-01 08:08:27,U_1032,search,spreadsheet,,,
+2026-07-01 08:08:51,U_1032,view,spreadsheet,C_301,Excel for Beginners to Pro,Business
+2026-07-01 08:10:26,U_1032,enroll,spreadsheet,C_301,Excel for Beginners to Pro,Business
+2026-07-01 08:51:02,U_1005,search,sql,,,
+2026-07-01 08:52:05,U_1005,view,sql,C_302,SQL Essentials for Business,Business
+2026-07-01 08:55:23,U_1006,search,marketing,,,
+2026-07-01 09:14:37,U_1027,search,python,,,
+2026-07-01 09:15:21,U_1027,view,python,C_102,Python for Data Science,Data Science
+2026-07-01 09:27:38,U_1015,view,,C_102,Python for Data Science,Data Science
+2026-07-01 09:31:40,U_1015,enroll,,C_102,Python for Data Science,Data Science
+2026-07-01 09:33:16,U_1016,view,,C_302,SQL Essentials for Business,Business
+2026-07-01 09:48:03,U_1014,search,spreadsheet,,,
+2026-07-01 09:57:59,U_1050,search,coding python,,,
+2026-07-01 09:58:40,U_1050,view,coding python,C_101,Introduction to Python,Data Science
+2026-07-01 10:00:17,U_1050,enroll,coding python,C_101,Introduction to Python,Data Science
+2026-07-01 10:10:03,U_1037,view,,C_302,SQL Essentials for Business,Business
+2026-07-01 10:17:02,U_1047,search,data science,,,
+2026-07-01 10:17:37,U_1047,view,data science,C_103,Machine Learning Bootcamp,Data Science
+2026-07-01 10:34:49,U_1023,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-01 10:48:10,U_1020,search,sql,,,
+2026-07-01 10:49:06,U_1020,view,sql,C_302,SQL Essentials for Business,Business
+2026-07-01 10:56:34,U_1017,search,design,,,
+2026-07-01 10:57:03,U_1017,view,design,C_402,UI/UX Design Fundamentals,Design
+2026-07-01 10:59:42,U_1045,search,data science,,,
+2026-07-01 11:00:11,U_1045,view,data science,C_103,Machine Learning Bootcamp,Data Science
+2026-07-01 11:10:16,U_1024,view,,C_302,SQL Essentials for Business,Business
+2026-07-01 11:47:17,U_1001,search,machine learning,,,
+2026-07-01 11:48:41,U_1001,view,machine learning,C_103,Machine Learning Bootcamp,Data Science
+2026-07-01 11:53:02,U_1001,enroll,machine learning,C_103,Machine Learning Bootcamp,Data Science
+2026-07-01 12:37:36,U_1040,search,javascript,,,
+2026-07-01 12:38:31,U_1040,view,javascript,C_201,Mastering React,Web Development
+2026-07-01 12:40:19,U_1019,search,deep learning,,,
+2026-07-01 12:42:38,U_1040,enroll,javascript,C_201,Mastering React,Web Development
+2026-07-01 12:48:46,U_1025,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-01 13:15:17,U_1028,search,neural networks,,,
+2026-07-01 13:36:06,U_1042,search,ai,,,
+2026-07-01 13:56:44,U_1048,search,react,,,
+2026-07-01 13:56:46,U_1018,view,,C_201,Mastering React,Web Development
+2026-07-01 14:37:35,U_1049,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-01 15:04:38,U_1009,search,database,,,
+2026-07-01 15:05:13,U_1009,view,database,C_302,SQL Essentials for Business,Business
+2026-07-01 15:30:51,U_1029,search,python,,,
+2026-07-01 15:32:01,U_1029,view,python,C_102,Python for Data Science,Data Science
+2026-07-01 15:48:21,U_1004,search,django,,,
+2026-07-01 15:51:55,U_1031,view,,C_102,Python for Data Science,Data Science
+2026-07-01 15:54:47,U_1031,enroll,,C_102,Python for Data Science,Data Science
+2026-07-01 16:53:51,U_1021,view,,C_201,Mastering React,Web Development
+2026-07-01 16:56:38,U_1021,enroll,,C_201,Mastering React,Web Development
+2026-07-01 17:35:14,U_1010,search,learn python,,,
+2026-07-01 17:35:33,U_1010,view,learn python,C_101,Introduction to Python,Data Science
+2026-07-01 17:36:15,U_1039,view,,C_401,Advanced CSS & Sass,Design
+2026-07-01 17:39:43,U_1010,enroll,learn python,C_101,Introduction to Python,Data Science
+2026-07-01 17:45:21,U_1046,search,design,,,
+2026-07-01 17:46:40,U_1046,view,design,C_402,UI/UX Design Fundamentals,Design
+2026-07-01 17:47:51,U_1046,enroll,design,C_402,UI/UX Design Fundamentals,Design
+2026-07-01 18:00:48,U_1003,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-01 18:42:41,U_1026,search,business,,,
+2026-07-01 18:43:11,U_1026,view,business,C_302,SQL Essentials for Business,Business
+2026-07-01 18:44:28,U_1026,enroll,business,C_302,SQL Essentials for Business,Business
+2026-07-01 19:03:37,U_1036,search,coding python,,,
+2026-07-01 19:03:59,U_1036,view,coding python,C_101,Introduction to Python,Data Science
+2026-07-01 19:08:48,U_1036,enroll,coding python,C_101,Introduction to Python,Data Science
+2026-07-01 19:23:14,U_1013,search,coding python,,,
+2026-07-01 19:53:23,U_1008,search,react,,,
+2026-07-01 20:45:19,U_1044,view,,C_401,Advanced CSS & Sass,Design
+2026-07-01 21:09:16,U_1012,search,ads,,,
+2026-07-01 21:13:55,U_1034,search,learn python,,,
+2026-07-01 21:14:32,U_1002,search,database,,,
+2026-07-01 21:14:58,U_1034,view,learn python,C_101,Introduction to Python,Data Science
+2026-07-01 21:15:56,U_1002,view,database,C_302,SQL Essentials for Business,Business
+2026-07-01 21:19:02,U_1034,enroll,learn python,C_101,Introduction to Python,Data Science
+2026-07-01 21:29:18,U_1035,view,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-01 21:34:12,U_1035,enroll,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-02 00:09:14,U_1073,search,ml,,,
+2026-07-02 00:09:37,U_1073,view,ml,C_103,Machine Learning Bootcamp,Data Science
+2026-07-02 04:16:02,U_1059,search,learn python,,,
+2026-07-02 04:17:03,U_1059,view,learn python,C_101,Introduction to Python,Data Science
+2026-07-02 05:01:59,U_1084,search,wireframe,,,
+2026-07-02 06:16:02,U_1057,view,,C_102,Python for Data Science,Data Science
+2026-07-02 06:20:29,U_1057,enroll,,C_102,Python for Data Science,Data Science
+2026-07-02 06:51:44,U_1069,search,learn python,,,
+2026-07-02 06:52:14,U_1069,view,learn python,C_101,Introduction to Python,Data Science
+2026-07-02 06:58:25,U_1078,search,ui/ux,,,
+2026-07-02 06:58:50,U_1078,view,ui/ux,C_402,UI/UX Design Fundamentals,Design
+2026-07-02 07:20:11,U_1091,search,frontend,,,
+2026-07-02 07:21:09,U_1091,view,frontend,C_202,Next.js Complete Guide,Web Development
+2026-07-02 07:26:16,U_1080,view,,C_102,Python for Data Science,Data Science
+2026-07-02 07:31:01,U_1080,enroll,,C_102,Python for Data Science,Data Science
+2026-07-02 08:40:36,U_1067,search,social media,,,
+2026-07-02 09:27:38,U_1058,view,,C_302,SQL Essentials for Business,Business
+2026-07-02 09:29:22,U_1058,enroll,,C_302,SQL Essentials for Business,Business
+2026-07-02 09:40:15,U_1072,search,pandas,,,
+2026-07-02 09:41:00,U_1072,view,pandas,C_102,Python for Data Science,Data Science
+2026-07-02 10:07:46,U_1060,search,deep learning,,,
+2026-07-02 10:19:54,U_1086,search,python,,,
+2026-07-02 10:20:53,U_1086,view,python,C_102,Python for Data Science,Data Science
+2026-07-02 10:23:10,U_1083,search,marketing,,,
+2026-07-02 10:24:47,U_1086,enroll,python,C_102,Python for Data Science,Data Science
+2026-07-02 10:37:44,U_1085,search,learn python,,,
+2026-07-02 10:39:36,U_1062,view,,C_201,Mastering React,Web Development
+2026-07-02 10:42:40,U_1065,search,data science,,,
+2026-07-02 10:43:34,U_1065,view,data science,C_102,Python for Data Science,Data Science
+2026-07-02 10:46:00,U_1065,enroll,data science,C_102,Python for Data Science,Data Science
+2026-07-02 11:16:24,U_1079,search,data analysis,,,
+2026-07-02 11:17:22,U_1079,view,data analysis,C_301,Excel for Beginners to Pro,Business
+2026-07-02 11:20:25,U_1061,search,database,,,
+2026-07-02 11:21:04,U_1061,view,database,C_302,SQL Essentials for Business,Business
+2026-07-02 11:21:21,U_1079,enroll,data analysis,C_301,Excel for Beginners to Pro,Business
+2026-07-02 11:50:57,U_1064,search,neural networks,,,
+2026-07-02 12:59:05,U_1090,search,spreadsheet,,,
+2026-07-02 13:00:19,U_1090,view,spreadsheet,C_301,Excel for Beginners to Pro,Business
+2026-07-02 13:04:18,U_1090,enroll,spreadsheet,C_301,Excel for Beginners to Pro,Business
+2026-07-02 13:37:48,U_1097,search,react,,,
+2026-07-02 13:38:27,U_1097,view,react,C_201,Mastering React,Web Development
+2026-07-02 13:42:16,U_1097,enroll,react,C_201,Mastering React,Web Development
+2026-07-02 13:44:11,U_1096,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-02 14:30:35,U_1094,search,backend,,,
+2026-07-02 14:30:39,U_1066,search,python,,,
+2026-07-02 14:30:39,U_1066,search,python,,,
+2026-07-02 15:25:21,U_1055,search,pandas,,,
+2026-07-02 15:26:20,U_1055,view,pandas,C_102,Python for Data Science,Data Science
+2026-07-02 16:01:39,U_1082,search,ai,,,
+2026-07-02 16:02:08,U_1082,view,ai,C_103,Machine Learning Bootcamp,Data Science
+2026-07-02 16:53:29,U_1088,search,python,,,
+2026-07-02 17:12:05,U_1092,search,web development,,,
+2026-07-02 17:24:54,U_1075,search,ui/ux,,,
+2026-07-02 18:00:54,U_1087,search,excel,,,
+2026-07-02 18:10:51,U_1052,search,ui/ux,,,
+2026-07-02 18:16:14,U_1095,search,ai,,,
+2026-07-02 18:31:01,U_1077,search,wireframe,,,
+2026-07-02 18:31:37,U_1077,view,wireframe,C_402,UI/UX Design Fundamentals,Design
+2026-07-02 18:31:37,U_1077,view,wireframe,C_402,UI/UX Design Fundamentals,Design
+2026-07-02 18:34:51,U_1076,view,,C_401,Advanced CSS & Sass,Design
+2026-07-02 18:41:45,U_1093,search,python,,,
+2026-07-02 18:42:37,U_1093,view,python,C_101,Introduction to Python,Data Science
+2026-07-02 18:45:26,U_1093,enroll,python,C_101,Introduction to Python,Data Science
+2026-07-02 18:57:10,U_1071,search,business,,,
+2026-07-02 18:57:58,U_1071,view,business,C_301,Excel for Beginners to Pro,Business
+2026-07-02 19:13:53,U_1074,search,css,,,
+2026-07-02 19:15:21,U_1074,view,css,C_401,Advanced CSS & Sass,Design
+2026-07-02 19:18:13,U_1063,search,design,,,
+2026-07-02 19:19:09,U_1063,view,design,C_401,Advanced CSS & Sass,Design
+2026-07-02 19:22:14,U_1081,search,ui/ux,,,
+2026-07-02 19:44:00,U_1068,search,data science,,,
+2026-07-02 19:51:58,U_1089,search,business,,,
+2026-07-02 19:53:08,U_1089,view,business,C_301,Excel for Beginners to Pro,
+2026-07-02 19:56:10,U_1089,enroll,business,C_301,Excel for Beginners to Pro,Business
+2026-07-02 20:21:01,U_1056,view,,C_102,Python for Data Science,Data Science
+2026-07-02 20:23:59,U_1056,enroll,,C_102,Python for Data Science,Data Science
+2026-07-02 20:30:14,U_1054,search,data analysis,,,
+2026-07-02 20:31:08,U_1054,view,data analysis,C_301,Excel for Beginners to Pro,Business
+2026-07-02 20:33:49,U_1054,enroll,data analysis,C_301,,Business
+2026-07-02 20:59:21,U_1053,search,python,,,
+2026-07-02 21:00:10,U_1053,view,python,C_203,Django Web Dev from Scratch,Web Development
+2026-07-02 21:26:39,U_1051,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-02 22:38:20,U_1070,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-03 02:08:40,U_1099,search,machine learning,,,
+2026-07-03 03:03:16,U_1101,search,numpy,,,
+2026-07-03 06:04:03,U_1110,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-03 07:26:21,U_1124,view,,C_302,SQL Essentials for Business,Business
+2026-07-03 07:36:18,U_1100,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-03 07:41:08,U_1100,enroll,,C_301,Excel for Beginners to Pro,Business
+2026-07-03 08:25:17,U_1112,search,business,,,
+2026-07-03 08:25:42,U_1112,view,business,C_301,Excel for Beginners to Pro,Business
+2026-07-03 09:00:42,U_1118,view,,C_302,SQL Essentials for Business,Business
+2026-07-03 09:05:23,U_1118,enroll,,C_302,SQL Essentials for Business,Business
+2026-07-03 09:13:16,U_1106,search,ml,,,
+2026-07-03 09:13:53,U_1106,view,ml,C_103,Machine Learning Bootcamp,Data Science
+2026-07-03 09:15:58,U_1106,enroll,ml,C_103,Machine Learning Bootcamp,Data Science
+2026-07-03 09:19:53,U_1125,search,wireframe,,,
+2026-07-03 09:20:27,U_1125,view,wireframe,C_402,UI/UX Design Fundamentals,Design
+2026-07-03 09:59:12,U_1109,search,database,,,
+2026-07-03 10:19:05,U_1103,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-03 10:32:47,U_1123,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-03 10:58:18,U_1111,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-03 11:00:06,U_1111,enroll,,C_301,Excel for Beginners to Pro,Business
+2026-07-03 11:34:24,U_1126,search,react,,,
+2026-07-03 11:35:09,U_1126,view,react,C_202,Next.js Complete Guide,Web Development
+2026-07-03 11:38:30,U_1107,search,ai,,,
+2026-07-03 12:08:17,U_1098,view,,C_101,Introduction to Python,Data Science
+2026-07-03 13:38:50,U_1104,search,business,,,
+2026-07-03 14:44:31,U_1120,search,figma,,,
+2026-07-03 14:45:06,U_1120,view,figma,C_402,UI/UX Design Fundamentals,Design
+2026-07-03 16:25:31,U_1102,view,,C_102,Python for Data Science,Data Science
+2026-07-03 16:26:21,U_1115,search,data science,,,
+2026-07-03 16:26:43,U_1102,enroll,,C_102,Python for Data Science,Data Science
+2026-07-03 16:27:18,U_1115,view,data science,C_102,Python for Data Science,Data Science
+2026-07-03 16:32:16,U_1115,enroll,data science,C_102,Python for Data Science,Data Science
+2026-07-03 18:43:14,U_1108,search,analytics,,,
+2026-07-03 19:20:07,U_1117,search,sass,,,
+2026-07-03 19:20:47,U_1127,search,web development,,,
+2026-07-03 19:21:21,U_1127,view,web development,C_203,Django Web Dev from Scratch,Web Development
+2026-07-03 19:21:21,U_1127,view,web development,C_203,Django Web Dev from Scratch,Web Development
+2026-07-03 19:22:24,U_1127,enroll,web development,C_203,Django Web Dev from Scratch,Web Development
+2026-07-03 19:52:48,U_1116,view,,C_302,SQL Essentials for Business,Business
+2026-07-03 19:53:51,U_1116,enroll,,C_302,SQL Essentials for Business,Business
+2026-07-03 19:53:58,U_1121,search,data science,,,
+2026-07-03 19:58:17,U_1114,search,frontend,,,
+2026-07-03 20:01:05,U_1113,search,ui/ux,,,
+2026-07-03 20:01:54,U_1113,view,ui/ux,C_402,UI/UX Design Fundamentals,Design
+2026-07-03 20:23:39,U_1119,search,wireframe,,,
+2026-07-03 20:24:00,U_1119,view,wireframe,C_402,UI/UX Design Fundamentals,Design
+2026-07-03 20:37:27,U_1105,search,css,,,
+2026-07-03 20:45:17,U_1122,search,business,,,
+2026-07-03 20:46:03,U_1122,view,business,C_301,Excel for Beginners to Pro,Business
+2026-07-03 20:48:02,U_1122,enroll,business,C_301,Excel for Beginners to Pro,Business
+2026-07-04 00:46:09,U_1129,search,figma,,,
+2026-07-04 00:46:33,U_1129,view,figma,C_402,UI/UX Design Fundamentals,Design
+2026-07-04 04:29:23,U_1146,search,design,,,
+2026-07-04 04:30:52,U_1146,view,design,C_402,UI/UX Design Fundamentals,Design
+2026-07-04 04:34:47,U_1146,enroll,design,C_402,UI/UX Design Fundamentals,Design
+2026-07-04 05:26:07,U_1149,search,coding python,,,
+2026-07-04 05:27:25,U_1149,view,coding python,C_101,Introduction to Python,Data Science
+2026-07-04 07:57:01,U_1133,search,coding python,,,
+2026-07-04 07:58:01,U_1133,view,coding python,C_101,Introduction to Python,Data Science
+2026-07-04 08:00:00,U_1133,enroll,coding python,C_101,Introduction to Python,Data Science
+2026-07-04 09:08:05,U_1142,search,django,,,
+2026-07-04 09:15:54,U_1152,search,design,,,
+2026-07-04 09:27:06,U_1132,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-04 10:10:04,U_1136,search,frontend,,,
+2026-07-04 10:14:55,U_1145,search,wireframe,,,
+2026-07-04 10:16:21,U_1145,view,wireframe,C_402,UI/UX Design Fundamentals,Design
+2026-07-04 10:20:28,U_1145,enroll,wireframe,C_402,UI/UX Design Fundamentals,Design
+2026-07-04 10:29:23,U_1150,search,social media,,,
+2026-07-04 10:43:50,U_1134,search,machine learning,,,
+2026-07-04 10:44:53,U_1134,view,machine learning,C_103,Machine Learning Bootcamp,Data Science
+2026-07-04 10:55:21,U_1144,search,web development,,,
+2026-07-04 11:17:00,U_1139,search,ui/ux,,,
+2026-07-04 11:18:18,U_1139,view,ui/ux,C_402,UI/UX Design Fundamentals,Design
+2026-07-04 11:20:40,U_1131,search,excel,,,
+2026-07-04 11:21:03,U_1131,view,excel,C_301,Excel for Beginners to Pro,Business
+2026-07-04 13:08:50,U_1143,search,frontend,,,
+2026-07-04 13:09:26,U_1143,view,frontend,C_202,Next.js Complete Guide,Web Development
+2026-07-04 13:14:41,U_1148,view,,C_102,Python for Data Science,Data Science
+2026-07-04 13:19:12,U_1137,search,numpy,,,
+2026-07-04 13:41:05,U_1130,search,learn code,,,
+2026-07-04 16:01:39,U_1147,search,business,,,
+2026-07-04 17:36:22,U_1138,search,ads,,,
+2026-07-04 19:55:54,U_1128,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-04 19:57:30,U_1128,enroll,,C_301,Excel for Beginners to Pro,Business
+2026-07-04 20:14:29,U_1135,search,data analysis,,,
+2026-07-04 20:14:45,U_1135,view,data analysis,C_301,Excel for Beginners to Pro,Business
+2026-07-04 20:26:41,U_1151,search,business,,,
+2026-07-04 20:27:31,U_1151,view,business,C_301,Excel for Beginners to Pro,Business
+2026-07-04 20:31:25,U_1151,enroll,business,C_301,Excel for Beginners to Pro,Business
+2026-07-04 21:41:02,U_1141,view,,C_201,Mastering React,Web Development
+2026-07-04 21:45:32,U_1141,enroll,,C_201,Mastering React,Web Development
+2026-07-04 21:51:22,U_1140,search,ai,,,
+2026-07-05 01:25:04,U_1172,search,ui/ux,,,
+2026-07-05 01:25:30,U_1172,view,ui/ux,C_402,UI/UX Design Fundamentals,Design
+2026-07-05 04:07:48,U_1169,search,tensorflow,,,
+2026-07-05 06:23:09,U_1165,search,excel,,,
+2026-07-05 06:23:35,U_1165,view,excel,C_301,Excel for Beginners to Pro,Business
+2026-07-05 06:23:35,U_1165,view,excel,C_301,Excel for Beginners to Pro,Business
+2026-07-05 06:25:07,U_1165,enroll,excel,C_301,Excel for Beginners to Pro,Business
+2026-07-05 08:13:49,U_1176,search,frontend,,,
+2026-07-05 08:14:45,U_1176,view,frontend,C_201,Mastering React,Web Development
+2026-07-05 08:17:12,U_1153,search,web development,,,
+2026-07-05 09:17:54,U_1156,search,coding python,,,
+2026-07-05 09:22:06,U_1168,search,neural networks,,,
+2026-07-05 09:23:22,U_1168,view,neural networks,C_104,Deep Learning Specialization,Data Science
+2026-07-05 09:32:14,U_1159,search,pandas,,,
+2026-07-05 09:42:27,U_1174,search,business,,,
+2026-07-05 09:43:16,U_1174,view,business,C_301,Excel for Beginners to Pro,Business
+2026-07-05 09:44:59,U_1174,enroll,business,C_301,Excel for Beginners to Pro,Business
+2026-07-05 10:21:42,U_1167,search,web development,,,
+2026-07-05 11:04:55,U_1178,search,web development,,,
+2026-07-05 11:06:03,U_1178,view,web development,C_203,Django Web Dev from Scratch,Web Development
+2026-07-05 11:10:15,U_1178,enroll,web development,C_203,Django Web Dev from Scratch,Web Development
+2026-07-05 11:57:05,U_1161,search,machine learning,,,
+2026-07-05 11:57:36,U_1161,view,machine learning,C_103,Machine Learning Bootcamp,Data Science
+2026-07-05 12:41:40,U_1154,search,python,,,
+2026-07-05 12:42:37,U_1154,view,python,C_101,Introduction to Python,Data Science
+2026-07-05 13:10:23,U_1173,search,nextjs,,,
+2026-07-05 13:10:44,U_1173,view,nextjs,C_202,Next.js Complete Guide,Web Development
+2026-07-05 13:52:29,U_1164,search,marketing,,,
+2026-07-05 15:39:43,U_1170,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-05 16:18:29,U_1162,search,django,,,
+2026-07-05 16:43:43,U_1175,search,data analysis,,,
+2026-07-05 16:44:03,U_1175,view,data analysis,C_302,SQL Essentials for Business,Business
+2026-07-05 16:45:16,U_1175,enroll,data analysis,C_302,SQL Essentials for Business,Business
+2026-07-05 16:49:35,U_1163,search,tensorflow,,,
+2026-07-05 17:11:07,U_1157,search,learn python,,,
+2026-07-05 17:11:23,U_1157,view,learn python,C_101,Introduction to Python,Data Science
+2026-07-05 17:24:34,U_1177,search,data analysis,,,
+2026-07-05 17:24:58,U_1177,view,data analysis,C_302,SQL Essentials for Business,Business
+2026-07-05 17:26:04,U_1177,enroll,data analysis,C_302,SQL Essentials for Business,Business
+2026-07-05 17:44:17,U_1171,search,frontend,,,
+2026-07-05 17:45:15,U_1171,view,frontend,C_201,Mastering React,Web Development
+2026-07-05 18:16:03,U_1158,search,django,,,
+2026-07-05 18:16:26,U_1158,view,django,C_203,Django Web Dev from Scratch,Web Development
+2026-07-05 18:41:01,U_1160,search,business,,,
+2026-07-05 18:42:10,U_1160,view,business,C_301,Excel for Beginners to Pro,Business
+2026-07-05 19:23:51,U_1166,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-05 22:53:48,U_1155,search,sass,,,
+2026-07-05 22:54:32,U_1155,view,sass,C_401,Advanced CSS & Sass,Design
+2026-07-06 00:41:21,U_1209,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-06 00:43:16,U_1209,enroll,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-06 01:17:28,U_1206,view,,C_302,SQL Essentials for Business,Business
+2026-07-06 06:30:57,U_1202,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-06 07:15:45,U_1191,search,spreadsheet,,,
+2026-07-06 07:16:46,U_1191,view,spreadsheet,C_301,Excel for Beginners to Pro,Business
+2026-07-06 07:19:55,U_1191,enroll,spreadsheet,C_301,Excel for Beginners to Pro,Business
+2026-07-06 07:32:12,U_1182,search,programming,,,
+2026-07-06 07:58:14,U_1207,search,programming,,,
+2026-07-06 08:06:15,U_1180,search,django,,,
+2026-07-06 08:28:29,U_1203,search,web development,,,
+2026-07-06 08:30:44,U_1210,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-06 09:04:22,U_1216,search,ui/ux,,,
+2026-07-06 09:05:51,U_1216,view,ui/ux,C_402,UI/UX Design Fundamentals,Design
+2026-07-06 09:09:26,U_1216,enroll,ui/ux,C_402,UI/UX Design Fundamentals,Design
+2026-07-06 09:28:06,U_1190,view,,C_202,Next.js Complete Guide,Web Development
+2026-07-06 09:42:42,U_1214,search,nextjs,,,
+2026-07-06 09:44:04,U_1214,view,nextjs,C_202,Next.js Complete Guide,Web Development
+2026-07-06 10:14:21,U_1181,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-06 10:21:52,U_1217,search,wireframe,,,
+2026-07-06 10:23:08,U_1217,view,wireframe,C_402,UI/UX Design Fundamentals,Design
+2026-07-06 10:25:02,U_1217,enroll,wireframe,C_402,UI/UX Design Fundamentals,Design
+2026-07-06 10:29:48,U_1185,search,frontend,,,
+2026-07-06 10:53:47,U_1195,search,excel,,,
+2026-07-06 11:27:32,U_1196,search,frontend,,,
+2026-07-06 13:41:12,U_1189,view,,C_202,Next.js Complete Guide,Web Development
+2026-07-06 14:05:01,U_1211,search,ai,,,
+2026-07-06 14:05:30,U_1211,view,ai,C_103,Machine Learning Bootcamp,Data Science
+2026-07-06 14:23:53,U_1188,search,ui/ux,,,
+2026-07-06 14:25:12,U_1188,view,ui/ux,C_402,UI/UX Design Fundamentals,Design
+2026-07-06 15:35:59,U_1205,view,,C_102,Python for Data Science,Data Science
+2026-07-06 15:37:47,U_1205,enroll,,C_102,Python for Data Science,Data Science
+2026-07-06 16:32:36,U_1213,search,data science,,,
+2026-07-06 16:33:45,U_1213,view,data science,C_103,Machine Learning Bootcamp,Data Science
+2026-07-06 16:41:44,U_1194,search,machine learning,,,
+2026-07-06 16:42:38,U_1194,view,machine learning,C_103,Machine Learning Bootcamp,Data Science
+2026-07-06 16:50:28,U_1201,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-06 17:20:55,U_1186,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-06 17:25:32,U_1208,search,django,,,
+2026-07-06 17:26:34,U_1208,view,django,C_203,Django Web Dev from Scratch,Web Development
+2026-07-06 17:26:40,U_1212,search,excel,,,
+2026-07-06 17:27:09,U_1212,view,excel,C_301,Excel for Beginners to Pro,Business
+2026-07-06 17:32:09,U_1212,enroll,excel,C_301,Excel for Beginners to Pro,Business
+2026-07-06 17:40:24,U_1215,search,frontend,,,
+2026-07-06 18:29:02,U_1218,view,,C_201,Mastering React,Web Development
+2026-07-06 18:31:30,U_1218,enroll,,C_201,Mastering React,Web Development
+2026-07-06 18:46:15,U_1200,search,developer,,,
+2026-07-06 18:49:31,U_1197,search,ml,,,
+2026-07-06 18:49:55,U_1197,view,ml,C_103,Machine Learning Bootcamp,Data Science
+2026-07-06 19:11:38,U_1184,search,ui/ux,,,
+2026-07-06 19:28:40,U_1187,search,react,,,
+2026-07-06 19:29:40,U_1187,view,react,C_201,Mastering React,Web Development
+2026-07-06 19:49:39,U_1199,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-06 19:54:08,U_1199,enroll,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-06 20:08:55,U_1204,view,,C_201,Mastering React,Web Development
+2026-07-06 20:39:29,U_1179,search,social media,,,
+2026-07-06 20:43:24,U_1193,search,seo,,,
+2026-07-06 20:43:38,U_1192,view,,C_101,Introduction to Python,Data Science
+2026-07-06 20:44:21,U_1193,view,seo,C_501,Digital Marketing Masterclass,Marketing
+2026-07-06 20:47:14,U_1192,enroll,,C_101,Introduction to Python,Data Science
+2026-07-06 20:47:56,U_1198,search,design,,,
+2026-07-06 20:48:27,U_1198,view,design,C_402,UI/UX Design Fundamentals,Design
+2026-07-06 20:52:41,U_1183,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-06 20:55:26,U_1183,enroll,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-07 01:03:10,U_1245,search,business,,,
+2026-07-07 01:03:51,U_1245,view,business,C_301,Excel for Beginners to Pro,Business
+2026-07-07 01:05:49,U_1245,enroll,business,C_301,Excel for Beginners to Pro,Business
+2026-07-07 02:22:08,U_1238,search,business,,,
+2026-07-07 07:51:33,U_1223,search,numpy,,,
+2026-07-07 07:51:58,U_1223,view,numpy,C_102,Python for Data Science,Data Science
+2026-07-07 08:14:22,U_1240,view,,C_302,SQL Essentials for Business,Business
+2026-07-07 09:08:39,U_1235,view,,C_102,Python for Data Science,Data Science
+2026-07-07 09:09:57,U_1235,enroll,,C_102,Python for Data Science,Data Science
+2026-07-07 09:43:10,U_1226,view,,C_101,Introduction to Python,Data Science
+2026-07-07 10:03:18,U_1251,search,wireframe,,,
+2026-07-07 10:04:08,U_1237,view,,C_202,Next.js Complete Guide,Web Development
+2026-07-07 10:04:09,U_1251,view,wireframe,C_402,UI/UX Design Fundamentals,Design
+2026-07-07 10:39:07,U_1254,search,numpy,,,
+2026-07-07 10:40:09,U_1254,view,numpy,C_102,Python for Data Science,Data Science
+2026-07-07 10:55:58,U_1225,search,backend,,,
+2026-07-07 10:56:20,U_1225,view,backend,C_203,Django Web Dev from Scratch,Web Development
+2026-07-07 11:05:20,U_1224,search,web development,,,
+2026-07-07 11:06:29,U_1224,view,web development,C_201,Mastering React,Web Development
+2026-07-07 11:06:29,U_1224,view,web development,C_201,Mastering React,Web Development
+2026-07-07 11:11:01,U_1224,enroll,web development,C_201,Mastering React,Web Development
+2026-07-07 11:23:23,U_1228,search,data science,,,
+2026-07-07 11:24:45,U_1228,view,data science,C_102,Python for Data Science,Data Science
+2026-07-07 11:40:01,U_1244,search,design,,,
+2026-07-07 11:40:54,U_1244,view,design,C_402,UI/UX Design Fundamentals,Design
+2026-07-07 11:46:23,U_1252,view,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-07 11:50:15,U_1252,enroll,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-07 12:35:06,U_1247,search,excel,,,
+2026-07-07 12:35:06,U_1247,search,excel,,,
+2026-07-07 12:35:55,U_1247,view,excel,C_301,Excel for Beginners to Pro,Business
+2026-07-07 12:37:52,U_1247,enroll,excel,C_301,Excel for Beginners to Pro,Business
+2026-07-07 13:07:12,U_1234,search,tensorflow,,,
+2026-07-07 13:07:30,U_1234,view,tensorflow,C_104,Deep Learning Specialization,Data Science
+2026-07-07 13:35:34,U_1232,view,,C_201,Mastering React,Web Development
+2026-07-07 14:24:21,U_1222,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-07 15:59:44,U_1233,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-07 16:08:27,U_1239,search,python,,,
+2026-07-07 16:09:48,U_1239,view,python,C_101,Introduction to Python,Data Science
+2026-07-07 16:11:57,U_1239,enroll,python,C_101,Introduction to Python,Data Science
+2026-07-07 16:20:59,U_1219,view,,C_201,Mastering React,Web Development
+2026-07-07 16:20:59,U_1219,view,,C_201,Mastering React,Web Development
+2026-07-07 16:39:18,U_1230,search,spreadsheet,,,
+2026-07-07 16:39:48,U_1230,view,spreadsheet,C_301,Excel for Beginners to Pro,Business
+2026-07-07 16:41:10,U_1230,enroll,spreadsheet,C_301,Excel for Beginners to Pro,Business
+2026-07-07 17:41:21,U_1221,search,web development,,,
+2026-07-07 18:28:05,U_1231,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-07 18:46:30,U_1236,view,,C_302,SQL Essentials for Business,Business
+2026-07-07 19:16:02,U_1220,search,ai,,,
+2026-07-07 19:35:12,U_1253,search,react,,,
+2026-07-07 19:36:16,U_1253,view,react,C_201,Mastering React,Web Development
+2026-07-07 19:56:19,U_1250,search,numpy,,,
+2026-07-07 19:57:38,U_1250,view,numpy,C_102,Python for Data Science,Data Science
+2026-07-07 20:00:26,U_1250,enroll,numpy,C_102,Python for Data Science,Data Science
+2026-07-07 20:07:01,U_1229,search,business,,,
+2026-07-07 20:08:27,U_1229,view,business,C_301,Excel for Beginners to Pro,Business
+2026-07-07 20:40:35,U_1241,search,design,,,
+2026-07-07 20:41:58,U_1241,view,design,C_402,UI/UX Design Fundamentals,Design
+2026-07-07 20:46:55,U_1246,view,,C_202,Next.js Complete Guide,Web Development
+2026-07-07 20:49:36,U_1243,view,,C_201,Mastering React,Web Development
+2026-07-07 20:51:04,U_1246,enroll,,C_202,Next.js Complete Guide,Web Development
+2026-07-07 21:10:42,U_1242,search,styling,,,
+2026-07-07 21:12:09,U_1242,view,styling,C_401,Advanced CSS & Sass,Design
+2026-07-07 21:12:48,U_1249,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-07 21:13:08,U_1242,enroll,styling,C_401,Advanced CSS & Sass,Design
+2026-07-07 21:24:55,U_1248,search,neural networks,,,
+2026-07-07 22:28:02,U_1227,search,ai,,,
+2026-07-07 22:29:03,U_1227,view,ai,C_104,Deep Learning Specialization,Data Science
+2026-07-08 03:29:47,U_1286,search,social media,,,
+2026-07-08 03:45:37,U_1291,search,business,,,
+2026-07-08 03:45:59,U_1291,view,business,C_302,SQL Essentials for Business,Business
+2026-07-08 03:50:16,U_1291,enroll,business,C_302,SQL Essentials for Business,Business
+2026-07-08 04:29:43,U_1292,search,nextjs,,,
+2026-07-08 07:11:49,U_1295,search,wireframe,,,
+2026-07-08 07:46:55,U_1260,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-08 07:56:45,U_1284,view,,C_201,Mastering React,Web Development
+2026-07-08 08:12:38,U_1255,view,,C_302,SQL Essentials for Business,Business
+2026-07-08 08:36:44,U_1263,search,programming,,,
+2026-07-08 08:37:39,U_1263,view,programming,C_101,Introduction to Python,Data Science
+2026-07-08 10:22:49,U_1270,search,wireframe,,,
+2026-07-08 10:28:48,U_1282,search,frontend,,,
+2026-07-08 10:53:35,U_1289,search,data analysis,,,
+2026-07-08 11:41:23,U_1283,search,python,,,
+2026-07-08 11:42:37,U_1283,view,python,C_101,Introduction to Python,Data Science
+2026-07-08 11:57:04,U_1294,search,numpy,,,
+2026-07-08 11:59:50,U_1269,search,react,,,
+2026-07-08 12:01:18,U_1269,view,react,C_201,Mastering React,Web Development
+2026-07-08 12:58:30,U_1287,view,,C_302,SQL Essentials for Business,Business
+2026-07-08 13:18:20,U_1275,search,python,,,
+2026-07-08 13:19:48,U_1275,view,python,C_101,Introduction to Python,Data Science
+2026-07-08 13:49:39,U_1264,search,ml,,,
+2026-07-08 13:56:53,U_1276,search,programming,,,
+2026-07-08 13:58:11,U_1276,view,programming,C_101,Introduction to Python,Data Science
+2026-07-08 14:08:45,U_1256,search,business,,,
+2026-07-08 14:09:19,U_1256,view,business,C_301,Excel for Beginners to Pro,Business
+2026-07-08 14:11:15,U_1256,enroll,business,C_301,Excel for Beginners to Pro,Business
+2026-07-08 14:38:55,U_1288,search,business,,,
+2026-07-08 14:40:17,U_1288,view,business,C_302,SQL Essentials for Business,Business
+2026-07-08 14:43:07,U_1259,search,coding,,,
+2026-07-08 15:10:20,U_1290,search,ai,,,
+2026-07-08 15:23:39,U_1285,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-08 16:31:56,U_1278,search,deep learning,,,
+2026-07-08 16:41:50,U_1261,search,coding,,,
+2026-07-08 17:19:49,U_1268,search,tensorflow,,,
+2026-07-08 17:49:55,U_1267,search,design,,,
+2026-07-08 17:51:07,U_1279,search,social media,,,
+2026-07-08 17:51:11,U_1267,view,design,C_402,UI/UX Design Fundamentals,Design
+2026-07-08 17:53:32,U_1258,search,ads,,,
+2026-07-08 18:11:29,U_1266,search,sql,,,
+2026-07-08 18:21:50,U_1280,search,figma,,,
+2026-07-08 18:22:27,U_1280,view,figma,C_402,UI/UX Design Fundamentals,Design
+2026-07-08 18:36:38,U_1277,search,frontend,,,
+2026-07-08 19:00:47,U_1293,search,python,,,
+2026-07-08 19:01:56,U_1293,view,python,C_102,Python for Data Science,Data Science
+2026-07-08 19:05:25,U_1281,search,ml,,,
+2026-07-08 19:06:41,U_1281,view,ml,C_103,Machine Learning Bootcamp,Data Science
+2026-07-08 19:08:06,U_1272,search,sass,,,
+2026-07-08 19:08:52,U_1272,view,sass,C_401,Advanced CSS & Sass,Design
+2026-07-08 19:09:33,U_1281,enroll,ml,C_103,Machine Learning Bootcamp,Data Science
+2026-07-08 19:26:21,U_1273,search,data science,,,
+2026-07-08 19:35:20,U_1265,search,numpy,,,
+2026-07-08 19:45:05,U_1271,search,data analysis,,,
+2026-07-08 19:46:21,U_1271,view,data analysis,C_301,Excel for Beginners to Pro,Business
+2026-07-08 20:10:25,U_1257,search,database,,,
+2026-07-08 20:10:26,U_1274,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-08 22:03:37,U_1262,search,business,,,
+2026-07-09 01:43:57,U_1333,view,,C_302,SQL Essentials for Business,Business
+2026-07-09 01:47:31,U_1333,enroll,,C_302,SQL Essentials for Business,Business
+2026-07-09 02:25:58,U_1313,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-09 04:49:39,U_1336,search,sass,,,
+2026-07-09 05:03:06,U_1335,view,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-09 05:06:38,U_1301,search,css,,,
+2026-07-09 06:07:47,U_1312,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-09 06:49:59,U_1300,search,nextjs,,,
+2026-07-09 07:50:44,U_1334,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-09 08:31:29,U_1318,search,react,,,
+2026-07-09 08:58:56,U_1319,search,ui/ux,,,
+2026-07-09 09:00:18,U_1319,view,ui/ux,C_402,UI/UX Design Fundamentals,Design
+2026-07-09 09:04:43,U_1330,search,react,,,
+2026-07-09 09:46:34,U_1298,search,python,,,
+2026-07-09 09:47:20,U_1298,view,python,C_203,Django Web Dev from Scratch,Web Development
+2026-07-09 09:48:00,U_1320,search,figma,,,
+2026-07-09 09:48:23,U_1320,view,figma,C_402,UI/UX Design Fundamentals,Design
+2026-07-09 10:15:12,U_1324,search,frontend,,,
+2026-07-09 10:26:35,U_1308,search,python,,,
+2026-07-09 10:27:22,U_1308,view,python,C_203,Django Web Dev from Scratch,Web Development
+2026-07-09 10:38:38,U_1310,search,data science,,,
+2026-07-09 10:40:08,U_1310,view,data science,C_102,Python for Data Science,Data Science
+2026-07-09 11:11:59,U_1331,search,nextjs,,,
+2026-07-09 11:53:15,U_1317,search,design,,,
+2026-07-09 11:54:02,U_1317,view,design,C_402,UI/UX Design Fundamentals,Design
+2026-07-09 11:55:44,U_1329,search,numpy,,,
+2026-07-09 12:21:19,U_1311,view,,C_101,Introduction to Python,Data Science
+2026-07-09 13:14:34,U_1302,search,learn python,,,
+2026-07-09 13:45:09,U_1307,search,ml,,,
+2026-07-09 13:58:58,U_1296,search,data science,,,
+2026-07-09 13:59:57,U_1296,view,data science,C_102,Python for Data Science,Data Science
+2026-07-09 14:03:39,U_1321,search,frontend,,,
+2026-07-09 14:04:56,U_1321,view,frontend,C_401,Advanced CSS & Sass,Design
+2026-07-09 14:09:11,U_1321,enroll,frontend,C_401,Advanced CSS & Sass,Design
+2026-07-09 14:35:30,U_1327,search,learn python,,,
+2026-07-09 14:35:55,U_1327,view,learn python,C_101,Introduction to Python,Data Science
+2026-07-09 14:58:46,U_1303,search,design,,,
+2026-07-09 14:59:42,U_1303,view,design,C_401,Advanced CSS & Sass,Design
+2026-07-09 16:26:19,U_1304,search,database,,,
+2026-07-09 16:27:28,U_1304,view,database,C_302,SQL Essentials for Business,Business
+2026-07-09 16:46:48,U_1299,view,,C_102,Python for Data Science,Data Science
+2026-07-09 16:54:06,U_1328,search,pandas,,,
+2026-07-09 17:09:01,U_1316,search,design,,,
+2026-07-09 17:10:09,U_1316,view,design,C_401,Advanced CSS & Sass,Design
+2026-07-09 17:12:34,U_1316,enroll,design,C_401,Advanced CSS & Sass,Design
+2026-07-09 17:17:34,U_1322,search,nextjs,,,
+2026-07-09 17:17:34,U_1322,search,nextjs,,,
+2026-07-09 17:43:27,U_1323,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-09 18:05:34,U_1309,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-09 18:07:56,U_1309,enroll,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-09 18:14:53,U_1297,view,,C_101,Introduction to Python,Data Science
+2026-07-09 18:41:54,U_1326,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-09 18:42:24,U_1305,view,,C_302,SQL Essentials for Business,Business
+2026-07-09 18:42:55,U_1326,enroll,,C_402,UI/UX Design Fundamentals,Design
+2026-07-09 18:48:52,U_1332,search,django,,,
+2026-07-09 18:49:45,U_1332,view,django,C_203,Django Web Dev from Scratch,Web Development
+2026-07-09 19:17:50,U_1337,search,machine learning,,,
+2026-07-09 19:51:46,U_1315,search,react,,,
+2026-07-09 19:52:48,U_1315,view,react,C_202,Next.js Complete Guide,Web Development
+2026-07-09 21:25:29,U_1325,search,seo,,,
+2026-07-09 21:34:41,U_1314,search,frontend,,,
+2026-07-09 22:19:24,U_1306,search,business,,,
+2026-07-10 02:10:05,U_1372,search,ai,,,
+2026-07-10 02:10:24,U_1372,view,ai,C_104,Deep Learning Specialization,Data Science
+2026-07-10 02:13:36,U_1372,enroll,ai,C_104,Deep Learning Specialization,Data Science
+2026-07-10 02:25:48,U_1357,search,django,,,
+2026-07-10 02:26:04,U_1357,view,django,C_203,Django Web Dev from Scratch,Web Development
+2026-07-10 02:36:22,U_1378,view,,C_302,SQL Essentials for Business,Business
+2026-07-10 04:38:44,U_1348,search,react,,,
+2026-07-10 06:08:11,U_1370,search,excel,,,
+2026-07-10 06:23:44,U_1355,search,react,,,
+2026-07-10 06:53:41,U_1375,search,react,,,
+2026-07-10 06:54:53,U_1375,view,react,C_201,Mastering React,Web Development
+2026-07-10 06:56:22,U_1375,enroll,react,C_201,Mastering React,Web Development
+2026-07-10 07:06:05,U_1340,search,web development,,,
+2026-07-10 07:12:52,U_1371,search,business,,,
+2026-07-10 07:13:59,U_1371,view,business,C_302,SQL Essentials for Business,Business
+2026-07-10 07:47:49,U_1373,search,sql,,,
+2026-07-10 07:49:17,U_1373,view,sql,C_302,,Business
+2026-07-10 08:49:05,U_1343,search,database,,,
+2026-07-10 08:50:33,U_1343,view,database,C_302,SQL Essentials for Business,Business
+2026-07-10 08:54:32,U_1343,enroll,database,C_302,SQL Essentials for Business,Business
+2026-07-10 08:59:58,U_1354,search,ui/ux,,,
+2026-07-10 09:08:36,U_1369,search,ai,,,
+2026-07-10 09:09:59,U_1369,view,ai,C_103,Machine Learning Bootcamp,Data Science
+2026-07-10 10:49:51,U_1376,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-10 11:15:46,U_1345,search,design,,,
+2026-07-10 11:16:26,U_1345,view,design,C_401,Advanced CSS & Sass,Design
+2026-07-10 11:18:20,U_1345,enroll,design,C_401,Advanced CSS & Sass,Design
+2026-07-10 11:42:55,U_1366,search,design,,,
+2026-07-10 11:43:59,U_1366,view,design,C_402,UI/UX Design Fundamentals,Design
+2026-07-10 11:44:40,U_1349,search,sass,,,
+2026-07-10 11:45:36,U_1349,view,sass,C_401,Advanced CSS & Sass,Design
+2026-07-10 11:49:42,U_1349,enroll,sass,C_401,Advanced CSS & Sass,Design
+2026-07-10 11:54:21,U_1361,search,figma,,,
+2026-07-10 11:55:07,U_1361,view,figma,C_402,UI/UX Design Fundamentals,Design
+2026-07-10 12:15:45,U_1339,search,javascript,,,
+2026-07-10 12:16:48,U_1339,view,javascript,C_201,Mastering React,Web Development
+2026-07-10 12:17:31,U_1344,search,ai,,,
+2026-07-10 12:18:21,U_1344,view,ai,C_103,Machine Learning Bootcamp,Data Science
+2026-07-10 12:50:20,U_1342,search,seo,,,
+2026-07-10 12:56:12,U_1363,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-10 13:00:36,U_1363,enroll,,C_301,Excel for Beginners to Pro,Business
+2026-07-10 13:05:11,U_1341,search,business,,,
+2026-07-10 13:05:39,U_1341,view,business,C_302,SQL Essentials for Business,Business
+2026-07-10 13:46:29,U_1351,search,marketing,,,
+2026-07-10 14:13:17,U_1364,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-10 15:30:22,U_1360,search,business,,,
+2026-07-10 15:31:17,U_1360,view,business,C_301,Excel for Beginners to Pro,Business
+2026-07-10 15:37:44,U_1358,search,data analysis,,,
+2026-07-10 15:38:49,U_1358,view,data analysis,C_301,Excel for Beginners to Pro,Business
+2026-07-10 15:40:51,U_1358,enroll,data analysis,C_301,Excel for Beginners to Pro,Business
+2026-07-10 16:12:37,U_1350,view,,C_302,SQL Essentials for Business,Business
+2026-07-10 16:15:42,U_1356,search,machine learning,,,
+2026-07-10 16:21:27,U_1347,search,tutorial,,,
+2026-07-10 16:21:53,U_1346,view,,C_401,Advanced CSS & Sass,Design
+2026-07-10 16:29:14,U_1362,search,figma,,,
+2026-07-10 16:29:52,U_1362,view,figma,C_402,UI/UX Design Fundamentals,Design
+2026-07-10 17:19:15,U_1353,search,ai,,,
+2026-07-10 17:20:18,U_1353,view,ai,C_103,Machine Learning Bootcamp,Data Science
+2026-07-10 17:24:27,U_1338,search,frontend,,,
+2026-07-10 17:48:46,U_1374,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-10 19:22:55,U_1377,search,wireframe,,,
+2026-07-10 19:22:55,U_1377,search,wireframe,,,
+2026-07-10 19:23:31,U_1377,view,wireframe,C_402,UI/UX Design Fundamentals,Design
+2026-07-10 19:53:44,U_1352,view,,C_102,Python for Data Science,Data Science
+2026-07-10 20:06:18,U_1359,search,python,,,
+2026-07-10 20:06:51,U_1359,view,python,C_102,Python for Data Science,Data Science
+2026-07-10 20:34:11,U_1365,view,,C_202,Next.js Complete Guide,Web Development
+2026-07-10 20:37:42,U_1365,enroll,,C_202,Next.js Complete Guide,Web Development
+2026-07-10 20:43:08,U_1368,search,ai,,,
+2026-07-10 20:43:37,U_1368,view,ai,C_104,Deep Learning Specialization,Data Science
+2026-07-10 21:39:11,U_1367,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-11 07:09:45,U_1381,search,tensorflow,,,
+2026-07-11 07:11:02,U_1381,view,tensorflow,C_104,Deep Learning Specialization,Data Science
+2026-07-11 08:44:58,U_1388,search,design,,,
+2026-07-11 08:45:33,U_1388,view,design,C_402,UI/UX Design Fundamentals,Design
+2026-07-11 08:48:38,U_1388,enroll,design,C_402,UI/UX Design Fundamentals,Design
+2026-07-11 10:10:28,U_1387,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-11 10:26:39,U_1395,search,deep learning,,,
+2026-07-11 10:27:06,U_1395,view,deep learning,C_104,Deep Learning Specialization,Data Science
+2026-07-11 10:58:03,U_1380,view,,C_201,Mastering React,Web Development
+2026-07-11 11:27:44,U_1392,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-11 11:32:33,U_1392,enroll,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-11 11:46:51,U_1393,search,frontend,,,
+2026-07-11 11:47:44,U_1393,view,frontend,C_202,Next.js Complete Guide,Web Development
+2026-07-11 12:03:50,U_1398,search,learn python,,,
+2026-07-11 16:37:00,U_1383,search,styling,,,
+2026-07-11 17:04:40,U_1382,search,numpy,,,
+2026-07-11 17:06:00,U_1382,view,numpy,C_102,Python for Data Science,Data Science
+2026-07-11 18:04:33,U_1394,search,sass,,,
+2026-07-11 18:05:23,U_1389,search,figma,,,
+2026-07-11 18:05:44,U_1389,view,figma,C_402,UI/UX Design Fundamentals,Design
+2026-07-11 18:05:44,U_1394,view,sass,C_401,Advanced CSS & Sass,Design
+2026-07-11 18:27:52,U_1385,search,frontend,,,
+2026-07-11 18:28:43,U_1385,view,frontend,C_201,Mastering React,Web Development
+2026-07-11 19:21:57,U_1386,search,python,,,
+2026-07-11 19:22:24,U_1386,view,python,C_101,Introduction to Python,Data Science
+2026-07-11 19:27:04,U_1386,enroll,python,C_101,Introduction to Python,Data Science
+2026-07-11 19:27:41,U_1390,view,,C_102,Python for Data Science,Data Science
+2026-07-11 19:29:14,U_1390,enroll,,C_102,Python for Data Science,Data Science
+2026-07-11 19:44:22,U_1384,search,react,,,
+2026-07-11 19:45:18,U_1379,search,react,,,
+2026-07-11 19:54:54,U_1397,search,javascript,,,
+2026-07-11 19:56:15,U_1397,view,javascript,C_201,Mastering React,Web Development
+2026-07-11 20:27:20,U_1396,search,ai,,,
+2026-07-11 20:27:45,U_1396,view,ai,C_104,Deep Learning Specialization,Data Science
+2026-07-11 22:08:37,U_1391,search,wireframe,,,
+2026-07-11 22:08:53,U_1391,view,wireframe,C_402,UI/UX Design Fundamentals,Design
+2026-07-12 01:49:55,U_1408,search,python,,,
+2026-07-12 05:06:09,U_1425,view,,C_102,Python for Data Science,Data Science
+2026-07-12 07:01:37,U_1401,view,,C_102,Python for Data Science,Data Science
+2026-07-12 07:02:29,U_1401,enroll,,C_102,Python for Data Science,Data Science
+2026-07-12 07:10:23,U_1410,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-12 07:37:36,U_1423,search,figma,,,
+2026-07-12 07:38:21,U_1423,view,figma,C_402,UI/UX Design Fundamentals,Design
+2026-07-12 10:36:50,U_1417,search,sass,,,
+2026-07-12 10:38:04,U_1417,view,sass,C_401,Advanced CSS & Sass,Design
+2026-07-12 10:43:46,U_1411,view,,C_102,Python for Data Science,Data Science
+2026-07-12 10:46:57,U_1418,view,,C_302,SQL Essentials for Business,Business
+2026-07-12 10:49:47,U_1418,enroll,,C_302,SQL Essentials for Business,Business
+2026-07-12 10:54:15,U_1405,search,numpy,,,
+2026-07-12 10:54:44,U_1405,view,numpy,C_102,Python for Data Science,Data Science
+2026-07-12 10:55:57,U_1405,enroll,numpy,C_102,Python for Data Science,Data Science
+2026-07-12 11:10:31,U_1407,view,,C_202,Next.js Complete Guide,Web Development
+2026-07-12 11:13:28,U_1407,enroll,,C_202,Next.js Complete Guide,Web Development
+2026-07-12 12:19:20,U_1416,view,,C_102,Python for Data Science,Data Science
+2026-07-12 12:23:58,U_1416,enroll,,C_102,Python for Data Science,Data Science
+2026-07-12 13:09:17,U_1403,search,data science,,,
+2026-07-12 13:09:51,U_1403,view,data science,C_102,Python for Data Science,Data Science
+2026-07-12 13:53:47,U_1424,search,data analysis,,,
+2026-07-12 13:54:31,U_1424,view,data analysis,C_301,Excel for Beginners to Pro,Business
+2026-07-12 13:56:59,U_1424,enroll,data analysis,C_301,Excel for Beginners to Pro,Business
+2026-07-12 15:58:46,U_1414,search,pandas,,,
+2026-07-12 15:59:16,U_1414,view,pandas,C_102,Python for Data Science,Data Science
+2026-07-12 16:00:27,U_1414,enroll,pandas,C_102,Python for Data Science,Data Science
+2026-07-12 16:02:25,U_1415,view,,C_102,Python for Data Science,Data Science
+2026-07-12 17:01:14,U_1419,view,,C_302,SQL Essentials for Business,Business
+2026-07-12 18:00:21,U_1420,search,wireframe,,,
+2026-07-12 18:01:15,U_1420,view,wireframe,C_402,UI/UX Design Fundamentals,Design
+2026-07-12 18:09:45,U_1421,view,,C_201,Mastering React,Web Development
+2026-07-12 18:11:17,U_1421,enroll,,C_201,Mastering React,Web Development
+2026-07-12 18:31:40,U_1399,search,sql,,,
+2026-07-12 18:54:33,U_1422,search,web development,,,
+2026-07-12 18:54:58,U_1422,view,web development,C_202,Next.js Complete Guide,Web Development
+2026-07-12 18:55:53,U_1400,search,react,,,
+2026-07-12 19:41:43,U_1404,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-12 20:03:50,U_1402,search,web development,,,
+2026-07-12 20:04:16,U_1409,search,css,,,
+2026-07-12 20:04:59,U_1402,view,web development,C_201,Mastering React,Web Development
+2026-07-12 20:05:34,U_1409,view,css,C_401,Advanced CSS & Sass,Design
+2026-07-12 20:09:23,U_1409,enroll,css,C_401,Advanced CSS & Sass,Design
+2026-07-12 20:47:11,U_1406,view,,C_102,Python for Data Science,Data Science
+2026-07-12 21:02:35,U_1413,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-12 21:54:55,U_1412,search,programming,,,
+2026-07-12 21:55:56,U_1412,view,programming,C_101,Introduction to Python,Data Science
+2026-07-12 21:57:57,U_1412,enroll,programming,C_101,Introduction to Python,Data Science
+2026-07-13 01:06:04,U_1457,search,python,,,
+2026-07-13 05:41:10,U_1459,search,python,,,
+2026-07-13 05:41:31,U_1459,view,python,C_203,Django Web Dev from Scratch,Web Development
+2026-07-13 06:18:08,U_1450,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-13 06:24:22,U_1441,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-13 06:27:11,U_1435,search,data science,,,
+2026-07-13 06:28:01,U_1435,view,data science,C_103,Machine Learning Bootcamp,Data Science
+2026-07-13 06:30:02,U_1435,enroll,data science,C_103,Machine Learning Bootcamp,Data Science
+2026-07-13 06:42:15,U_1440,search,marketing,,,
+2026-07-13 06:56:51,U_1437,search,ui/ux,,,
+2026-07-13 06:57:54,U_1437,view,ui/ux,C_402,UI/UX Design Fundamentals,Design
+2026-07-13 07:15:06,U_1430,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-13 07:19:15,U_1461,search,web development,,,
+2026-07-13 07:19:49,U_1461,view,web development,C_203,Django Web Dev from Scratch,Web Development
+2026-07-13 07:27:52,U_1434,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-13 07:35:46,U_1460,search,react,,,
+2026-07-13 07:56:26,U_1455,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-13 08:00:03,U_1431,search,javascript,,,
+2026-07-13 08:00:24,U_1455,enroll,,C_301,Excel for Beginners to Pro,Business
+2026-07-13 11:10:40,U_1453,view,,C_102,Python for Data Science,Data Science
+2026-07-13 11:11:01,U_1429,search,ai,,,
+2026-07-13 11:31:02,U_1444,search,neural networks,,,
+2026-07-13 11:36:12,U_1443,search,machine learning,,,
+2026-07-13 11:40:31,U_1449,search,data science,,,
+2026-07-13 11:41:14,U_1449,view,data science,C_103,Machine Learning Bootcamp,Data Science
+2026-07-13 12:05:21,U_1458,view,,C_401,Advanced CSS & Sass,Design
+2026-07-13 12:16:54,U_1427,search,data science,,,
+2026-07-13 12:17:14,U_1427,view,data science,C_103,Machine Learning Bootcamp,Data Science
+2026-07-13 13:53:30,U_1456,search,sass,,,
+2026-07-13 13:54:05,U_1456,view,sass,C_401,Advanced CSS & Sass,Design
+2026-07-13 13:55:07,U_1456,enroll,sass,C_401,Advanced CSS & Sass,Design
+2026-07-13 14:34:22,U_1426,search,marketing,,,
+2026-07-13 14:51:39,U_1452,search,css,,,
+2026-07-13 14:52:57,U_1452,view,css,C_401,Advanced CSS & Sass,Design
+2026-07-13 14:54:21,U_1452,enroll,css,C_401,Advanced CSS & Sass,Design
+2026-07-13 15:23:11,U_1464,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-13 15:24:18,U_1464,enroll,,C_301,Excel for Beginners to Pro,Business
+2026-07-13 16:42:40,U_1462,search,deep learning,,,
+2026-07-13 16:42:58,U_1462,view,deep learning,C_104,Deep Learning Specialization,Data Science
+2026-07-13 16:57:41,U_1433,search,machine learning,,,
+2026-07-13 16:58:38,U_1433,view,machine learning,C_103,Machine Learning Bootcamp,Data Science
+2026-07-13 17:03:19,U_1433,enroll,machine learning,C_103,Machine Learning Bootcamp,Data Science
+2026-07-13 17:15:41,U_1436,search,web development,,,
+2026-07-13 17:16:03,U_1436,view,web development,C_203,Django Web Dev from Scratch,Web Development
+2026-07-13 17:20:04,U_1436,enroll,web development,C_203,Django Web Dev from Scratch,Web Development
+2026-07-13 17:20:38,U_1439,search,react,,,
+2026-07-13 17:21:53,U_1439,view,react,C_201,Mastering React,Web Development
+2026-07-13 18:07:19,U_1463,search,business,,,
+2026-07-13 18:08:07,U_1463,view,business,C_301,Excel for Beginners to Pro,Business
+2026-07-13 18:12:10,U_1463,enroll,business,C_301,Excel for Beginners to Pro,Business
+2026-07-13 18:25:23,U_1432,search,ui/ux,,,
+2026-07-13 18:25:54,U_1451,view,,C_401,Advanced CSS & Sass,Design
+2026-07-13 18:26:52,U_1432,view,ui/ux,C_402,UI/UX Design Fundamentals,Design
+2026-07-13 18:26:55,U_1451,enroll,,C_401,Advanced CSS & Sass,Design
+2026-07-13 18:28:15,U_1432,enroll,ui/ux,C_402,UI/UX Design Fundamentals,Design
+2026-07-13 18:42:25,U_1448,search,frontend,,,
+2026-07-13 18:43:21,U_1448,view,frontend,C_202,Next.js Complete Guide,Web Development
+2026-07-13 19:22:25,U_1428,view,,C_302,SQL Essentials for Business,Business
+2026-07-13 19:22:58,U_1438,view,,C_401,Advanced CSS & Sass,Design
+2026-07-13 19:26:27,U_1438,enroll,,C_401,Advanced CSS & Sass,Design
+2026-07-13 19:58:39,U_1445,search,data science,,,
+2026-07-13 20:15:44,U_1454,search,react,,,
+2026-07-13 20:15:59,U_1454,view,react,C_201,Mastering React,Web Development
+2026-07-13 21:14:53,U_1465,search,learn python,,,
+2026-07-13 21:15:20,U_1465,view,learn python,C_101,Introduction to Python,Data Science
+2026-07-13 21:20:03,U_1446,view,,C_101,Introduction to Python,Data Science
+2026-07-13 21:20:03,U_1446,view,,C_101,Introduction to Python,Data Science
+2026-07-13 22:47:44,U_1442,search,css,,,
+2026-07-13 22:49:07,U_1447,view,,C_302,SQL Essentials for Business,Business
+2026-07-14 01:27:05,U_1471,search,ads,,,
+2026-07-14 04:01:55,U_1487,search,ui/ux,,,
+2026-07-14 04:51:04,U_1473,view,,C_102,Python for Data Science,Data Science
+2026-07-14 06:11:17,U_1477,search,design,,,
+2026-07-14 06:12:23,U_1477,view,design,C_401,Advanced CSS & Sass,Design
+2026-07-14 06:14:47,U_1498,search,ui/ux,,,
+2026-07-14 08:44:56,U_1506,search,machine learning,,,
+2026-07-14 08:46:00,U_1506,view,machine learning,C_103,Machine Learning Bootcamp,Data Science
+2026-07-14 09:36:43,U_1469,search,spreadsheet,,,
+2026-07-14 09:52:12,U_1494,view,,C_202,Next.js Complete Guide,Web Development
+2026-07-14 10:26:34,U_1467,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-14 10:38:51,U_1488,search,frontend,,,
+2026-07-14 10:39:41,U_1488,view,frontend,C_201,Mastering React,Web Development
+2026-07-14 10:40:11,U_1503,search,python,,,
+2026-07-14 10:41:23,U_1503,view,python,C_101,Introduction to Python,Data Science
+2026-07-14 10:46:01,U_1493,search,frontend,,,
+2026-07-14 10:47:09,U_1493,view,frontend,C_201,Mastering React,Web Development
+2026-07-14 11:10:53,U_1496,search,database,,,
+2026-07-14 11:11:45,U_1496,view,database,C_302,SQL Essentials for Business,Business
+2026-07-14 11:37:14,U_1466,view,,C_302,SQL Essentials for Business,Business
+2026-07-14 12:12:53,U_1483,view,,C_101,Introduction to Python,Data Science
+2026-07-14 12:15:45,U_1483,enroll,,C_101,Introduction to Python,Data Science
+2026-07-14 12:30:58,U_1495,search,programming,,,
+2026-07-14 12:55:17,U_1491,search,ads,,,
+2026-07-14 12:55:56,U_1491,view,ads,C_501,Digital Marketing Masterclass,Marketing
+2026-07-14 13:06:59,U_1475,search,pandas,,,
+2026-07-14 13:29:09,U_1502,view,,C_202,Next.js Complete Guide,Web Development
+2026-07-14 13:46:26,U_1480,search,data science,,,
+2026-07-14 13:47:37,U_1480,view,data science,C_102,Python for Data Science,Data Science
+2026-07-14 14:30:58,U_1478,search,nextjs,,,
+2026-07-14 15:31:38,U_1485,search,data analysis,,,
+2026-07-14 15:32:37,U_1485,view,data analysis,C_301,Excel for Beginners to Pro,Business
+2026-07-14 15:35:48,U_1497,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-14 16:23:45,U_1484,search,web development,,,
+2026-07-14 16:25:04,U_1484,view,web development,C_202,Next.js Complete Guide,Web Development
+2026-07-14 16:51:51,U_1492,view,,C_401,Advanced CSS & Sass,Design
+2026-07-14 16:55:23,U_1481,view,,C_101,Introduction to Python,Data Science
+2026-07-14 16:57:29,U_1481,enroll,,C_101,Introduction to Python,Data Science
+2026-07-14 17:12:46,U_1505,search,coding python,,,
+2026-07-14 17:14:08,U_1505,view,coding python,C_101,Introduction to Python,Data Science
+2026-07-14 17:25:08,U_1482,view,,C_302,SQL Essentials for Business,Business
+2026-07-14 17:26:07,U_1482,enroll,,C_302,SQL Essentials for Business,Business
+2026-07-14 17:55:54,U_1501,search,ai,,,
+2026-07-14 19:08:21,U_1508,search,machine learning,,,
+2026-07-14 19:18:19,U_1490,search,excel,,,
+2026-07-14 19:19:05,U_1468,search,marketing,,,
+2026-07-14 19:50:48,U_1504,search,ai,,,
+2026-07-14 19:51:57,U_1504,view,ai,C_103,Machine Learning Bootcamp,Data Science
+2026-07-14 20:18:01,U_1486,search,ml,,,
+2026-07-14 20:18:44,U_1486,view,ml,C_103,Machine Learning Bootcamp,Data Science
+2026-07-14 20:19:18,U_1507,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-14 20:22:55,U_1507,enroll,,C_301,Excel for Beginners to Pro,Business
+2026-07-14 20:54:17,U_1474,search,programming,,,
+2026-07-14 20:54:46,U_1474,view,programming,C_101,Introduction to Python,Data Science
+2026-07-14 21:13:29,U_1489,search,business,,,
+2026-07-14 21:14:58,U_1489,view,business,C_302,SQL Essentials for Business,Business
+2026-07-14 21:17:53,U_1479,search,marketing,,,
+2026-07-14 21:18:37,U_1479,view,marketing,C_501,Digital Marketing Masterclass,Marketing
+2026-07-14 21:28:11,U_1470,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-14 21:40:09,U_1472,view,,C_401,Advanced CSS & Sass,Design
+2026-07-14 21:43:06,U_1472,enroll,,C_401,Advanced CSS & Sass,Design
+2026-07-14 22:37:18,U_1499,search,numpy,,,
+2026-07-14 22:39:04,U_1500,search,deep learning,,,
+2026-07-14 23:16:24,U_1476,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-15 02:53:36,U_1516,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-15 02:58:33,U_1516,enroll,,C_402,UI/UX Design Fundamentals,Design
+2026-07-15 03:21:29,U_1558,search,machine learning,,,
+2026-07-15 04:10:02,U_1515,search,tensorflow,,,
+2026-07-15 04:10:59,U_1515,view,tensorflow,C_104,Deep Learning Specialization,Data Science
+2026-07-15 05:54:30,U_1529,search,neural networks,,,
+2026-07-15 07:18:43,U_1547,search,figma,,,
+2026-07-15 07:19:20,U_1547,view,figma,C_402,UI/UX Design Fundamentals,Design
+2026-07-15 08:02:00,U_1520,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-15 08:12:45,U_1540,view,,C_202,Next.js Complete Guide,Web Development
+2026-07-15 08:32:07,U_1557,search,backend,,,
+2026-07-15 08:33:33,U_1557,view,backend,C_203,Django Web Dev from Scratch,Web Development
+2026-07-15 09:18:13,U_1562,search,developer,,,
+2026-07-15 09:44:37,U_1543,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-15 09:46:27,U_1543,enroll,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-15 09:47:46,U_1538,view,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-15 10:57:39,U_1528,view,,C_101,Introduction to Python,Data Science
+2026-07-15 11:07:25,U_1522,search,data analysis,,,
+2026-07-15 11:08:29,U_1522,view,data analysis,C_301,Excel for Beginners to Pro,Business
+2026-07-15 11:32:04,U_1517,search,pandas,,,
+2026-07-15 11:32:48,U_1517,view,pandas,C_102,Python for Data Science,Data Science
+2026-07-15 11:36:04,U_1517,enroll,pandas,C_102,Python for Data Science,Data Science
+2026-07-15 11:38:12,U_1556,search,ai,,,
+2026-07-15 11:39:24,U_1556,view,ai,C_104,Deep Learning Specialization,Data Science
+2026-07-15 11:44:07,U_1512,search,django,,,
+2026-07-15 11:44:44,U_1527,search,python,,,
+2026-07-15 11:45:32,U_1512,view,django,C_203,Django Web Dev from Scratch,Web Development
+2026-07-15 11:46:00,U_1527,view,python,C_203,Django Web Dev from Scratch,Web Development
+2026-07-15 11:50:02,U_1527,enroll,python,C_203,Django Web Dev from Scratch,Web Development
+2026-07-15 11:59:35,U_1546,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-15 12:07:59,U_1539,search,marketing,,,
+2026-07-15 12:36:14,U_1526,search,course,,,
+2026-07-15 13:09:53,U_1551,search,javascript,,,
+2026-07-15 13:11:17,U_1551,view,javascript,C_201,Mastering React,Web Development
+2026-07-15 13:15:53,U_1551,enroll,javascript,C_201,Mastering React,Web Development
+2026-07-15 13:34:18,U_1549,view,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-15 14:41:42,U_1534,search,frontend,,,
+2026-07-15 14:50:43,U_1554,search,sql,,,
+2026-07-15 14:50:59,U_1554,view,sql,C_302,SQL Essentials for Business,Business
+2026-07-15 14:51:44,U_1553,view,,C_201,,Web Development
+2026-07-15 15:39:17,U_1521,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-15 15:47:03,U_1542,search,web development,,,
+2026-07-15 16:08:08,U_1545,search,ads,,,
+2026-07-15 16:33:14,U_1560,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-15 16:49:34,U_1511,search,css,,,
+2026-07-15 17:34:34,U_1561,search,react,,,
+2026-07-15 17:35:30,U_1548,view,,C_401,Advanced CSS & Sass,Design
+2026-07-15 17:38:56,U_1544,search,web development,,,
+2026-07-15 17:39:42,U_1544,view,web development,C_203,Django Web Dev from Scratch,Web Development
+2026-07-15 18:08:13,U_1510,search,design,,,
+2026-07-15 18:08:49,U_1510,view,design,C_401,Advanced CSS & Sass,Design
+2026-07-15 18:09:03,U_1550,search,ai,,,
+2026-07-15 18:09:53,U_1510,enroll,design,C_401,Advanced CSS & Sass,Design
+2026-07-15 18:21:35,U_1535,view,,C_401,Advanced CSS & Sass,Design
+2026-07-15 18:49:59,U_1559,search,design,,,
+2026-07-15 18:51:16,U_1559,view,design,C_402,UI/UX Design Fundamentals,Design
+2026-07-15 18:55:04,U_1559,enroll,design,C_402,UI/UX Design Fundamentals,Design
+2026-07-15 19:02:04,U_1525,search,nextjs,,,
+2026-07-15 19:06:02,U_1537,search,machine learning,,,
+2026-07-15 19:11:39,U_1524,search,nextjs,,,
+2026-07-15 19:12:10,U_1524,view,nextjs,C_202,Next.js Complete Guide,Web Development
+2026-07-15 19:17:04,U_1524,enroll,nextjs,C_202,Next.js Complete Guide,Web Development
+2026-07-15 19:18:07,U_1514,search,spreadsheet,,,
+2026-07-15 19:18:47,U_1514,view,spreadsheet,C_301,Excel for Beginners to Pro,Business
+2026-07-15 19:20:15,U_1530,view,,C_202,Next.js Complete Guide,Web Development
+2026-07-15 19:20:15,U_1530,view,,C_202,Next.js Complete Guide,Web Development
+2026-07-15 19:21:15,U_1514,enroll,spreadsheet,C_301,Excel for Beginners to Pro,Business
+2026-07-15 19:23:22,U_1530,enroll,,C_202,Next.js Complete Guide,Web Development
+2026-07-15 19:41:24,U_1531,search,deep learning,,,
+2026-07-15 19:42:37,U_1531,view,deep learning,C_104,Deep Learning Specialization,Data Science
+2026-07-15 19:47:11,U_1531,enroll,deep learning,C_104,Deep Learning Specialization,Data Science
+2026-07-15 19:47:35,U_1552,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-15 19:47:35,U_1552,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-15 19:52:11,U_1518,search,wireframe,,,
+2026-07-15 19:55:28,U_1555,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-15 20:00:19,U_1513,search,pandas,,,
+2026-07-15 20:00:51,U_1513,view,pandas,C_102,Python for Data Science,Data Science
+2026-07-15 20:28:07,U_1536,search,figma,,,
+2026-07-15 20:28:22,U_1536,view,figma,C_402,UI/UX Design Fundamentals,Design
+2026-07-15 21:40:53,U_1541,search,numpy,,,
+2026-07-15 21:42:06,U_1541,view,numpy,C_102,Python for Data Science,Data Science
+2026-07-15 21:51:10,U_1523,search,marketing,,,
+2026-07-15 21:51:45,U_1523,view,marketing,C_501,Digital Marketing Masterclass,Marketing
+2026-07-15 21:58:58,U_1509,search,nextjs,,,
+2026-07-15 22:20:27,U_1519,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-15 22:22:11,U_1519,enroll,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-15 23:20:07,U_1532,search,tutorial,,,
+2026-07-15 23:26:02,U_1533,search,python,,,
+2026-07-16 01:15:57,U_1564,search,sass,,,
+2026-07-16 04:36:09,U_1600,search,javascript,,,
+2026-07-16 06:11:30,U_1604,search,web dev,,,
+2026-07-16 06:25:14,U_1587,search,coding,,,
+2026-07-16 07:34:32,U_1605,view,,C_102,Python for Data Science,Data Science
+2026-07-16 08:02:14,U_1591,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-16 08:04:14,U_1603,search,machine learning,,,
+2026-07-16 08:04:31,U_1603,view,machine learning,C_103,Machine Learning Bootcamp,Data Science
+2026-07-16 08:04:57,U_1591,enroll,,C_301,Excel for Beginners to Pro,Business
+2026-07-16 08:21:46,U_1598,search,wireframe,,,
+2026-07-16 08:23:02,U_1598,view,wireframe,C_402,UI/UX Design Fundamentals,Design
+2026-07-16 08:32:32,U_1588,search,nextjs,,,
+2026-07-16 08:36:40,U_1601,search,ads,,,
+2026-07-16 08:36:42,U_1590,search,spreadsheet,,,
+2026-07-16 08:37:05,U_1601,view,ads,C_501,Digital Marketing Masterclass,Marketing
+2026-07-16 08:39:43,U_1589,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-16 08:52:48,U_1563,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-16 08:53:37,U_1563,enroll,,C_402,UI/UX Design Fundamentals,Design
+2026-07-16 08:57:46,U_1577,view,,C_202,Next.js Complete Guide,Web Development
+2026-07-16 09:02:41,U_1593,view,,C_202,Next.js Complete Guide,Web Development
+2026-07-16 09:15:02,U_1599,search,sass,,,
+2026-07-16 09:23:55,U_1607,search,business,,,
+2026-07-16 09:52:37,U_1586,search,sass,,,
+2026-07-16 09:52:56,U_1586,view,sass,C_401,Advanced CSS & Sass,Design
+2026-07-16 09:52:56,U_1586,view,sass,C_401,Advanced CSS & Sass,Design
+2026-07-16 10:06:11,U_1584,search,pandas,,,
+2026-07-16 10:06:12,U_1580,search,data analysis,,,
+2026-07-16 10:07:12,U_1580,view,data analysis,C_301,Excel for Beginners to Pro,Business
+2026-07-16 10:09:57,U_1580,enroll,data analysis,C_301,Excel for Beginners to Pro,Business
+2026-07-16 10:53:26,U_1602,search,sass,,,
+2026-07-16 10:54:46,U_1602,view,sass,C_401,Advanced CSS & Sass,Design
+2026-07-16 11:00:41,U_1573,search,python,,,
+2026-07-16 11:01:05,U_1573,view,python,C_102,Python for Data Science,Data Science
+2026-07-16 11:02:44,U_1573,enroll,python,C_102,Python for Data Science,Data Science
+2026-07-16 11:28:31,U_1567,view,,C_101,Introduction to Python,Data Science
+2026-07-16 11:47:49,U_1570,view,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-16 11:53:17,U_1594,search,frontend,,,
+2026-07-16 11:58:50,U_1565,search,backend,,,
+2026-07-16 12:32:05,U_1568,search,neural networks,,,
+2026-07-16 12:38:34,U_1606,search,learn code,,,
+2026-07-16 12:55:22,U_1596,search,excel,,,
+2026-07-16 12:56:41,U_1596,view,excel,C_301,Excel for Beginners to Pro,Business
+2026-07-16 12:57:12,U_1581,search,data analysis,,,
+2026-07-16 12:58:06,U_1581,view,data analysis,C_301,Excel for Beginners to Pro,Business
+2026-07-16 13:00:09,U_1581,enroll,data analysis,C_301,Excel for Beginners to Pro,Business
+2026-07-16 13:01:11,U_1596,enroll,excel,C_301,Excel for Beginners to Pro,Business
+2026-07-16 13:17:53,U_1583,search,design,,,
+2026-07-16 13:19:09,U_1583,view,design,C_402,UI/UX Design Fundamentals,Design
+2026-07-16 13:29:45,U_1571,search,python,,,
+2026-07-16 13:30:06,U_1571,view,python,C_102,Python for Data Science,Data Science
+2026-07-16 13:35:29,U_1579,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-16 15:18:01,U_1566,search,social media,,,
+2026-07-16 16:02:42,U_1592,search,web development,,,
+2026-07-16 16:38:05,U_1574,search,business,,,
+2026-07-16 16:39:10,U_1574,view,business,C_301,Excel for Beginners to Pro,Business
+2026-07-16 16:40:10,U_1574,enroll,business,C_301,Excel for Beginners to Pro,Business
+2026-07-16 16:46:56,U_1585,search,marketing,,,
+2026-07-16 17:41:17,U_1597,search,ml,,,
+2026-07-16 17:42:18,U_1597,view,ml,C_103,Machine Learning Bootcamp,Data Science
+2026-07-16 18:14:58,U_1572,search,web development,,,
+2026-07-16 18:16:04,U_1572,view,web development,C_203,Django Web Dev from Scratch,Web Development
+2026-07-16 19:08:47,U_1575,search,data analysis,,,
+2026-07-16 19:09:20,U_1575,view,data analysis,C_302,SQL Essentials for Business,Business
+2026-07-16 20:11:24,U_1595,search,nextjs,,,
+2026-07-16 20:12:45,U_1595,view,nextjs,C_202,Next.js Complete Guide,Web Development
+2026-07-16 20:32:09,U_1578,search,ai,,,
+2026-07-16 20:32:48,U_1578,view,ai,C_104,Deep Learning Specialization,Data Science
+2026-07-16 20:40:04,U_1569,search,figma,,,
+2026-07-16 20:41:13,U_1569,view,figma,C_402,UI/UX Design Fundamentals,Design
+2026-07-16 21:55:35,U_1576,search,python,,,
+2026-07-16 21:57:03,U_1576,view,python,C_101,Introduction to Python,Data Science
+2026-07-16 21:58:31,U_1576,enroll,python,C_101,Introduction to Python,Data Science
+2026-07-16 22:20:27,U_1582,search,react,,,
+2026-07-17 02:11:31,U_1641,search,backend,,,
+2026-07-17 04:43:44,U_1629,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-17 04:51:20,U_1611,search,data science,,,
+2026-07-17 04:52:29,U_1611,view,data science,C_102,Python for Data Science,Data Science
+2026-07-17 04:55:23,U_1611,enroll,data science,C_102,Python for Data Science,Data Science
+2026-07-17 05:38:27,U_1617,search,javascript,,,
+2026-07-17 05:39:29,U_1617,view,javascript,C_201,Mastering React,Web Development
+2026-07-17 06:20:20,U_1651,search,ads,,,
+2026-07-17 06:21:25,U_1651,view,ads,C_501,Digital Marketing Masterclass,Marketing
+2026-07-17 06:25:47,U_1614,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-17 07:42:31,U_1635,search,sql,,,
+2026-07-17 07:43:47,U_1635,view,sql,C_302,SQL Essentials for Business,Business
+2026-07-17 07:43:47,U_1635,view,sql,C_302,SQL Essentials for Business,Business
+2026-07-17 07:47:13,U_1635,enroll,sql,C_302,SQL Essentials for Business,Business
+2026-07-17 07:57:54,U_1645,search,data analysis,,,
+2026-07-17 07:59:11,U_1645,view,data analysis,C_302,SQL Essentials for Business,Business
+2026-07-17 08:00:20,U_1645,enroll,data analysis,C_302,SQL Essentials for Business,Business
+2026-07-17 09:12:33,U_1622,search,marketing,,,
+2026-07-17 09:23:15,U_1621,search,machine learning,,,
+2026-07-17 09:24:05,U_1621,view,machine learning,C_103,Machine Learning Bootcamp,Data Science
+2026-07-17 09:33:51,U_1638,search,sql,,,
+2026-07-17 09:34:00,U_1630,search,javascript,,,
+2026-07-17 09:34:51,U_1630,view,javascript,C_201,Mastering React,Web Development
+2026-07-17 09:35:10,U_1638,view,sql,C_302,SQL Essentials for Business,Business
+2026-07-17 09:35:27,U_1643,view,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-17 09:37:24,U_1638,enroll,sql,C_302,SQL Essentials for Business,Business
+2026-07-17 09:37:52,U_1643,enroll,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-17 09:38:31,U_1630,enroll,javascript,C_201,Mastering React,Web Development
+2026-07-17 10:09:30,U_1644,view,,C_101,Introduction to Python,Data Science
+2026-07-17 10:11:36,U_1642,search,sass,,,
+2026-07-17 10:11:45,U_1644,enroll,,C_101,Introduction to Python,Data Science
+2026-07-17 10:25:39,U_1618,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-17 10:25:39,U_1618,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-17 10:33:29,U_1639,search,python,,,
+2026-07-17 10:34:10,U_1639,view,python,C_101,Introduction to Python,Data Science
+2026-07-17 10:35:46,U_1639,enroll,python,C_101,Introduction to Python,Data Science
+2026-07-17 11:16:11,U_1640,search,ai,,,
+2026-07-17 11:24:22,U_1608,view,,C_401,Advanced CSS & Sass,Design
+2026-07-17 11:35:58,U_1623,view,,C_401,Advanced CSS & Sass,Design
+2026-07-17 11:39:41,U_1623,enroll,,C_401,Advanced CSS & Sass,Design
+2026-07-17 11:56:34,U_1626,view,,C_401,Advanced CSS & Sass,Design
+2026-07-17 12:14:38,U_1624,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-17 12:36:30,U_1627,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-17 12:57:36,U_1636,view,,C_201,Mastering React,Web Development
+2026-07-17 13:02:32,U_1636,enroll,,C_201,Mastering React,Web Development
+2026-07-17 13:15:47,U_1633,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-17 13:15:53,U_1634,search,machine learning,,,
+2026-07-17 13:25:54,U_1650,search,styling,,,
+2026-07-17 13:32:17,U_1637,view,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-17 13:49:14,U_1609,search,styling,,,
+2026-07-17 14:47:37,U_1652,view,,C_302,SQL Essentials for Business,Business
+2026-07-17 14:52:12,U_1652,enroll,,C_302,SQL Essentials for Business,Business
+2026-07-17 15:21:16,U_1647,search,data analysis,,,
+2026-07-17 15:22:15,U_1647,view,data analysis,C_302,SQL Essentials for Business,Business
+2026-07-17 15:24:02,U_1647,enroll,data analysis,C_302,SQL Essentials for Business,Business
+2026-07-17 16:16:11,U_1625,search,python,,,
+2026-07-17 16:17:30,U_1625,view,python,C_102,Python for Data Science,Data Science
+2026-07-17 16:30:16,U_1613,search,css,,,
+2026-07-17 17:30:20,U_1631,view,,C_202,Next.js Complete Guide,Web Development
+2026-07-17 17:34:26,U_1610,search,python,,,
+2026-07-17 17:35:54,U_1610,view,python,C_101,Introduction to Python,Data Science
+2026-07-17 17:36:42,U_1610,enroll,python,C_101,Introduction to Python,Data Science
+2026-07-17 17:38:12,U_1648,search,figma,,,
+2026-07-17 17:39:03,U_1648,view,figma,C_402,UI/UX Design Fundamentals,Design
+2026-07-17 18:05:24,U_1649,search,spreadsheet,,,
+2026-07-17 18:06:00,U_1649,view,spreadsheet,C_301,Excel for Beginners to Pro,Business
+2026-07-17 18:09:37,U_1649,enroll,spreadsheet,C_301,Excel for Beginners to Pro,Business
+2026-07-17 18:29:57,U_1628,search,programming,,,
+2026-07-17 18:30:26,U_1628,view,programming,C_101,Introduction to Python,Data Science
+2026-07-17 18:32:33,U_1620,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-17 18:36:23,U_1612,search,wireframe,,,
+2026-07-17 18:37:04,U_1612,view,wireframe,C_402,UI/UX Design Fundamentals,Design
+2026-07-17 19:03:13,U_1646,search,numpy,,,
+2026-07-17 19:44:10,U_1615,search,business,,,
+2026-07-17 19:49:52,U_1619,search,business,,,
+2026-07-17 19:50:08,U_1619,view,business,C_301,Excel for Beginners to Pro,Business
+2026-07-17 19:53:19,U_1619,enroll,business,C_301,Excel for Beginners to Pro,Business
+2026-07-17 20:43:45,U_1616,search,django,,,
+2026-07-17 20:47:43,U_1632,search,data analysis,,,
+2026-07-18 07:56:35,U_1665,search,neural networks,,,
+2026-07-18 08:04:34,U_1671,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-18 08:05:27,U_1666,search,data analysis,,,
+2026-07-18 08:05:41,U_1656,search,backend,,,
+2026-07-18 08:06:18,U_1666,view,data analysis,C_302,SQL Essentials for Business,Business
+2026-07-18 08:06:51,U_1671,enroll,,C_301,Excel for Beginners to Pro,Business
+2026-07-18 08:09:20,U_1666,enroll,data analysis,C_302,SQL Essentials for Business,Business
+2026-07-18 08:17:44,U_1668,search,ai,,,
+2026-07-18 08:18:01,U_1668,view,ai,C_104,Deep Learning Specialization,Data Science
+2026-07-18 09:11:08,U_1667,view,,C_201,Mastering React,Web Development
+2026-07-18 09:17:08,U_1669,search,marketing,,,
+2026-07-18 09:17:52,U_1669,view,marketing,C_501,Digital Marketing Masterclass,Marketing
+2026-07-18 09:31:48,U_1664,search,programming,,,
+2026-07-18 09:32:40,U_1664,view,programming,C_101,Introduction to Python,Data Science
+2026-07-18 09:33:28,U_1664,enroll,programming,C_101,Introduction to Python,Data Science
+2026-07-18 10:19:50,U_1670,search,web development,,,
+2026-07-18 10:20:09,U_1670,view,web development,C_202,Next.js Complete Guide,Web Development
+2026-07-18 10:22:08,U_1670,enroll,web development,C_202,Next.js Complete Guide,Web Development
+2026-07-18 10:47:18,U_1657,search,ml,,,
+2026-07-18 10:48:40,U_1657,view,ml,C_103,Machine Learning Bootcamp,Data Science
+2026-07-18 10:49:39,U_1657,enroll,ml,C_103,Machine Learning Bootcamp,Data Science
+2026-07-18 11:34:19,U_1661,search,numpy,,,
+2026-07-18 11:58:20,U_1658,search,web development,,,
+2026-07-18 12:56:30,U_1655,search,programming,,,
+2026-07-18 12:57:52,U_1655,view,programming,C_101,Introduction to Python,Data Science
+2026-07-18 12:59:19,U_1655,enroll,programming,C_101,Introduction to Python,Data Science
+2026-07-18 14:47:40,U_1660,search,ads,,,
+2026-07-18 15:08:22,U_1663,view,,C_201,,Web Development
+2026-07-18 15:08:46,U_1653,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-18 16:35:28,U_1659,view,,C_103,Machine Learning Bootcamp,
+2026-07-18 18:05:13,U_1654,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-18 18:09:21,U_1654,enroll,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-18 20:52:24,U_1672,view,,C_101,Introduction to Python,Data Science
+2026-07-18 22:05:28,U_1662,search,backend,,,
+2026-07-18 22:06:02,U_1662,view,backend,C_203,Django Web Dev from Scratch,Web Development
+2026-07-19 06:28:15,U_1673,search,learn python,,,
+2026-07-19 06:29:28,U_1673,view,learn python,C_101,Introduction to Python,Data Science
+2026-07-19 06:31:01,U_1673,enroll,learn python,C_101,Introduction to Python,Data Science
+2026-07-19 07:00:10,U_1677,search,css,,,
+2026-07-19 08:20:46,U_1683,search,design,,,
+2026-07-19 08:21:21,U_1683,view,design,C_401,Advanced CSS & Sass,Design
+2026-07-19 09:53:19,U_1694,view,,C_102,Python for Data Science,Data Science
+2026-07-19 09:53:24,U_1690,search,data analysis,,,
+2026-07-19 09:53:45,U_1690,view,data analysis,C_302,SQL Essentials for Business,
+2026-07-19 09:55:06,U_1690,enroll,data analysis,C_302,SQL Essentials for Business,Business
+2026-07-19 10:04:02,U_1688,search,coding python,,,
+2026-07-19 10:28:35,U_1682,search,social media,,,
+2026-07-19 10:41:31,U_1691,view,,C_102,Python for Data Science,Data Science
+2026-07-19 11:02:37,U_1678,search,spreadsheet,,,
+2026-07-19 11:03:39,U_1678,view,spreadsheet,C_301,Excel for Beginners to Pro,Business
+2026-07-19 11:06:31,U_1678,enroll,spreadsheet,C_301,Excel for Beginners to Pro,Business
+2026-07-19 11:35:47,U_1692,search,ui/ux,,,
+2026-07-19 11:46:02,U_1675,search,sql,,,
+2026-07-19 11:46:49,U_1675,view,sql,C_302,SQL Essentials for Business,Business
+2026-07-19 11:50:06,U_1675,enroll,sql,C_302,SQL Essentials for Business,Business
+2026-07-19 13:03:52,U_1693,view,,C_401,Advanced CSS & Sass,Design
+2026-07-19 13:30:24,U_1674,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-19 14:15:20,U_1686,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-19 14:24:12,U_1687,search,spreadsheet,,,
+2026-07-19 14:25:03,U_1687,view,spreadsheet,C_301,Excel for Beginners to Pro,Business
+2026-07-19 14:28:32,U_1687,enroll,spreadsheet,C_301,Excel for Beginners to Pro,Business
+2026-07-19 17:34:23,U_1684,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-19 18:12:06,U_1689,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-19 18:14:29,U_1689,enroll,,C_301,Excel for Beginners to Pro,Business
+2026-07-19 19:12:01,U_1681,search,react,,,
+2026-07-19 19:41:09,U_1680,search,data science,,,
+2026-07-19 19:42:26,U_1680,view,data science,C_102,Python for Data Science,Data Science
+2026-07-19 20:46:11,U_1685,search,developer,,,
+2026-07-19 21:39:21,U_1679,search,analytics,,,
+2026-07-19 22:55:42,U_1676,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-20 05:46:51,U_1705,search,python,,,
+2026-07-20 05:47:48,U_1705,view,python,C_102,Python for Data Science,Data Science
+2026-07-20 05:52:17,U_1702,view,,C_302,SQL Essentials for Business,Business
+2026-07-20 05:54:21,U_1702,enroll,,C_302,SQL Essentials for Business,Business
+2026-07-20 06:10:01,U_1723,search,frontend,,,
+2026-07-20 06:10:54,U_1723,view,frontend,C_202,Next.js Complete Guide,Web Development
+2026-07-20 07:14:34,U_1695,search,neural networks,,,
+2026-07-20 07:42:54,U_1719,search,social media,,,
+2026-07-20 08:32:29,U_1722,search,marketing,,,
+2026-07-20 08:32:49,U_1722,view,marketing,C_501,Digital Marketing Masterclass,Marketing
+2026-07-20 08:36:09,U_1727,search,frontend,,,
+2026-07-20 08:37:21,U_1727,view,frontend,C_201,Mastering React,Web Development
+2026-07-20 08:46:20,U_1699,search,design,,,
+2026-07-20 08:47:02,U_1699,view,design,C_401,Advanced CSS & Sass,Design
+2026-07-20 08:49:57,U_1699,enroll,design,C_401,Advanced CSS & Sass,Design
+2026-07-20 08:58:13,U_1704,search,ads,,,
+2026-07-20 08:59:29,U_1704,view,ads,C_501,Digital Marketing Masterclass,Marketing
+2026-07-20 10:03:19,U_1707,search,react,,,
+2026-07-20 10:04:15,U_1707,view,react,C_202,Next.js Complete Guide,Web Development
+2026-07-20 10:06:53,U_1707,enroll,react,C_202,Next.js Complete Guide,Web Development
+2026-07-20 10:09:08,U_1703,search,sass,,,
+2026-07-20 10:09:52,U_1703,view,sass,C_401,Advanced CSS & Sass,Design
+2026-07-20 10:11:35,U_1697,search,react,,,
+2026-07-20 10:13:10,U_1703,enroll,sass,C_401,Advanced CSS & Sass,Design
+2026-07-20 10:21:05,U_1709,search,marketing,,,
+2026-07-20 11:39:59,U_1715,search,react,,,
+2026-07-20 11:40:57,U_1715,view,react,C_201,Mastering React,Web Development
+2026-07-20 11:42:38,U_1715,enroll,react,C_201,Mastering React,Web Development
+2026-07-20 11:59:52,U_1714,search,design,,,
+2026-07-20 12:00:26,U_1714,view,design,C_402,UI/UX Design Fundamentals,Design
+2026-07-20 12:01:54,U_1714,enroll,design,C_402,UI/UX Design Fundamentals,Design
+2026-07-20 12:22:38,U_1713,search,javascript,,,
+2026-07-20 12:23:37,U_1713,view,javascript,C_201,Mastering React,Web Development
+2026-07-20 12:25:00,U_1700,search,react,,,
+2026-07-20 12:26:21,U_1700,view,react,C_201,Mastering React,Web Development
+2026-07-20 12:29:40,U_1700,enroll,react,C_201,Mastering React,Web Development
+2026-07-20 13:13:54,U_1701,view,,C_202,Next.js Complete Guide,Web Development
+2026-07-20 15:14:09,U_1725,view,,C_202,Next.js Complete Guide,Web Development
+2026-07-20 15:17:49,U_1712,search,ui/ux,,,
+2026-07-20 15:18:18,U_1712,view,ui/ux,C_402,UI/UX Design Fundamentals,
+2026-07-20 15:22:57,U_1698,search,frontend,,,
+2026-07-20 16:47:35,U_1696,search,pandas,,,
+2026-07-20 16:48:48,U_1696,view,pandas,C_102,,Data Science
+2026-07-20 17:32:27,U_1710,search,ml,,,
+2026-07-20 17:33:43,U_1710,view,ml,C_103,Machine Learning Bootcamp,Data Science
+2026-07-20 18:35:39,U_1711,search,excel,,,
+2026-07-20 18:55:56,U_1720,search,tensorflow,,,
+2026-07-20 18:56:24,U_1724,search,nextjs,,,
+2026-07-20 19:24:33,U_1726,search,developer,,,
+2026-07-20 19:25:28,U_1708,search,design,,,
+2026-07-20 19:25:54,U_1708,view,design,C_401,Advanced CSS & Sass,Design
+2026-07-20 19:30:39,U_1717,search,machine learning,,,
+2026-07-20 19:31:42,U_1717,view,machine learning,C_103,Machine Learning Bootcamp,Data Science
+2026-07-20 20:20:31,U_1721,search,react,,,
+2026-07-20 20:21:13,U_1716,search,neural networks,,,
+2026-07-20 21:12:50,U_1718,search,react,,,
+2026-07-20 21:14:04,U_1718,view,react,C_201,Mastering React,Web Development
+2026-07-20 21:14:53,U_1718,enroll,react,C_201,Mastering React,Web Development
+2026-07-20 22:55:49,U_1706,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-21 03:30:51,U_1765,search,ai,,,
+2026-07-21 03:31:25,U_1765,view,ai,C_103,Machine Learning Bootcamp,Data Science
+2026-07-21 07:30:29,U_1751,search,python,,,
+2026-07-21 07:57:32,U_1771,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-21 08:00:07,U_1761,view,,C_101,Introduction to Python,Data Science
+2026-07-21 08:43:08,U_1773,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-21 08:44:44,U_1755,search,database,,,
+2026-07-21 08:45:57,U_1755,view,database,C_302,SQL Essentials for Business,Business
+2026-07-21 08:46:07,U_1730,search,machine learning,,,
+2026-07-21 08:47:02,U_1730,view,machine learning,C_103,Machine Learning Bootcamp,Data Science
+2026-07-21 08:47:59,U_1731,search,analytics,,,
+2026-07-21 09:18:16,U_1763,search,frontend,,,
+2026-07-21 09:19:35,U_1763,view,frontend,C_201,Mastering React,Web Development
+2026-07-21 09:20:23,U_1763,enroll,frontend,C_201,Mastering React,Web Development
+2026-07-21 09:27:58,U_1729,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-21 09:40:23,U_1745,view,,C_102,Python for Data Science,Data Science
+2026-07-21 10:02:17,U_1769,search,spreadsheet,,,
+2026-07-21 10:03:19,U_1769,view,spreadsheet,C_301,Excel for Beginners to Pro,Business
+2026-07-21 10:06:26,U_1754,search,neural networks,,,
+2026-07-21 10:06:38,U_1769,enroll,spreadsheet,C_301,Excel for Beginners to Pro,Business
+2026-07-21 10:11:49,U_1742,search,seo,,,
+2026-07-21 10:54:13,U_1762,search,web development,,,
+2026-07-21 10:54:33,U_1762,view,web development,C_203,Django Web Dev from Scratch,Web Development
+2026-07-21 10:57:06,U_1762,enroll,web development,C_203,Django Web Dev from Scratch,Web Development
+2026-07-21 11:21:36,U_1747,search,spreadsheet,,,
+2026-07-21 11:21:36,U_1747,search,spreadsheet,,,
+2026-07-21 11:33:07,U_1774,view,,C_101,Introduction to Python,Data Science
+2026-07-21 11:52:18,U_1740,search,backend,,,
+2026-07-21 11:52:24,U_1737,search,django,,,
+2026-07-21 11:53:45,U_1737,view,django,C_203,Django Web Dev from Scratch,Web Development
+2026-07-21 11:59:28,U_1735,search,machine learning,,,
+2026-07-21 12:03:12,U_1739,view,,C_201,Mastering React,Web Development
+2026-07-21 12:07:42,U_1739,enroll,,C_201,Mastering React,Web Development
+2026-07-21 12:29:53,U_1741,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-21 12:34:29,U_1741,enroll,,C_402,UI/UX Design Fundamentals,Design
+2026-07-21 13:06:36,U_1758,search,ui/ux,,,
+2026-07-21 13:07:52,U_1758,view,ui/ux,C_402,UI/UX Design Fundamentals,Design
+2026-07-21 13:12:14,U_1734,search,coding python,,,
+2026-07-21 13:13:21,U_1734,view,coding python,C_101,Introduction to Python,Data Science
+2026-07-21 13:50:10,U_1744,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-21 13:51:58,U_1744,enroll,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-21 14:11:49,U_1748,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-21 14:59:47,U_1766,view,,C_101,Introduction to Python,Data Science
+2026-07-21 16:03:41,U_1753,search,machine learning,,,
+2026-07-21 16:05:09,U_1753,view,machine learning,C_103,Machine Learning Bootcamp,Data Science
+2026-07-21 16:30:08,U_1757,search,frontend,,,
+2026-07-21 16:31:30,U_1757,view,frontend,C_201,Mastering React,Web Development
+2026-07-21 16:48:16,U_1750,search,business,,,
+2026-07-21 16:49:40,U_1750,view,business,C_301,Excel for Beginners to Pro,Business
+2026-07-21 16:54:37,U_1750,enroll,business,C_301,Excel for Beginners to Pro,Business
+2026-07-21 17:05:44,U_1733,search,ai,,,
+2026-07-21 17:06:46,U_1733,view,ai,C_103,Machine Learning Bootcamp,Data Science
+2026-07-21 18:11:29,U_1743,search,seo,,,
+2026-07-21 18:12:42,U_1743,view,seo,C_501,Digital Marketing Masterclass,Marketing
+2026-07-21 18:19:20,U_1756,search,django,,,
+2026-07-21 18:25:46,U_1764,search,learn python,,,
+2026-07-21 18:26:25,U_1764,view,learn python,C_101,Introduction to Python,Data Science
+2026-07-21 18:31:33,U_1760,search,business,,,
+2026-07-21 18:32:11,U_1760,view,business,C_301,Excel for Beginners to Pro,Business
+2026-07-21 18:35:34,U_1767,search,styling,,,
+2026-07-21 18:36:34,U_1767,view,styling,C_401,Advanced CSS & Sass,Design
+2026-07-21 18:38:35,U_1767,enroll,styling,C_401,Advanced CSS & Sass,Design
+2026-07-21 18:38:55,U_1775,search,excel,,,
+2026-07-21 18:39:23,U_1775,view,excel,C_301,Excel for Beginners to Pro,Business
+2026-07-21 18:42:47,U_1775,enroll,excel,C_301,Excel for Beginners to Pro,Business
+2026-07-21 18:51:12,U_1728,search,database,,,
+2026-07-21 19:07:23,U_1770,search,deep learning,,,
+2026-07-21 19:12:06,U_1732,search,coding python,,,
+2026-07-21 19:13:33,U_1732,view,coding python,C_101,Introduction to Python,Data Science
+2026-07-21 19:15:33,U_1738,search,marketing,,,
+2026-07-21 19:16:16,U_1732,enroll,coding python,C_101,Introduction to Python,Data Science
+2026-07-21 19:24:40,U_1768,search,ai,,,
+2026-07-21 19:25:18,U_1768,view,ai,C_103,Machine Learning Bootcamp,Data Science
+2026-07-21 19:55:33,U_1772,search,react,,,
+2026-07-21 19:56:15,U_1736,view,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-21 20:16:33,U_1759,view,,C_401,Advanced CSS & Sass,Design
+2026-07-21 20:39:10,U_1746,view,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-21 20:40:35,U_1752,search,marketing,,,
+2026-07-21 20:43:09,U_1746,enroll,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-21 20:49:28,U_1749,search,machine learning,,,
+2026-07-22 00:52:07,U_1822,search,business,,,
+2026-07-22 00:53:22,U_1822,view,business,C_301,Excel for Beginners to Pro,Business
+2026-07-22 00:56:06,U_1822,enroll,business,C_301,Excel for Beginners to Pro,Business
+2026-07-22 01:52:24,U_1795,search,ui/ux,,,
+2026-07-22 01:52:50,U_1795,view,ui/ux,C_402,UI/UX Design Fundamentals,Design
+2026-07-22 05:09:38,U_1819,search,spreadsheet,,,
+2026-07-22 07:18:18,U_1813,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-22 07:56:39,U_1810,search,excel,,,
+2026-07-22 07:58:03,U_1810,view,excel,C_301,Excel for Beginners to Pro,Business
+2026-07-22 08:01:27,U_1810,enroll,excel,C_301,Excel for Beginners to Pro,Business
+2026-07-22 08:15:35,U_1791,search,business,,,
+2026-07-22 08:15:58,U_1791,view,business,C_301,Excel for Beginners to Pro,Business
+2026-07-22 08:29:06,U_1785,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-22 08:42:11,U_1802,search,tensorflow,,,
+2026-07-22 08:57:13,U_1776,search,ai,,,
+2026-07-22 09:19:21,U_1783,search,course,,,
+2026-07-22 09:42:07,U_1777,view,,C_201,Mastering React,Web Development
+2026-07-22 09:44:08,U_1777,enroll,,C_201,Mastering React,Web Development
+2026-07-22 10:26:49,U_1820,view,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-22 10:30:16,U_1823,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-22 10:34:43,U_1823,enroll,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-22 11:06:16,U_1827,search,web development,,,
+2026-07-22 11:12:33,U_1828,search,seo,,,
+2026-07-22 11:21:50,U_1788,view,,C_202,Next.js Complete Guide,Web Development
+2026-07-22 11:28:24,U_1824,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-22 11:31:11,U_1818,view,,C_302,SQL Essentials for Business,Business
+2026-07-22 11:32:12,U_1818,enroll,,C_302,SQL Essentials for Business,Business
+2026-07-22 11:44:38,U_1805,view,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-22 11:59:48,U_1784,search,sass,,,
+2026-07-22 12:05:09,U_1809,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-22 12:07:22,U_1789,search,data science,,,
+2026-07-22 12:08:21,U_1789,view,data science,C_103,Machine Learning Bootcamp,Data Science
+2026-07-22 13:17:54,U_1816,search,marketing,,,
+2026-07-22 13:53:31,U_1793,view,,C_102,Python for Data Science,Data Science
+2026-07-22 13:58:13,U_1793,enroll,,C_102,Python for Data Science,Data Science
+2026-07-22 14:02:06,U_1825,search,analytics,,,
+2026-07-22 14:43:19,U_1798,view,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-22 14:45:38,U_1782,search,analytics,,,
+2026-07-22 15:08:05,U_1804,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-22 15:16:58,U_1787,view,,C_202,Next.js Complete Guide,Web Development
+2026-07-22 15:21:03,U_1787,enroll,,C_202,Next.js Complete Guide,Web Development
+2026-07-22 15:42:28,U_1817,view,,C_202,Next.js Complete Guide,Web Development
+2026-07-22 15:44:42,U_1817,enroll,,C_202,Next.js Complete Guide,Web Development
+2026-07-22 15:50:21,U_1792,search,neural networks,,,
+2026-07-22 15:55:42,U_1803,search,python,,,
+2026-07-22 15:55:59,U_1803,view,python,C_101,Introduction to Python,Data Science
+2026-07-22 16:28:11,U_1794,search,django,,,
+2026-07-22 16:34:28,U_1780,view,,C_101,Introduction to Python,Data Science
+2026-07-22 16:36:19,U_1780,enroll,,C_101,Introduction to Python,Data Science
+2026-07-22 17:03:06,U_1781,view,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-22 17:04:18,U_1781,enroll,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-22 17:37:25,U_1801,search,social media,,,
+2026-07-22 17:39:32,U_1799,search,data science,,,
+2026-07-22 17:39:54,U_1799,view,data science,C_103,Machine Learning Bootcamp,Data Science
+2026-07-22 17:41:06,U_1799,enroll,data science,C_103,Machine Learning Bootcamp,Data Science
+2026-07-22 18:36:15,U_1779,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-22 18:39:35,U_1778,search,ai,,,
+2026-07-22 18:41:00,U_1778,view,ai,C_104,Deep Learning Specialization,Data Science
+2026-07-22 18:52:28,U_1806,search,neural networks,,,
+2026-07-22 18:53:04,U_1829,search,python,,,
+2026-07-22 18:54:16,U_1829,view,python,C_102,Python for Data Science,Data Science
+2026-07-22 18:57:26,U_1829,enroll,python,C_102,Python for Data Science,Data Science
+2026-07-22 19:10:13,U_1821,view,,C_401,Advanced CSS & Sass,Design
+2026-07-22 19:13:54,U_1821,enroll,,C_401,Advanced CSS & Sass,Design
+2026-07-22 19:36:46,U_1812,view,,C_202,Next.js Complete Guide,Web Development
+2026-07-22 19:40:51,U_1796,view,,C_101,Introduction to Python,Data Science
+2026-07-22 19:47:39,U_1815,search,excel,,,
+2026-07-22 19:48:10,U_1815,view,excel,C_301,Excel for Beginners to Pro,Business
+2026-07-22 19:51:17,U_1815,enroll,excel,C_301,Excel for Beginners to Pro,Business
+2026-07-22 20:02:02,U_1808,search,ads,,,
+2026-07-22 20:18:24,U_1797,search,spreadsheet,,,
+2026-07-22 20:19:05,U_1797,view,spreadsheet,C_301,Excel for Beginners to Pro,Business
+2026-07-22 20:19:46,U_1814,search,react,,,
+2026-07-22 20:21:01,U_1814,view,react,C_201,Mastering React,Web Development
+2026-07-22 20:22:07,U_1800,search,nextjs,,,
+2026-07-22 20:22:32,U_1797,enroll,spreadsheet,C_301,Excel for Beginners to Pro,Business
+2026-07-22 20:27:39,U_1826,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-22 20:29:30,U_1786,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-22 20:32:09,U_1786,enroll,,C_104,Deep Learning Specialization,
+2026-07-22 20:54:46,U_1807,search,data analysis,,,
+2026-07-22 21:45:50,U_1790,search,sql,,,
+2026-07-22 21:46:43,U_1790,view,sql,C_302,SQL Essentials for Business,Business
+2026-07-22 22:34:49,U_1811,view,,C_101,Introduction to Python,Data Science
+2026-07-22 22:39:34,U_1811,enroll,,C_101,Introduction to Python,Data Science
+2026-07-22 22:39:34,U_1811,enroll,,C_101,Introduction to Python,Data Science
+2026-07-23 01:46:49,U_1841,search,python,,,
+2026-07-23 04:00:00,U_1857,search,pandas,,,
+2026-07-23 04:01:08,U_1857,view,pandas,C_102,Python for Data Science,Data Science
+2026-07-23 06:06:39,U_1860,view,,C_202,Next.js Complete Guide,Web Development
+2026-07-23 06:37:15,U_1847,search,pandas,,,
+2026-07-23 06:38:33,U_1847,view,pandas,C_102,Python for Data Science,Data Science
+2026-07-23 06:57:19,U_1851,search,data science,,,
+2026-07-23 08:02:24,U_1845,search,web development,,,
+2026-07-23 08:02:52,U_1845,view,web development,C_201,Mastering React,Web Development
+2026-07-23 08:04:40,U_1833,search,web development,,,
+2026-07-23 08:05:36,U_1833,view,web development,C_201,Mastering React,Web Development
+2026-07-23 08:06:58,U_1833,enroll,web development,C_201,Mastering React,Web Development
+2026-07-23 08:24:21,U_1834,search,frontend,,,
+2026-07-23 08:59:22,U_1843,search,web development,,,
+2026-07-23 08:59:44,U_1843,view,web development,C_201,Mastering React,Web Development
+2026-07-23 09:01:15,U_1843,enroll,web development,C_201,Mastering React,Web Development
+2026-07-23 09:21:51,U_1853,search,learn code,,,
+2026-07-23 09:40:07,U_1831,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-23 09:40:39,U_1856,view,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-23 09:41:53,U_1831,enroll,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-23 09:42:44,U_1856,enroll,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-23 09:48:26,U_1855,search,react,,,
+2026-07-23 09:49:37,U_1855,view,react,C_202,Next.js Complete Guide,Web Development
+2026-07-23 09:50:42,U_1855,enroll,react,C_202,Next.js Complete Guide,Web Development
+2026-07-23 11:28:01,U_1838,search,spreadsheet,,,
+2026-07-23 11:28:47,U_1846,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-23 11:30:43,U_1846,enroll,,C_104,Deep Learning Specialization,Data Science
+2026-07-23 11:31:06,U_1836,search,python,,,
+2026-07-23 12:05:03,U_1830,search,course,,,
+2026-07-23 12:24:42,U_1832,search,figma,,,
+2026-07-23 12:25:11,U_1832,view,figma,C_402,UI/UX Design Fundamentals,Design
+2026-07-23 12:40:17,U_1858,search,python,,,
+2026-07-23 13:04:31,U_1835,search,data analysis,,,
+2026-07-23 13:34:09,U_1849,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-23 14:11:45,U_1859,search,pandas,,,
+2026-07-23 14:12:44,U_1859,view,pandas,C_102,Python for Data Science,Data Science
+2026-07-23 14:15:29,U_1859,enroll,pandas,C_102,Python for Data Science,Data Science
+2026-07-23 15:09:31,U_1850,search,excel,,,
+2026-07-23 15:10:17,U_1850,view,excel,C_301,Excel for Beginners to Pro,Business
+2026-07-23 15:12:08,U_1850,enroll,excel,C_301,Excel for Beginners to Pro,Business
+2026-07-23 15:42:24,U_1839,view,,C_201,Mastering React,Web Development
+2026-07-23 16:36:00,U_1840,view,,C_302,SQL Essentials for Business,Business
+2026-07-23 16:40:56,U_1840,enroll,,C_302,SQL Essentials for Business,Business
+2026-07-23 17:24:44,U_1842,search,numpy,,,
+2026-07-23 18:53:37,U_1852,search,python,,,
+2026-07-23 18:54:55,U_1852,view,python,C_102,Python for Data Science,Data Science
+2026-07-23 18:57:32,U_1852,enroll,python,C_102,Python for Data Science,Data Science
+2026-07-23 20:06:02,U_1837,view,,C_102,Python for Data Science,Data Science
+2026-07-23 20:43:36,U_1854,search,react,,,
+2026-07-23 20:43:56,U_1854,view,react,C_202,Next.js Complete Guide,Web Development
+2026-07-23 20:47:32,U_1854,enroll,react,C_202,Next.js Complete Guide,Web Development
+2026-07-23 21:21:05,U_1844,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-23 21:24:18,U_1844,enroll,,C_301,Excel for Beginners to Pro,Business
+2026-07-23 21:24:18,U_1844,enroll,,C_301,Excel for Beginners to Pro,Business
+2026-07-23 23:21:03,U_1848,search,marketing,,,
+2026-07-23 23:22:09,U_1848,view,marketing,C_501,Digital Marketing Masterclass,Marketing
+2026-07-24 01:46:58,U_1899,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-24 02:02:18,U_1879,search,javascript,,,
+2026-07-24 02:02:43,U_1879,view,javascript,C_201,Mastering React,Web Development
+2026-07-24 02:03:04,U_1883,search,business,,,
+2026-07-24 02:04:23,U_1883,view,business,C_301,Excel for Beginners to Pro,Business
+2026-07-24 02:06:10,U_1883,enroll,business,C_301,Excel for Beginners to Pro,Business
+2026-07-24 02:48:00,U_1875,search,python,,,
+2026-07-24 02:48:31,U_1875,view,python,C_203,Django Web Dev from Scratch,Web Development
+2026-07-24 02:59:49,U_1902,search,python,,,
+2026-07-24 03:01:12,U_1902,view,python,C_101,Introduction to Python,Data Science
+2026-07-24 06:57:02,U_1900,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-24 07:41:01,U_1889,search,python,,,
+2026-07-24 07:52:34,U_1884,search,ai,,,
+2026-07-24 08:05:25,U_1886,search,wireframe,,,
+2026-07-24 08:24:23,U_1867,search,seo,,,
+2026-07-24 08:30:42,U_1876,search,social media,,,
+2026-07-24 08:31:20,U_1903,search,sql,,,
+2026-07-24 08:32:21,U_1903,view,sql,C_302,SQL Essentials for Business,Business
+2026-07-24 08:36:44,U_1903,enroll,sql,C_302,SQL Essentials for Business,Business
+2026-07-24 09:01:25,U_1896,search,spreadsheet,,,
+2026-07-24 09:08:02,U_1868,search,coding python,,,
+2026-07-24 09:08:34,U_1868,view,coding python,C_101,Introduction to Python,Data Science
+2026-07-24 09:13:17,U_1868,enroll,coding python,C_101,Introduction to Python,Data Science
+2026-07-24 09:21:26,U_1890,search,design,,,
+2026-07-24 09:22:43,U_1890,view,design,C_402,UI/UX Design Fundamentals,Design
+2026-07-24 09:34:59,U_1888,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-24 09:35:45,U_1881,search,seo,,,
+2026-07-24 09:53:14,U_1901,search,pandas,,,
+2026-07-24 09:53:36,U_1901,view,pandas,C_102,Python for Data Science,Data Science
+2026-07-24 09:58:43,U_1880,search,python,,,
+2026-07-24 09:59:47,U_1880,view,python,C_101,Introduction to Python,Data Science
+2026-07-24 10:00:52,U_1880,enroll,python,C_101,Introduction to Python,Data Science
+2026-07-24 10:09:00,U_1897,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-24 10:45:36,U_1908,search,ml,,,
+2026-07-24 10:46:14,U_1908,view,ml,C_103,Machine Learning Bootcamp,Data Science
+2026-07-24 10:46:27,U_1872,search,neural networks,,,
+2026-07-24 10:47:23,U_1872,view,neural networks,C_104,Deep Learning Specialization,Data Science
+2026-07-24 10:52:19,U_1909,search,database,,,
+2026-07-24 11:27:33,U_1874,search,marketing,,,
+2026-07-24 11:28:16,U_1894,search,deep learning,,,
+2026-07-24 11:28:18,U_1905,search,social media,,,
+2026-07-24 11:29:14,U_1910,search,learn python,,,
+2026-07-24 11:29:26,U_1905,view,social media,C_501,Digital Marketing Masterclass,Marketing
+2026-07-24 11:30:02,U_1910,view,learn python,C_101,Introduction to Python,Data Science
+2026-07-24 11:30:55,U_1905,enroll,social media,C_501,Digital Marketing Masterclass,Marketing
+2026-07-24 11:31:55,U_1871,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-24 11:34:48,U_1910,enroll,learn python,C_101,Introduction to Python,Data Science
+2026-07-24 11:47:26,U_1865,search,backend,,,
+2026-07-24 12:13:27,U_1862,search,frontend,,,
+2026-07-24 12:13:47,U_1862,view,frontend,C_401,Advanced CSS & Sass,Design
+2026-07-24 12:57:20,U_1864,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-24 13:50:01,U_1863,search,python,,,
+2026-07-24 13:50:46,U_1863,view,python,C_102,Python for Data Science,Data Science
+2026-07-24 14:37:31,U_1866,search,python,,,
+2026-07-24 15:18:22,U_1904,search,excel,,,
+2026-07-24 15:19:04,U_1904,view,excel,C_301,Excel for Beginners to Pro,Business
+2026-07-24 16:09:58,U_1873,search,programming,,,
+2026-07-24 16:10:18,U_1873,view,programming,C_101,Introduction to Python,Data Science
+2026-07-24 16:17:07,U_1887,search,spreadsheet,,,
+2026-07-24 16:17:48,U_1887,view,spreadsheet,C_301,Excel for Beginners to Pro,Business
+2026-07-24 16:18:44,U_1887,enroll,spreadsheet,C_301,Excel for Beginners to Pro,Business
+2026-07-24 17:07:41,U_1882,search,sass,,,
+2026-07-24 17:08:24,U_1882,view,sass,C_401,Advanced CSS & Sass,Design
+2026-07-24 17:28:34,U_1895,search,react,,,
+2026-07-24 17:29:29,U_1877,search,social media,,,
+2026-07-24 17:29:45,U_1878,search,ui/ux,,,
+2026-07-24 18:17:03,U_1861,search,ai,,,
+2026-07-24 18:18:21,U_1861,view,ai,C_103,Machine Learning Bootcamp,Data Science
+2026-07-24 18:19:28,U_1861,enroll,ai,C_103,Machine Learning Bootcamp,Data Science
+2026-07-24 18:44:51,U_1885,view,,C_102,Python for Data Science,Data Science
+2026-07-24 18:57:50,U_1891,search,javascript,,,
+2026-07-24 18:59:06,U_1891,view,javascript,C_201,Mastering React,Web Development
+2026-07-24 19:05:00,U_1907,view,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-24 19:21:14,U_1869,search,web dev,,,
+2026-07-24 19:22:18,U_1892,search,ml,,,
+2026-07-24 19:23:41,U_1892,view,ml,C_103,Machine Learning Bootcamp,Data Science
+2026-07-24 19:42:50,U_1893,search,deep learning,,,
+2026-07-24 20:55:33,U_1906,search,python,,,
+2026-07-24 20:57:18,U_1898,search,css,,,
+2026-07-24 21:40:39,U_1870,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-24 21:43:21,U_1870,enroll,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-25 02:02:04,U_1926,view,,C_201,Mastering React,Web Development
+2026-07-25 08:07:52,U_1920,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-25 08:13:58,U_1931,search,social media,,,
+2026-07-25 10:04:38,U_1912,search,frontend,,,
+2026-07-25 10:06:05,U_1912,view,frontend,C_401,Advanced CSS & Sass,Design
+2026-07-25 10:37:48,U_1930,search,neural networks,,,
+2026-07-25 10:38:39,U_1930,view,neural networks,C_104,Deep Learning Specialization,Data Science
+2026-07-25 10:52:09,U_1917,search,data analysis,,,
+2026-07-25 10:53:11,U_1917,view,data analysis,C_302,SQL Essentials for Business,Business
+2026-07-25 10:57:26,U_1917,enroll,data analysis,C_302,SQL Essentials for Business,Business
+2026-07-25 10:58:38,U_1927,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-25 11:44:08,U_1914,search,coding python,,,
+2026-07-25 11:45:09,U_1914,view,coding python,C_101,Introduction to Python,Data Science
+2026-07-25 11:48:56,U_1914,enroll,coding python,C_101,Introduction to Python,Data Science
+2026-07-25 11:49:30,U_1925,search,learn python,,,
+2026-07-25 11:49:58,U_1925,view,learn python,C_101,Introduction to Python,Data Science
+2026-07-25 11:51:13,U_1925,enroll,learn python,C_101,Introduction to Python,Data Science
+2026-07-25 12:20:55,U_1916,search,design,,,
+2026-07-25 12:21:11,U_1922,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-25 12:21:44,U_1916,view,design,C_402,UI/UX Design Fundamentals,Design
+2026-07-25 12:24:31,U_1922,enroll,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-25 12:25:34,U_1916,enroll,design,C_402,UI/UX Design Fundamentals,Design
+2026-07-25 13:23:45,U_1934,search,marketing,,,
+2026-07-25 13:24:10,U_1934,view,marketing,C_501,Digital Marketing Masterclass,Marketing
+2026-07-25 14:05:09,U_1928,search,design,,,
+2026-07-25 14:40:59,U_1915,search,neural networks,,,
+2026-07-25 15:31:58,U_1911,search,deep learning,,,
+2026-07-25 16:10:54,U_1929,search,seo,,,
+2026-07-25 16:44:52,U_1913,search,sql,,,
+2026-07-25 16:45:40,U_1913,view,sql,C_302,SQL Essentials for Business,Business
+2026-07-25 16:46:54,U_1913,enroll,sql,C_302,SQL Essentials for Business,Business
+2026-07-25 18:13:08,U_1924,search,ads,,,
+2026-07-25 18:35:39,U_1919,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-25 19:23:08,U_1921,search,web dev,,,
+2026-07-25 19:43:06,U_1932,search,web development,,,
+2026-07-25 19:44:15,U_1932,view,web development,C_202,Next.js Complete Guide,Web Development
+2026-07-25 20:14:08,U_1923,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-25 21:06:13,U_1918,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-25 22:20:07,U_1933,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-25 22:21:48,U_1933,enroll,,C_301,Excel for Beginners to Pro,Business
+2026-07-26 01:02:02,U_1946,search,design,,,
+2026-07-26 01:02:38,U_1946,view,design,C_402,UI/UX Design Fundamentals,Design
+2026-07-26 02:33:42,U_1937,search,data science,,,
+2026-07-26 02:34:47,U_1937,view,data science,C_102,Python for Data Science,Data Science
+2026-07-26 05:50:04,U_1958,search,react,,,
+2026-07-26 06:04:36,U_1961,search,numpy,,,
+2026-07-26 07:25:07,U_1939,search,web development,,,
+2026-07-26 08:03:19,U_1959,search,sass,,,
+2026-07-26 08:19:43,U_1935,search,ai,,,
+2026-07-26 08:37:05,U_1953,search,python,,,
+2026-07-26 08:48:07,U_1947,search,business,,,
+2026-07-26 08:49:22,U_1947,view,business,C_301,Excel for Beginners to Pro,Business
+2026-07-26 08:51:27,U_1947,enroll,business,C_301,Excel for Beginners to Pro,Business
+2026-07-26 09:07:24,U_1945,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-26 09:39:32,U_1963,search,database,,,
+2026-07-26 09:39:49,U_1963,view,database,C_302,SQL Essentials for Business,Business
+2026-07-26 10:18:54,U_1936,search,numpy,,,
+2026-07-26 10:19:56,U_1936,view,numpy,C_102,Python for Data Science,Data Science
+2026-07-26 10:25:31,U_1941,search,ai,,,
+2026-07-26 10:25:59,U_1941,view,ai,C_103,Machine Learning Bootcamp,Data Science
+2026-07-26 11:36:06,U_1956,search,data science,,,
+2026-07-26 11:37:01,U_1955,search,backend,,,
+2026-07-26 13:32:51,U_1957,search,react,,,
+2026-07-26 13:33:44,U_1957,view,react,C_202,Next.js Complete Guide,Web Development
+2026-07-26 13:38:12,U_1957,enroll,react,C_202,Next.js Complete Guide,Web Development
+2026-07-26 14:08:01,U_1942,search,python,,,
+2026-07-26 14:09:19,U_1942,view,python,C_101,Introduction to Python,Data Science
+2026-07-26 14:11:35,U_1942,enroll,python,C_101,Introduction to Python,Data Science
+2026-07-26 15:23:22,U_1950,search,coding,,,
+2026-07-26 15:37:17,U_1940,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-26 15:40:21,U_1951,view,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-26 15:50:04,U_1962,search,frontend,,,
+2026-07-26 15:51:14,U_1962,view,frontend,C_201,Mastering React,Web Development
+2026-07-26 15:54:39,U_1962,enroll,frontend,C_201,Mastering React,Web Development
+2026-07-26 16:09:19,U_1943,search,python,,,
+2026-07-26 16:10:40,U_1943,view,python,C_102,Python for Data Science,Data Science
+2026-07-26 16:15:23,U_1943,enroll,python,C_102,Python for Data Science,Data Science
+2026-07-26 17:26:22,U_1952,view,,C_101,Introduction to Python,Data Science
+2026-07-26 17:29:12,U_1952,enroll,,C_101,Introduction to Python,Data Science
+2026-07-26 18:05:45,U_1960,search,data science,,,
+2026-07-26 19:18:20,U_1949,view,,C_101,Introduction to Python,Data Science
+2026-07-26 19:31:32,U_1944,search,nextjs,,,
+2026-07-26 20:10:01,U_1954,search,programming,,,
+2026-07-26 20:10:04,U_1938,view,,C_202,Next.js Complete Guide,Web Development
+2026-07-26 20:11:10,U_1954,view,programming,C_101,Introduction to Python,Data Science
+2026-07-26 20:12:30,U_1938,enroll,,C_202,Next.js Complete Guide,Web Development
+2026-07-26 20:15:30,U_1954,enroll,programming,C_101,Introduction to Python,Data Science
+2026-07-26 20:31:37,U_1948,search,developer,,,
+2026-07-27 03:38:07,U_1975,search,frontend,,,
+2026-07-27 05:43:15,U_1978,search,spreadsheet,,,
+2026-07-27 06:31:30,U_1984,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-27 07:18:46,U_1996,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-27 07:56:51,U_1983,search,django,,,
+2026-07-27 07:56:51,U_1983,search,django,,,
+2026-07-27 08:43:41,U_1998,search,programming,,,
+2026-07-27 09:08:16,U_1989,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-27 09:49:59,U_1974,view,,C_302,SQL Essentials for Business,Business
+2026-07-27 09:52:52,U_1974,enroll,,C_302,SQL Essentials for Business,Business
+2026-07-27 10:25:15,U_1968,search,deep learning,,,
+2026-07-27 10:25:59,U_1981,view,,C_201,Mastering React,Web Development
+2026-07-27 10:29:18,U_1981,enroll,,C_201,Mastering React,Web Development
+2026-07-27 10:38:16,U_1993,search,react,,,
+2026-07-27 10:39:43,U_1993,view,react,C_202,Next.js Complete Guide,Web Development
+2026-07-27 10:47:15,U_1976,view,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-27 10:49:51,U_1976,enroll,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-27 10:54:49,U_1965,view,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-27 11:09:15,U_1966,search,design,,,
+2026-07-27 11:10:25,U_1966,view,design,C_402,UI/UX Design Fundamentals,Design
+2026-07-27 11:52:47,U_1964,search,design,,,
+2026-07-27 11:55:52,U_1995,search,web development,,,
+2026-07-27 11:56:55,U_1995,view,web development,C_201,Mastering React,Web Development
+2026-07-27 12:10:15,U_1988,search,figma,,,
+2026-07-27 12:11:22,U_1988,view,figma,C_402,UI/UX Design Fundamentals,Design
+2026-07-27 12:17:08,U_1970,search,javascript,,,
+2026-07-27 13:23:52,U_1979,search,ui/ux,,,
+2026-07-27 13:24:13,U_1979,view,ui/ux,C_402,UI/UX Design Fundamentals,Design
+2026-07-27 13:32:04,U_1986,search,design,,,
+2026-07-27 13:33:00,U_1986,view,design,C_401,Advanced CSS & Sass,Design
+2026-07-27 14:31:35,U_1969,search,ads,,,
+2026-07-27 15:17:28,U_1977,search,css,,,
+2026-07-27 15:18:45,U_1977,view,css,C_401,Advanced CSS & Sass,Design
+2026-07-27 15:20:27,U_1977,enroll,css,C_401,Advanced CSS & Sass,Design
+2026-07-27 15:40:44,U_1980,search,ui/ux,,,
+2026-07-27 15:42:07,U_1980,view,ui/ux,C_402,UI/UX Design Fundamentals,Design
+2026-07-27 15:52:43,U_1994,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-27 15:54:28,U_1994,enroll,,C_301,Excel for Beginners to Pro,Business
+2026-07-27 17:01:03,U_1971,search,styling,,,
+2026-07-27 17:11:40,U_1987,search,figma,,,
+2026-07-27 17:11:55,U_1987,view,figma,C_402,UI/UX Design Fundamentals,Design
+2026-07-27 17:12:16,U_1992,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-27 17:14:27,U_1992,enroll,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-27 18:15:19,U_1982,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-27 18:17:52,U_1967,view,,C_201,Mastering React,Web Development
+2026-07-27 18:19:59,U_1967,enroll,,C_201,Mastering React,Web Development
+2026-07-27 18:27:56,U_1985,search,data science,,,
+2026-07-27 18:41:39,U_1991,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-27 18:56:05,U_1973,search,seo,,,
+2026-07-27 18:56:50,U_1973,view,seo,C_501,Digital Marketing Masterclass,Marketing
+2026-07-27 19:26:23,U_1990,search,python,,,
+2026-07-27 20:09:01,U_1997,search,javascript,,,
+2026-07-27 20:55:04,U_1972,search,ui/ux,,,
+2026-07-27 21:25:43,U_1999,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-28 02:31:46,U_2050,view,,C_102,Python for Data Science,Data Science
+2026-07-28 02:39:50,U_2048,view,,C_102,Python for Data Science,Data Science
+2026-07-28 02:39:50,U_2048,view,,C_102,Python for Data Science,Data Science
+2026-07-28 03:36:38,U_2020,search,backend,,,
+2026-07-28 03:37:16,U_2020,view,backend,C_203,Django Web Dev from Scratch,Web Development
+2026-07-28 03:41:39,U_2020,enroll,backend,C_203,Django Web Dev from Scratch,Web Development
+2026-07-28 04:02:41,U_2014,search,data analysis,,,
+2026-07-28 04:04:08,U_2014,view,data analysis,C_301,Excel for Beginners to Pro,Business
+2026-07-28 04:08:00,U_2031,search,learn python,,,
+2026-07-28 04:08:18,U_2031,view,learn python,C_101,Introduction to Python,Data Science
+2026-07-28 06:32:14,U_2039,search,design,,,
+2026-07-28 06:33:28,U_2039,view,design,C_402,UI/UX Design Fundamentals,Design
+2026-07-28 06:40:54,U_2035,search,web development,,,
+2026-07-28 07:36:53,U_2034,search,ml,,,
+2026-07-28 08:18:41,U_2017,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-28 08:20:44,U_2017,enroll,,C_402,UI/UX Design Fundamentals,Design
+2026-07-28 09:27:01,U_2033,search,ai,,,
+2026-07-28 09:28:18,U_2033,view,ai,C_103,Machine Learning Bootcamp,Data Science
+2026-07-28 09:28:18,U_2033,view,ai,C_103,Machine Learning Bootcamp,Data Science
+2026-07-28 09:29:31,U_2009,search,seo,,,
+2026-07-28 09:30:01,U_2009,view,seo,C_501,Digital Marketing Masterclass,Marketing
+2026-07-28 09:49:36,U_2011,search,data science,,,
+2026-07-28 09:50:54,U_2011,view,data science,C_102,Python for Data Science,Data Science
+2026-07-28 09:51:38,U_2001,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-28 09:52:46,U_2001,enroll,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-28 09:54:27,U_2011,enroll,data science,C_102,Python for Data Science,Data Science
+2026-07-28 09:59:28,U_2047,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-28 10:04:17,U_2037,search,ui/ux,,,
+2026-07-28 10:06:50,U_2043,search,data analysis,,,
+2026-07-28 10:07:35,U_2043,view,data analysis,C_301,Excel for Beginners to Pro,Business
+2026-07-28 10:25:07,U_2029,search,wireframe,,,
+2026-07-28 10:26:20,U_2029,view,wireframe,C_402,UI/UX Design Fundamentals,Design
+2026-07-28 10:26:53,U_2040,search,tutorial,,,
+2026-07-28 10:58:51,U_2022,search,ml,,,
+2026-07-28 10:59:44,U_2022,view,ml,C_103,Machine Learning Bootcamp,Data Science
+2026-07-28 12:04:06,U_2000,search,coding python,,,
+2026-07-28 12:04:51,U_2000,view,coding python,C_101,Introduction to Python,Data Science
+2026-07-28 12:10:47,U_2010,search,javascript,,,
+2026-07-28 12:48:42,U_2026,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-28 12:51:42,U_2026,enroll,,C_301,Excel for Beginners to Pro,Business
+2026-07-28 13:00:15,U_2052,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-28 13:03:54,U_2052,enroll,,C_301,Excel for Beginners to Pro,Business
+2026-07-28 14:24:19,U_2002,search,course,,,
+2026-07-28 14:27:47,U_2018,search,database,,,
+2026-07-28 14:51:54,U_2041,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-28 15:40:54,U_2032,search,deep learning,,,
+2026-07-28 16:16:22,U_2044,search,machine learning,,,
+2026-07-28 16:16:45,U_2044,view,machine learning,C_103,Machine Learning Bootcamp,Data Science
+2026-07-28 16:57:09,U_2046,search,deep learning,,,
+2026-07-28 17:18:02,U_2036,search,business,,,
+2026-07-28 17:18:46,U_2036,view,business,C_301,Excel for Beginners to Pro,Business
+2026-07-28 17:19:40,U_2036,enroll,business,C_301,Excel for Beginners to Pro,Business
+2026-07-28 17:29:43,U_2021,search,figma,,,
+2026-07-28 17:31:01,U_2021,view,figma,C_402,UI/UX Design Fundamentals,Design
+2026-07-28 17:39:53,U_2006,view,,C_201,Mastering React,Web Development
+2026-07-28 17:43:18,U_2006,enroll,,C_201,Mastering React,Web Development
+2026-07-28 17:43:18,U_2006,enroll,,C_201,Mastering React,Web Development
+2026-07-28 17:47:31,U_2007,search,ai,,,
+2026-07-28 17:47:52,U_2007,view,ai,C_103,Machine Learning Bootcamp,Data Science
+2026-07-28 17:51:03,U_2015,search,business,,,
+2026-07-28 17:51:29,U_2015,view,business,C_302,SQL Essentials for Business,Business
+2026-07-28 17:53:45,U_2015,enroll,business,C_302,SQL Essentials for Business,Business
+2026-07-28 18:20:45,U_2004,search,data science,,,
+2026-07-28 18:21:14,U_2004,view,data science,C_103,Machine Learning Bootcamp,Data Science
+2026-07-28 18:39:41,U_2038,search,social media,,,
+2026-07-28 18:39:41,U_2038,search,social media,,,
+2026-07-28 18:39:58,U_2038,view,social media,C_501,Digital Marketing Masterclass,Marketing
+2026-07-28 18:42:30,U_2042,view,,C_103,Machine Learning Bootcamp,Data Science
+2026-07-28 19:07:55,U_2049,search,react,,,
+2026-07-28 19:08:07,U_2051,search,ai,,,
+2026-07-28 19:14:31,U_2045,search,frontend,,,
+2026-07-28 19:16:10,U_2008,search,django,,,
+2026-07-28 19:16:55,U_2028,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-28 19:17:28,U_2008,view,django,C_203,Django Web Dev from Scratch,Web Development
+2026-07-28 19:17:47,U_2005,view,,C_202,Next.js Complete Guide,Web Development
+2026-07-28 19:22:12,U_2005,enroll,,C_202,Next.js Complete Guide,Web Development
+2026-07-28 19:39:23,U_2030,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-28 19:51:11,U_2027,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-28 19:53:30,U_2027,enroll,,C_104,Deep Learning Specialization,Data Science
+2026-07-28 19:57:35,U_2003,search,data science,,,
+2026-07-28 19:58:11,U_2003,view,data science,C_103,Machine Learning Bootcamp,Data Science
+2026-07-28 20:02:05,U_2025,view,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-28 20:04:58,U_2023,search,numpy,,,
+2026-07-28 20:06:05,U_2023,view,numpy,C_102,Python for Data Science,Data Science
+2026-07-28 20:06:53,U_2019,search,tensorflow,,,
+2026-07-28 20:08:59,U_2023,enroll,numpy,C_102,Python for Data Science,Data Science
+2026-07-28 20:25:05,U_2016,view,,C_101,Introduction to Python,Data Science
+2026-07-28 20:27:36,U_2016,enroll,,C_101,Introduction to Python,Data Science
+2026-07-28 20:30:29,U_2013,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-28 21:49:32,U_2024,search,social media,,,
+2026-07-28 22:43:07,U_2012,search,css,,,
+2026-07-28 22:44:03,U_2012,view,css,C_401,Advanced CSS & Sass,Design
+2026-07-29 01:19:18,U_2074,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-29 04:54:26,U_2073,search,frontend,,,
+2026-07-29 04:54:46,U_2073,view,frontend,C_202,Next.js Complete Guide,Web Development
+2026-07-29 06:33:12,U_2082,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-29 06:34:06,U_2082,enroll,,C_301,Excel for Beginners to Pro,Business
+2026-07-29 07:12:52,U_2068,search,excel,,,
+2026-07-29 07:13:25,U_2068,view,excel,C_301,Excel for Beginners to Pro,Business
+2026-07-29 07:17:40,U_2068,enroll,excel,C_301,Excel for Beginners to Pro,Business
+2026-07-29 09:02:42,U_2079,search,design,,,
+2026-07-29 09:33:07,U_2072,search,business,,,
+2026-07-29 09:33:26,U_2072,view,business,C_301,Excel for Beginners to Pro,Business
+2026-07-29 09:50:52,U_2067,search,figma,,,
+2026-07-29 09:51:55,U_2067,view,figma,C_402,UI/UX Design Fundamentals,Design
+2026-07-29 09:54:46,U_2067,enroll,figma,C_402,UI/UX Design Fundamentals,Design
+2026-07-29 10:10:09,U_2071,search,business,,,
+2026-07-29 10:25:55,U_2070,search,business,,,
+2026-07-29 10:27:06,U_2070,view,business,C_301,Excel for Beginners to Pro,Business
+2026-07-29 11:07:28,U_2065,view,,C_201,Mastering React,Web Development
+2026-07-29 11:11:01,U_2083,view,,C_201,Mastering React,Web Development
+2026-07-29 11:13:31,U_2083,enroll,,C_201,Mastering React,Web Development
+2026-07-29 11:16:40,U_2064,view,,C_302,SQL Essentials for Business,Business
+2026-07-29 11:20:26,U_2064,enroll,,C_302,SQL Essentials for Business,Business
+2026-07-29 11:44:35,U_2058,view,,C_201,Mastering React,Web Development
+2026-07-29 11:46:53,U_2077,search,ai,,,
+2026-07-29 11:48:05,U_2077,view,ai,C_103,Machine Learning Bootcamp,Data Science
+2026-07-29 11:49:00,U_2056,search,sql,,,
+2026-07-29 11:49:25,U_2056,view,sql,C_302,SQL Essentials for Business,Business
+2026-07-29 11:56:08,U_2069,search,excel,,,
+2026-07-29 11:57:10,U_2069,view,excel,C_301,Excel for Beginners to Pro,Business
+2026-07-29 12:01:21,U_2069,enroll,excel,C_301,Excel for Beginners to Pro,Business
+2026-07-29 12:04:55,U_2076,search,data analysis,,,
+2026-07-29 12:06:22,U_2076,view,data analysis,C_301,Excel for Beginners to Pro,Business
+2026-07-29 12:16:05,U_2086,search,data science,,,
+2026-07-29 12:16:56,U_2086,view,data science,C_102,Python for Data Science,Data Science
+2026-07-29 12:17:57,U_2059,search,ai,,,
+2026-07-29 12:19:09,U_2059,view,ai,C_103,Machine Learning Bootcamp,Data Science
+2026-07-29 16:26:43,U_2087,search,styling,,,
+2026-07-29 16:27:21,U_2087,view,styling,C_401,Advanced CSS & Sass,Design
+2026-07-29 16:28:35,U_2087,enroll,styling,C_401,Advanced CSS & Sass,Design
+2026-07-29 16:50:41,U_2060,view,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-29 17:51:39,U_2078,search,web development,,,
+2026-07-29 18:03:25,U_2057,search,figma,,,
+2026-07-29 18:04:53,U_2057,view,figma,C_402,UI/UX Design Fundamentals,Design
+2026-07-29 18:35:05,U_2081,search,design,,,
+2026-07-29 18:46:27,U_2063,view,,C_302,SQL Essentials for Business,Business
+2026-07-29 18:50:14,U_2054,search,web development,,,
+2026-07-29 18:51:47,U_2066,view,,C_401,Advanced CSS & Sass,Design
+2026-07-29 18:54:31,U_2066,enroll,,C_401,Advanced CSS & Sass,Design
+2026-07-29 19:34:21,U_2061,search,seo,,,
+2026-07-29 19:56:37,U_2084,view,,C_301,Excel for Beginners to Pro,Business
+2026-07-29 20:23:45,U_2053,search,react,,,
+2026-07-29 20:25:37,U_2085,search,coding python,,,
+2026-07-29 20:26:47,U_2085,view,coding python,C_101,Introduction to Python,Data Science
+2026-07-29 21:45:01,U_2080,view,,C_401,Advanced CSS & Sass,Design
+2026-07-29 22:05:32,U_2062,search,data analysis,,,
+2026-07-29 22:06:07,U_2062,view,data analysis,C_302,SQL Essentials for Business,Business
+2026-07-29 22:09:04,U_2062,enroll,data analysis,C_302,SQL Essentials for Business,Business
+2026-07-29 22:37:26,U_2075,search,frontend,,,
+2026-07-29 22:38:08,U_2075,view,frontend,C_201,Mastering React,Web Development
+2026-07-29 22:43:03,U_2075,enroll,frontend,C_201,Mastering React,Web Development
+2026-07-29 23:33:50,U_2055,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-30 05:50:56,U_2101,search,python,,,
+2026-07-30 05:52:07,U_2101,view,python,C_102,Python for Data Science,Data Science
+2026-07-30 07:37:07,U_2117,search,python,,,
+2026-07-30 07:38:10,U_2117,view,python,C_101,Introduction to Python,Data Science
+2026-07-30 08:22:53,U_2096,search,design,,,
+2026-07-30 08:23:44,U_2096,view,design,C_401,Advanced CSS & Sass,Design
+2026-07-30 08:25:04,U_2096,enroll,design,C_401,Advanced CSS & Sass,Design
+2026-07-30 08:26:57,U_2088,search,django,,,
+2026-07-30 08:27:18,U_2088,view,django,C_203,Django Web Dev from Scratch,Web Development
+2026-07-30 08:32:31,U_2106,search,neural networks,,,
+2026-07-30 08:39:06,U_2120,view,,C_202,Next.js Complete Guide,Web Development
+2026-07-30 08:41:03,U_2110,search,django,,,
+2026-07-30 09:02:56,U_2112,search,coding python,,,
+2026-07-30 09:04:04,U_2112,view,coding python,C_101,Introduction to Python,Data Science
+2026-07-30 09:04:30,U_2090,search,figma,,,
+2026-07-30 09:04:47,U_2090,view,figma,C_402,UI/UX Design Fundamentals,Design
+2026-07-30 09:05:56,U_2113,search,learn python,,,
+2026-07-30 09:07:30,U_2112,enroll,coding python,C_101,Introduction to Python,Data Science
+2026-07-30 09:07:53,U_2097,search,data analysis,,,
+2026-07-30 09:09:03,U_2097,view,data analysis,C_302,SQL Essentials for Business,Business
+2026-07-30 09:30:17,U_2095,view,,C_401,Advanced CSS & Sass,Design
+2026-07-30 09:40:16,U_2098,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-30 10:24:25,U_2119,search,python,,,
+2026-07-30 10:24:41,U_2119,view,python,C_203,Django Web Dev from Scratch,Web Development
+2026-07-30 11:08:16,U_2107,view,,C_401,Advanced CSS & Sass,Design
+2026-07-30 11:59:00,U_2100,search,python,,,
+2026-07-30 11:59:37,U_2100,view,python,C_101,Introduction to Python,Data Science
+2026-07-30 13:39:18,U_2094,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-30 13:41:28,U_2094,enroll,,C_402,UI/UX Design Fundamentals,Design
+2026-07-30 14:12:10,U_2114,view,,C_202,Next.js Complete Guide,Web Development
+2026-07-30 14:15:34,U_2114,enroll,,C_202,Next.js Complete Guide,Web Development
+2026-07-30 15:01:30,U_2115,search,coding python,,,
+2026-07-30 15:02:17,U_2115,view,coding python,C_101,Introduction to Python,Data Science
+2026-07-30 15:03:52,U_2116,search,deep learning,,,
+2026-07-30 15:07:04,U_2115,enroll,coding python,C_101,Introduction to Python,Data Science
+2026-07-30 15:35:28,U_2093,view,,C_101,Introduction to Python,Data Science
+2026-07-30 16:50:09,U_2092,search,ml,,,
+2026-07-30 17:34:39,U_2109,search,business,,,
+2026-07-30 18:17:12,U_2108,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-30 18:20:21,U_2099,search,styling,,,
+2026-07-30 19:26:17,U_2111,view,,C_102,Python for Data Science,Data Science
+2026-07-30 19:28:00,U_2103,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-30 19:51:28,U_2118,search,frontend,,,
+2026-07-30 19:51:51,U_2118,view,frontend,C_401,Advanced CSS & Sass,Design
+2026-07-30 20:45:22,U_2104,search,styling,,,
+2026-07-30 20:46:05,U_2104,view,styling,C_401,Advanced CSS & Sass,Design
+2026-07-30 20:50:08,U_2091,search,web development,,,
+2026-07-30 21:38:22,U_2102,search,marketing,,,
+2026-07-30 23:24:07,U_2089,view,,C_201,Mastering React,Web Development
+2026-07-30 23:25:23,U_2089,enroll,,C_201,Mastering React,Web Development
+2026-07-30 23:31:57,U_2105,search,sass,,,
+2026-07-30 23:32:12,U_2105,view,sass,C_401,Advanced CSS & Sass,Design
+2026-07-30 23:36:19,U_2105,enroll,sass,C_401,Advanced CSS & Sass,Design
+2026-07-31 03:03:23,U_2160,search,data science,,,
+2026-07-31 03:04:30,U_2160,view,data science,C_103,Machine Learning Bootcamp,Data Science
+2026-07-31 06:21:54,U_2133,view,,C_302,SQL Essentials for Business,Business
+2026-07-31 06:24:44,U_2133,enroll,,C_302,SQL Essentials for Business,Business
+2026-07-31 06:30:44,U_2127,search,data analysis,,,
+2026-07-31 06:32:13,U_2127,view,data analysis,C_301,Excel for Beginners to Pro,Business
+2026-07-31 06:35:49,U_2127,enroll,data analysis,C_301,Excel for Beginners to Pro,Business
+2026-07-31 06:51:39,U_2136,view,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-31 06:52:57,U_2136,enroll,,C_203,Django Web Dev from Scratch,Web Development
+2026-07-31 08:25:04,U_2157,search,tensorflow,,,
+2026-07-31 08:25:32,U_2157,view,tensorflow,C_104,Deep Learning Specialization,Data Science
+2026-07-31 09:53:16,U_2134,search,nextjs,,,
+2026-07-31 10:21:51,U_2130,view,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-31 10:25:48,U_2130,enroll,,C_501,Digital Marketing Masterclass,Marketing
+2026-07-31 10:26:23,U_2145,search,django,,,
+2026-07-31 11:10:06,U_2128,search,programming,,,
+2026-07-31 11:40:58,U_2142,search,ui/ux,,,
+2026-07-31 11:41:39,U_2142,view,ui/ux,C_402,UI/UX Design Fundamentals,Design
+2026-07-31 11:44:14,U_2129,search,neural networks,,,
+2026-07-31 12:09:20,U_2139,search,design,,,
+2026-07-31 12:09:51,U_2139,view,design,C_402,UI/UX Design Fundamentals,Design
+2026-07-31 13:20:38,U_2138,search,figma,,,
+2026-07-31 13:20:58,U_2138,view,figma,C_402,UI/UX Design Fundamentals,Design
+2026-07-31 13:58:48,U_2132,search,learn python,,,
+2026-07-31 13:59:28,U_2132,view,learn python,C_101,Introduction to Python,Data Science
+2026-07-31 14:12:40,U_2126,search,python,,,
+2026-07-31 14:28:33,U_2144,search,css,,,
+2026-07-31 14:29:47,U_2144,view,css,C_401,Advanced CSS & Sass,Design
+2026-07-31 15:30:50,U_2140,search,data science,,,
+2026-07-31 15:32:10,U_2140,view,data science,C_102,Python for Data Science,Data Science
+2026-07-31 16:49:44,U_2155,search,nextjs,,,
+2026-07-31 17:00:30,U_2151,view,,C_402,UI/UX Design Fundamentals,Design
+2026-07-31 17:13:19,U_2143,search,python,,,
+2026-07-31 17:14:21,U_2143,view,python,C_203,Django Web Dev from Scratch,Web Development
+2026-07-31 17:15:49,U_2143,enroll,python,C_203,Django Web Dev from Scratch,Web Development
+2026-07-31 17:21:12,U_2148,search,frontend,,,
+2026-07-31 17:21:18,U_2125,search,learn python,,,
+2026-07-31 17:21:40,U_2125,view,learn python,C_101,Introduction to Python,Data Science
+2026-07-31 17:22:02,U_2148,view,frontend,C_201,Mastering React,Web Development
+2026-07-31 17:22:52,U_2125,enroll,learn python,C_101,Introduction to Python,Data Science
+2026-07-31 17:47:00,U_2154,search,design,,,
+2026-07-31 17:47:58,U_2154,view,design,C_402,UI/UX Design Fundamentals,Design
+2026-07-31 17:49:44,U_2153,search,business,,,
+2026-07-31 17:50:56,U_2135,search,ai,,,
+2026-07-31 17:51:10,U_2153,view,business,C_301,Excel for Beginners to Pro,Business
+2026-07-31 17:52:09,U_2135,view,ai,C_104,Deep Learning Specialization,Data Science
+2026-07-31 17:53:06,U_2153,enroll,business,C_301,Excel for Beginners to Pro,Business
+2026-07-31 18:00:23,U_2131,search,nextjs,,,
+2026-07-31 18:01:49,U_2131,view,nextjs,C_202,Next.js Complete Guide,Web Development
+2026-07-31 18:09:21,U_2156,view,,C_401,Advanced CSS & Sass,Design
+2026-07-31 18:32:32,U_2147,search,pandas,,,
+2026-07-31 18:33:16,U_2147,view,pandas,C_102,Python for Data Science,Data Science
+2026-07-31 18:34:37,U_2147,enroll,pandas,C_102,Python for Data Science,Data Science
+2026-07-31 19:02:03,U_2123,search,frontend,,,
+2026-07-31 19:02:03,U_2123,search,frontend,,,
+2026-07-31 19:06:06,U_2121,search,marketing,,,
+2026-07-31 19:08:50,U_2137,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-31 19:10:06,U_2158,search,machine learning,,,
+2026-07-31 19:11:23,U_2158,view,machine learning,C_103,Machine Learning Bootcamp,Data Science
+2026-07-31 19:11:28,U_2146,search,ui/ux,,,
+2026-07-31 19:13:49,U_2158,enroll,machine learning,C_103,Machine Learning Bootcamp,Data Science
+2026-07-31 19:18:13,U_2159,view,,C_104,Deep Learning Specialization,Data Science
+2026-07-31 19:19:37,U_2124,view,,C_302,SQL Essentials for Business,Business
+2026-07-31 19:20:45,U_2141,search,social media,,,
+2026-07-31 19:21:36,U_2124,enroll,,C_302,SQL Essentials for Business,Business
+2026-07-31 19:22:50,U_2150,search,sass,,,
+2026-07-31 19:46:47,U_2152,search,tensorflow,,,
+2026-07-31 19:47:34,U_2149,view,,C_201,Mastering React,Web Development
+2026-07-31 19:48:01,U_2152,view,tensorflow,C_104,Deep Learning Specialization,Data Science
+2026-07-31 21:36:08,U_2122,search,frontend,,,
+2026-07-31 21:37:16,U_2122,view,frontend,C_201,Mastering React,Web Development
+2026-07-31 21:41:48,U_2122,enroll,frontend,C_201,Mastering React,Web Development
